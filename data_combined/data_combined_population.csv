@@ -66,6 +66,7 @@ Europe & Central Asia,ECS,1960,667246384.0
 Ecuador,ECU,1960,4545550.0
 "Egypt, Arab Rep.",EGY,1960,26996533.0
 Euro area,EMU,1960,265396502.0
+Eritrea,ERI,1960,1397491.0
 Spain,ESP,1960,30455000.0
 Estonia,EST,1960,1211537.0
 Ethiopia,ETH,1960,22151278.0
@@ -106,6 +107,7 @@ Indonesia,IDN,1960,87792515.0
 IDA only,IDX,1960,259294677.0
 Isle of Man,IMN,1960,48442.0
 India,IND,1960,449480608.0
+Not classified,INX,1960,0.0
 Ireland,IRL,1960,2828600.0
 "Iran, Islamic Rep.",IRN,1960,21906903.0
 Iraq,IRQ,1960,7289761.0
@@ -122,6 +124,7 @@ Cambodia,KHM,1960,5722370.0
 Kiribati,KIR,1960,41233.0
 St. Kitts and Nevis,KNA,1960,51195.0
 "Korea, Rep.",KOR,1960,25012374.0
+Kuwait,KWT,1960,269618.0
 Latin America & Caribbean (excluding high income),LAC,1960,184536470.0
 Lao PDR,LAO,1960,2120896.0
 Lebanon,LBN,1960,1804926.0
@@ -187,9 +190,10 @@ Papua New Guinea,PNG,1960,2010677.0
 Poland,POL,1960,29637450.0
 Pre-demographic dividend,PRE,1960,188636191.0
 Puerto Rico,PRI,1960,2358000.0
-Albania,ALB,1974,0.0003115184780769199
+Albania,ALB,1977,2513546.0
 Portugal,PRT,1960,8857716.0
 Paraguay,PRY,1960,1902875.0
+West Bank and Gaza,PSE,1960,0.0
 Pacific island small states,PSS,1960,865809.0
 Post-demographic dividend,PST,1960,754705296.0
 French Polynesia,PYF,1960,78076.0
@@ -207,6 +211,7 @@ Sierra Leone,SLE,1960,2297110.0
 El Salvador,SLV,1960,2762899.0
 San Marino,SMR,1960,15397.0
 Somalia,SOM,1960,2755947.0
+Serbia,SRB,1960,0.0
 Sub-Saharan Africa (excluding high income),SSA,1960,228544305.0
 South Sudan,SSD,1960,2955152.0
 Sub-Saharan Africa,SSF,1960,228586005.0
@@ -217,6 +222,7 @@ Slovak Republic,SVK,1960,4068095.0
 Slovenia,SVN,1960,1584720.0
 Sweden,SWE,1960,7484656.0
 Swaziland,SWZ,1960,349174.0
+Sint Maarten (Dutch part),SXM,1960,0.0
 Seychelles,SYC,1960,41700.0
 Syrian Arab Republic,SYR,1960,4573512.0
 Turks and Caicos Islands,TCA,1960,5726.0
@@ -324,6 +330,7 @@ Europe & Central Asia,ECS,1961,674972972.0
 Ecuador,ECU,1961,4676859.0
 "Egypt, Arab Rep.",EGY,1961,27744712.0
 Euro area,EMU,1961,267825309.0
+Eritrea,ERI,1961,1432640.0
 Spain,ESP,1961,30739250.0
 Estonia,EST,1961,1225077.0
 Ethiopia,ETH,1961,22671190.0
@@ -364,6 +371,7 @@ Indonesia,IDN,1961,90138235.0
 IDA only,IDX,1961,265653565.0
 Isle of Man,IMN,1961,48281.0
 India,IND,1961,458494963.0
+Not classified,INX,1961,0.0
 Ireland,IRL,1961,2824400.0
 "Iran, Islamic Rep.",IRN,1961,22480418.0
 Iraq,IRQ,1961,7475352.0
@@ -380,6 +388,7 @@ Cambodia,KHM,1961,5873015.0
 Kiribati,KIR,1961,42257.0
 St. Kitts and Nevis,KNA,1961,51193.0
 "Korea, Rep.",KOR,1961,25765673.0
+Kuwait,KWT,1961,301336.0
 Latin America & Caribbean (excluding high income),LAC,1961,190021046.0
 Lao PDR,LAO,1961,2170343.0
 Lebanon,LBN,1961,1864605.0
@@ -445,9 +454,10 @@ Papua New Guinea,PNG,1961,2051947.0
 Poland,POL,1961,29964000.0
 Pre-demographic dividend,PRE,1961,192957526.0
 Puerto Rico,PRI,1961,2399722.0
-Argentina,ARG,2000,0.00492050756161674
+Argentina,ARG,2009,40799407.0
 Portugal,PRT,1961,8929316.0
 Paraguay,PRY,1961,1953328.0
+West Bank and Gaza,PSE,1961,0.0
 Pacific island small states,PSS,1961,894214.0
 Post-demographic dividend,PST,1961,765517069.0
 French Polynesia,PYF,1961,80703.0
@@ -465,6 +475,7 @@ Sierra Leone,SLE,1961,2329204.0
 El Salvador,SLV,1961,2843240.0
 San Marino,SMR,1961,15789.0
 Somalia,SOM,1961,2814096.0
+Serbia,SRB,1961,0.0
 Sub-Saharan Africa (excluding high income),SSA,1961,233965691.0
 South Sudan,SSD,1961,3011110.0
 Sub-Saharan Africa,SSF,1961,234008580.0
@@ -475,6 +486,7 @@ Slovak Republic,SVK,1961,4191667.0
 Slovenia,SVN,1961,1594131.0
 Sweden,SWE,1961,7519998.0
 Swaziland,SWZ,1961,357453.0
+Sint Maarten (Dutch part),SXM,1961,0.0
 Seychelles,SYC,1961,42889.0
 Syrian Arab Republic,SYR,1961,4721896.0
 Turks and Caicos Islands,TCA,1961,5763.0
@@ -582,6 +594,7 @@ Europe & Central Asia,ECS,1962,682938669.0
 Ecuador,ECU,1962,4812890.0
 "Egypt, Arab Rep.",EGY,1962,28506176.0
 Euro area,EMU,1962,270324828.0
+Eritrea,ERI,1962,1469645.0
 Spain,ESP,1962,31023366.0
 Estonia,EST,1962,1241623.0
 Ethiopia,ETH,1962,23221389.0
@@ -622,6 +635,7 @@ Indonesia,IDN,1962,92558005.0
 IDA only,IDX,1962,272234508.0
 Isle of Man,IMN,1962,48418.0
 India,IND,1962,467852537.0
+Not classified,INX,1962,0.0
 Ireland,IRL,1962,2836050.0
 "Iran, Islamic Rep.",IRN,1962,23071429.0
 Iraq,IRQ,1962,7674223.0
@@ -638,6 +652,7 @@ Cambodia,KHM,1962,6028551.0
 Kiribati,KIR,1962,43302.0
 St. Kitts and Nevis,KNA,1962,50966.0
 "Korea, Rep.",KOR,1962,26513030.0
+Kuwait,KWT,1962,338296.0
 Latin America & Caribbean (excluding high income),LAC,1962,195697709.0
 Lao PDR,LAO,1962,2221122.0
 Lebanon,LBN,1962,1925276.0
@@ -703,9 +718,10 @@ Papua New Guinea,PNG,1962,2094687.0
 Poland,POL,1962,30308500.0
 Pre-demographic dividend,PRE,1962,197466057.0
 Puerto Rico,PRI,1962,2450322.0
-Austria,AUT,1968,0.0009841665026117817
+Austria,AUT,1983,7561910.0
 Portugal,PRT,1962,8993985.0
 Paraguay,PRY,1962,2005337.0
+West Bank and Gaza,PSE,1962,0.0
 Pacific island small states,PSS,1962,924221.0
 Post-demographic dividend,PST,1962,774970556.0
 French Polynesia,PYF,1962,83651.0
@@ -723,6 +739,7 @@ Sierra Leone,SLE,1962,2363013.0
 El Salvador,SLV,1962,2927857.0
 San Marino,SMR,1962,16199.0
 Somalia,SOM,1962,2874190.0
+Serbia,SRB,1962,0.0
 Sub-Saharan Africa (excluding high income),SSA,1962,239603097.0
 South Sudan,SSD,1962,3069913.0
 Sub-Saharan Africa,SSF,1962,239647139.0
@@ -733,6 +750,7 @@ Slovak Republic,SVK,1962,4238188.0
 Slovenia,SVN,1962,1603649.0
 Sweden,SWE,1962,7561588.0
 Swaziland,SWZ,1962,365636.0
+Sint Maarten (Dutch part),SXM,1962,0.0
 Seychelles,SYC,1962,44042.0
 Syrian Arab Republic,SYR,1962,4875422.0
 Turks and Caicos Islands,TCA,1962,5763.0
@@ -840,6 +858,7 @@ Europe & Central Asia,ECS,1963,690962675.0
 Ecuador,ECU,1963,4953733.0
 "Egypt, Arab Rep.",EGY,1963,29281250.0
 Euro area,EMU,1963,272876447.0
+Eritrea,ERI,1963,1508273.0
 Spain,ESP,1963,31296651.0
 Estonia,EST,1963,1258857.0
 Ethiopia,ETH,1963,23798429.0
@@ -880,6 +899,7 @@ Indonesia,IDN,1963,95055665.0
 IDA only,IDX,1963,279067522.0
 Isle of Man,IMN,1963,48800.0
 India,IND,1963,477527970.0
+Not classified,INX,1963,0.0
 Ireland,IRL,1963,2852650.0
 "Iran, Islamic Rep.",IRN,1963,23680432.0
 Iraq,IRQ,1963,7888914.0
@@ -896,6 +916,7 @@ Cambodia,KHM,1963,6183747.0
 Kiribati,KIR,1963,44363.0
 St. Kitts and Nevis,KNA,1963,50525.0
 "Korea, Rep.",KOR,1963,27261747.0
+Kuwait,KWT,1963,379891.0
 Latin America & Caribbean (excluding high income),LAC,1963,201536793.0
 Lao PDR,LAO,1963,2273349.0
 Lebanon,LBN,1963,1984980.0
@@ -961,9 +982,10 @@ Papua New Guinea,PNG,1963,2139303.0
 Poland,POL,1963,30712000.0
 Pre-demographic dividend,PRE,1963,202169074.0
 Puerto Rico,PRI,1963,2504530.0
-Benin,BEN,1994,0.0007582564620548272
+Benin,BEN,2015,10575952.0
 Portugal,PRT,1963,9030355.0
 Paraguay,PRY,1963,2058915.0
+West Bank and Gaza,PSE,1963,0.0
 Pacific island small states,PSS,1963,955101.0
 Post-demographic dividend,PST,1963,784274508.0
 French Polynesia,PYF,1963,86837.0
@@ -981,6 +1003,7 @@ Sierra Leone,SLE,1963,2398414.0
 El Salvador,SLV,1963,3015887.0
 San Marino,SMR,1963,16621.0
 Somalia,SOM,1963,2936443.0
+Serbia,SRB,1963,0.0
 Sub-Saharan Africa (excluding high income),SSA,1963,245458090.0
 South Sudan,SSD,1963,3131557.0
 Sub-Saharan Africa,SSF,1963,245503266.0
@@ -991,6 +1014,7 @@ Slovak Republic,SVK,1963,4282017.0
 Slovenia,SVN,1963,1616971.0
 Sweden,SWE,1963,7604328.0
 Swaziland,SWZ,1963,373897.0
+Sint Maarten (Dutch part),SXM,1963,0.0
 Seychelles,SYC,1963,45176.0
 Syrian Arab Republic,SYR,1963,5034646.0
 Turks and Caicos Islands,TCA,1963,5740.0
@@ -1098,6 +1122,7 @@ Europe & Central Asia,ECS,1964,698905664.0
 Ecuador,ECU,1964,5099468.0
 "Egypt, Arab Rep.",EGY,1964,30071102.0
 Euro area,EMU,1964,275382197.0
+Eritrea,ERI,1964,1548187.0
 Spain,ESP,1964,31609195.0
 Estonia,EST,1964,1277086.0
 Ethiopia,ETH,1964,24397024.0
@@ -1138,6 +1163,7 @@ Indonesia,IDN,1964,97638029.0
 IDA only,IDX,1964,286192605.0
 Isle of Man,IMN,1964,49391.0
 India,IND,1964,487484535.0
+Not classified,INX,1964,0.0
 Ireland,IRL,1964,2866550.0
 "Iran, Islamic Rep.",IRN,1964,24308085.0
 Iraq,IRQ,1964,8122199.0
@@ -1154,6 +1180,7 @@ Cambodia,KHM,1964,6331583.0
 Kiribati,KIR,1964,45425.0
 St. Kitts and Nevis,KNA,1964,49930.0
 "Korea, Rep.",KOR,1964,27984155.0
+Kuwait,KWT,1964,425235.0
 Latin America & Caribbean (excluding high income),LAC,1964,207496532.0
 Lao PDR,LAO,1964,2327137.0
 Lebanon,LBN,1964,2041207.0
@@ -1219,8 +1246,10 @@ Papua New Guinea,PNG,1964,2186340.0
 Poland,POL,1964,31139450.0
 Pre-demographic dividend,PRE,1964,207073952.0
 Puerto Rico,PRI,1964,2554066.0
+"Bahamas, The",BHS,1989,251849.0
 Portugal,PRT,1964,9035365.0
 Paraguay,PRY,1964,2114095.0
+West Bank and Gaza,PSE,1964,0.0
 Pacific island small states,PSS,1964,985873.0
 Post-demographic dividend,PST,1964,793405703.0
 French Polynesia,PYF,1964,90132.0
@@ -1238,6 +1267,7 @@ Sierra Leone,SLE,1964,2435204.0
 El Salvador,SLV,1964,3106186.0
 San Marino,SMR,1964,17032.0
 Somalia,SOM,1964,3001126.0
+Serbia,SRB,1964,0.0
 Sub-Saharan Africa (excluding high income),SSA,1964,251530081.0
 South Sudan,SSD,1964,3196113.0
 Sub-Saharan Africa,SSF,1964,251576403.0
@@ -1248,6 +1278,7 @@ Slovak Republic,SVK,1964,4327341.0
 Slovenia,SVN,1964,1632114.0
 Sweden,SWE,1964,7661354.0
 Swaziland,SWZ,1964,382469.0
+Sint Maarten (Dutch part),SXM,1964,0.0
 Seychelles,SYC,1964,46322.0
 Syrian Arab Republic,SYR,1964,5200336.0
 Turks and Caicos Islands,TCA,1964,5710.0
@@ -1355,6 +1386,7 @@ Europe & Central Asia,ECS,1965,706609007.0
 Ecuador,ECU,1965,5250119.0
 "Egypt, Arab Rep.",EGY,1965,30875964.0
 Euro area,EMU,1965,277856703.0
+Eritrea,ERI,1965,1589179.0
 Spain,ESP,1965,31954292.0
 Estonia,EST,1965,1294566.0
 Ethiopia,ETH,1965,25013626.0
@@ -1395,6 +1427,7 @@ Indonesia,IDN,1965,100308894.0
 IDA only,IDX,1965,293627945.0
 Isle of Man,IMN,1965,50141.0
 India,IND,1965,497702365.0
+Not classified,INX,1965,0.0
 Ireland,IRL,1965,2877300.0
 "Iran, Islamic Rep.",IRN,1965,24955115.0
 Iraq,IRQ,1965,8375793.0
@@ -1411,6 +1444,7 @@ Cambodia,KHM,1965,6467197.0
 Kiribati,KIR,1965,46453.0
 St. Kitts and Nevis,KNA,1965,49214.0
 "Korea, Rep.",KOR,1965,28704674.0
+Kuwait,KWT,1965,473554.0
 Latin America & Caribbean (excluding high income),LAC,1965,213545018.0
 Lao PDR,LAO,1965,2382594.0
 Lebanon,LBN,1965,2092348.0
@@ -1476,9 +1510,9 @@ Papua New Guinea,PNG,1965,2236206.0
 Poland,POL,1965,31444950.0
 Pre-demographic dividend,PRE,1965,212187233.0
 Puerto Rico,PRI,1965,2594000.0
-Bermuda,BMU,1988,7.180005956345328e-06
 Portugal,PRT,1965,8998595.0
 Paraguay,PRY,1965,2170859.0
+West Bank and Gaza,PSE,1965,0.0
 Pacific island small states,PSS,1965,1015765.0
 Post-demographic dividend,PST,1965,802234753.0
 French Polynesia,PYF,1965,93438.0
@@ -1496,6 +1530,7 @@ Sierra Leone,SLE,1965,2473294.0
 El Salvador,SLV,1965,3197863.0
 San Marino,SMR,1965,17441.0
 Somalia,SOM,1965,3068437.0
+Serbia,SRB,1965,0.0
 Sub-Saharan Africa (excluding high income),SSA,1965,257821109.0
 South Sudan,SSD,1965,3263638.0
 Sub-Saharan Africa,SSF,1965,257868609.0
@@ -1506,6 +1541,7 @@ Slovak Republic,SVK,1965,4370983.0
 Slovenia,SVN,1965,1649160.0
 Sweden,SWE,1965,7733853.0
 Swaziland,SWZ,1965,391546.0
+Sint Maarten (Dutch part),SXM,1965,0.0
 Seychelles,SYC,1965,47500.0
 Syrian Arab Republic,SYR,1965,5373137.0
 Turks and Caicos Islands,TCA,1965,5672.0
@@ -1613,6 +1649,7 @@ Europe & Central Asia,ECS,1966,713341112.0
 Ecuador,ECU,1966,5405685.0
 "Egypt, Arab Rep.",EGY,1966,31697616.0
 Euro area,EMU,1966,280147494.0
+Eritrea,ERI,1966,1631147.0
 Spain,ESP,1966,32283194.0
 Estonia,EST,1966,1308597.0
 Ethiopia,ETH,1966,25641376.0
@@ -1653,6 +1690,7 @@ Indonesia,IDN,1966,103067354.0
 IDA only,IDX,1966,301407966.0
 Isle of Man,IMN,1966,51049.0
 India,IND,1966,508161935.0
+Not classified,INX,1966,0.0
 Ireland,IRL,1966,2888800.0
 "Iran, Islamic Rep.",IRN,1966,25624656.0
 Iraq,IRQ,1966,8651164.0
@@ -1669,6 +1707,7 @@ Cambodia,KHM,1966,6584766.0
 Kiribati,KIR,1966,47459.0
 St. Kitts and Nevis,KNA,1966,48358.0
 "Korea, Rep.",KOR,1966,29435571.0
+Kuwait,KWT,1966,524856.0
 Latin America & Caribbean (excluding high income),LAC,1966,219670768.0
 Lao PDR,LAO,1966,2439196.0
 Lebanon,LBN,1966,2136636.0
@@ -1734,9 +1773,10 @@ Papua New Guinea,PNG,1966,2289109.0
 Poland,POL,1966,31681000.0
 Pre-demographic dividend,PRE,1966,217522775.0
 Puerto Rico,PRI,1966,2624995.0
-Brunei Darussalam,BRN,2014,5.410434872316333e-05
+Bhutan,BTN,1995,514877.0
 Portugal,PRT,1966,8930990.0
 Paraguay,PRY,1966,2229376.0
+West Bank and Gaza,PSE,1966,0.0
 Pacific island small states,PSS,1966,1044547.0
 Post-demographic dividend,PST,1966,810477286.0
 French Polynesia,PYF,1966,96732.0
@@ -1754,6 +1794,7 @@ Sierra Leone,SLE,1966,2512652.0
 El Salvador,SLV,1966,3290411.0
 San Marino,SMR,1966,17835.0
 Somalia,SOM,1966,3143836.0
+Serbia,SRB,1966,0.0
 Sub-Saharan Africa (excluding high income),SSA,1966,264337472.0
 South Sudan,SSD,1966,3334191.0
 Sub-Saharan Africa,SSF,1966,264386171.0
@@ -1764,6 +1805,7 @@ Slovak Republic,SVK,1966,4411666.0
 Slovenia,SVN,1966,1669905.0
 Sweden,SWE,1966,7807797.0
 Swaziland,SWZ,1966,401183.0
+Sint Maarten (Dutch part),SXM,1966,0.0
 Seychelles,SYC,1966,48699.0
 Syrian Arab Republic,SYR,1966,5553246.0
 Turks and Caicos Islands,TCA,1966,5629.0
@@ -1871,6 +1913,7 @@ Europe & Central Asia,ECS,1967,719879789.0
 Ecuador,ECU,1967,5566057.0
 "Egypt, Arab Rep.",EGY,1967,32534021.0
 Euro area,EMU,1967,282114545.0
+Eritrea,ERI,1967,1674204.0
 Spain,ESP,1967,32682947.0
 Estonia,EST,1967,1318946.0
 Ethiopia,ETH,1967,26281208.0
@@ -1911,6 +1954,7 @@ Indonesia,IDN,1967,105907403.0
 IDA only,IDX,1967,309503409.0
 Isle of Man,IMN,1967,52118.0
 India,IND,1967,518889779.0
+Not classified,INX,1967,0.0
 Ireland,IRL,1967,2902450.0
 "Iran, Islamic Rep.",IRN,1967,26318119.0
 Iraq,IRQ,1967,8947404.0
@@ -1927,6 +1971,7 @@ Cambodia,KHM,1967,6685321.0
 Kiribati,KIR,1967,48437.0
 St. Kitts and Nevis,KNA,1967,47380.0
 "Korea, Rep.",KOR,1967,30130983.0
+Kuwait,KWT,1967,579007.0
 Latin America & Caribbean (excluding high income),LAC,1967,225877250.0
 Lao PDR,LAO,1967,2496920.0
 Lebanon,LBN,1967,2174845.0
@@ -1992,9 +2037,10 @@ Papua New Guinea,PNG,1967,2344977.0
 Poland,POL,1967,31987155.0
 Pre-demographic dividend,PRE,1967,223086567.0
 Puerto Rico,PRI,1967,2645674.0
-Central Europe and the Baltics,CEB,1982,0.014310945838473369
+Switzerland,CHE,1969,6136387.0
 Portugal,PRT,1967,8874520.0
 Paraguay,PRY,1967,2289582.0
+West Bank and Gaza,PSE,1967,0.0
 Pacific island small states,PSS,1967,1072398.0
 Post-demographic dividend,PST,1967,818162391.0
 French Polynesia,PYF,1967,100029.0
@@ -2012,6 +2058,7 @@ Sierra Leone,SLE,1967,2553529.0
 El Salvador,SLV,1967,3383701.0
 San Marino,SMR,1967,18229.0
 Somalia,SOM,1967,3228495.0
+Serbia,SRB,1967,0.0
 Sub-Saharan Africa (excluding high income),SSA,1967,271089360.0
 South Sudan,SSD,1967,3407800.0
 Sub-Saharan Africa,SSF,1967,271139271.0
@@ -2022,6 +2069,7 @@ Slovak Republic,SVK,1967,4449367.0
 Slovenia,SVN,1967,1689528.0
 Sweden,SWE,1967,7867931.0
 Swaziland,SWZ,1967,411352.0
+Sint Maarten (Dutch part),SXM,1967,0.0
 Seychelles,SYC,1967,49911.0
 Syrian Arab Republic,SYR,1967,5740710.0
 Turks and Caicos Islands,TCA,1967,5590.0
@@ -2074,6 +2122,7 @@ Armenia,ARM,1968,2401140.0
 American Samoa,ASM,1968,25885.0
 Antigua and Barbuda,ATG,1968,64655.0
 Australia,AUS,1968,12009000.0
+Austria,AUT,1968,7415403.0
 Azerbaijan,AZE,1968,4960235.0
 Burundi,BDI,1968,3316233.0
 Belgium,BEL,1968,9618756.0
@@ -2128,6 +2177,7 @@ Europe & Central Asia,ECS,1968,726161895.0
 Ecuador,ECU,1968,5730906.0
 "Egypt, Arab Rep.",EGY,1968,33377259.0
 Euro area,EMU,1968,283966953.0
+Eritrea,ERI,1968,1718525.0
 Spain,ESP,1968,33113134.0
 Estonia,EST,1968,1331214.0
 Ethiopia,ETH,1968,26946079.0
@@ -2168,6 +2218,7 @@ Indonesia,IDN,1968,108821564.0
 IDA only,IDX,1968,317822154.0
 Isle of Man,IMN,1968,53254.0
 India,IND,1968,529967317.0
+Not classified,INX,1968,0.0
 Ireland,IRL,1968,2915550.0
 "Iran, Islamic Rep.",IRN,1968,27032943.0
 Iraq,IRQ,1968,9260682.0
@@ -2184,6 +2235,7 @@ Cambodia,KHM,1968,6778723.0
 Kiribati,KIR,1968,49388.0
 St. Kitts and Nevis,KNA,1968,46402.0
 "Korea, Rep.",KOR,1968,30838302.0
+Kuwait,KWT,1968,634897.0
 Latin America & Caribbean (excluding high income),LAC,1968,232165931.0
 Lao PDR,LAO,1968,2556852.0
 Lebanon,LBN,1968,2210959.0
@@ -2249,9 +2301,10 @@ Papua New Guinea,PNG,1968,2403595.0
 Poland,POL,1968,32294655.0
 Pre-demographic dividend,PRE,1968,228868113.0
 Puerto Rico,PRI,1968,2662064.0
-China,CHN,2008,0.17590811694268577
+Cote d'Ivoire,CIV,2001,17040152.0
 Portugal,PRT,1968,8836650.0
 Paraguay,PRY,1968,2350901.0
+West Bank and Gaza,PSE,1968,0.0
 Pacific island small states,PSS,1968,1099416.0
 Post-demographic dividend,PST,1968,824881275.0
 French Polynesia,PYF,1968,103386.0
@@ -2269,6 +2322,7 @@ Sierra Leone,SLE,1968,2596568.0
 El Salvador,SLV,1968,3477742.0
 San Marino,SMR,1968,18589.0
 Somalia,SOM,1968,3313786.0
+Serbia,SRB,1968,0.0
 Sub-Saharan Africa (excluding high income),SSA,1968,278087862.0
 South Sudan,SSD,1968,3484537.0
 Sub-Saharan Africa,SSF,1968,278138996.0
@@ -2279,6 +2333,7 @@ Slovak Republic,SVK,1968,4483915.0
 Slovenia,SVN,1968,1704546.0
 Sweden,SWE,1968,7912273.0
 Swaziland,SWZ,1968,422140.0
+Sint Maarten (Dutch part),SXM,1968,0.0
 Seychelles,SYC,1968,51134.0
 Syrian Arab Republic,SYR,1968,5935860.0
 Turks and Caicos Islands,TCA,1968,5559.0
@@ -2354,7 +2409,6 @@ Botswana,BWA,1969,673640.0
 Central African Republic,CAF,1969,1792220.0
 Canada,CAN,1969,21028000.0
 Central Europe and the Baltics,CEB,1969,98602140.0
-Switzerland,CHE,1969,6136387.0
 Channel Islands,CHI,1969,119972.0
 Chile,CHL,1969,9378243.0
 China,CHN,1969,796025000.0
@@ -2386,6 +2440,7 @@ Europe & Central Asia,ECS,1969,732317863.0
 Ecuador,ECU,1969,5899845.0
 "Egypt, Arab Rep.",EGY,1969,34216826.0
 Euro area,EMU,1969,285855058.0
+Eritrea,ERI,1969,1764343.0
 Spain,ESP,1969,33441054.0
 Estonia,EST,1969,1345249.0
 Ethiopia,ETH,1969,27654161.0
@@ -2426,6 +2481,7 @@ Indonesia,IDN,1969,111800091.0
 IDA only,IDX,1969,326233846.0
 Isle of Man,IMN,1969,54376.0
 India,IND,1969,541505076.0
+Not classified,INX,1969,0.0
 Ireland,IRL,1969,2932650.0
 "Iran, Islamic Rep.",IRN,1969,27765243.0
 Iraq,IRQ,1969,9585576.0
@@ -2442,6 +2498,7 @@ Cambodia,KHM,1969,6879184.0
 Kiribati,KIR,1969,50294.0
 St. Kitts and Nevis,KNA,1969,45534.0
 "Korea, Rep.",KOR,1969,31544266.0
+Kuwait,KWT,1969,691129.0
 Latin America & Caribbean (excluding high income),LAC,1969,238543508.0
 Lao PDR,LAO,1969,2620434.0
 Lebanon,LBN,1969,2250602.0
@@ -2507,9 +2564,10 @@ Papua New Guinea,PNG,1969,2464548.0
 Poland,POL,1969,32548300.0
 Pre-demographic dividend,PRE,1969,234850584.0
 Puerto Rico,PRI,1969,2684150.0
-Colombia,COL,1976,0.00336227496244477
+Comoros,COM,1975,257290.0
 Portugal,PRT,1969,8757705.0
 Paraguay,PRY,1969,2412566.0
+West Bank and Gaza,PSE,1969,0.0
 Pacific island small states,PSS,1969,1125870.0
 Post-demographic dividend,PST,1969,833307280.0
 French Polynesia,PYF,1969,106857.0
@@ -2527,6 +2585,7 @@ Sierra Leone,SLE,1969,2642608.0
 El Salvador,SLV,1969,3572707.0
 San Marino,SMR,1969,18895.0
 Somalia,SOM,1969,3387632.0
+Serbia,SRB,1969,0.0
 Sub-Saharan Africa (excluding high income),SSA,1969,285345634.0
 South Sudan,SSD,1969,3564465.0
 Sub-Saharan Africa,SSF,1969,285397999.0
@@ -2537,6 +2596,7 @@ Slovak Republic,SVK,1969,4518607.0
 Slovenia,SVN,1969,1713874.0
 Sweden,SWE,1969,7968072.0
 Swaziland,SWZ,1969,433588.0
+Sint Maarten (Dutch part),SXM,1969,0.0
 Seychelles,SYC,1969,52365.0
 Syrian Arab Republic,SYR,1969,6139048.0
 Turks and Caicos Islands,TCA,1969,5571.0
@@ -2644,6 +2704,7 @@ Europe & Central Asia,ECS,1970,737948178.0
 Ecuador,ECU,1970,6072527.0
 "Egypt, Arab Rep.",EGY,1970,35046273.0
 Euro area,EMU,1970,287416205.0
+Eritrea,ERI,1970,1811878.0
 Spain,ESP,1970,33814531.0
 Estonia,EST,1970,1360076.0
 Ethiopia,ETH,1970,28415077.0
@@ -2684,6 +2745,7 @@ Indonesia,IDN,1970,114834780.0
 IDA only,IDX,1970,334648593.0
 Isle of Man,IMN,1970,55425.0
 India,IND,1970,553578513.0
+Not classified,INX,1970,0.0
 Ireland,IRL,1970,2957250.0
 "Iran, Islamic Rep.",IRN,1970,28514010.0
 Iraq,IRQ,1970,9917983.0
@@ -2700,6 +2762,7 @@ Cambodia,KHM,1970,6994848.0
 Kiribati,KIR,1970,51178.0
 St. Kitts and Nevis,KNA,1970,44885.0
 "Korea, Rep.",KOR,1970,32240827.0
+Kuwait,KWT,1970,746767.0
 Latin America & Caribbean (excluding high income),LAC,1970,245013878.0
 Lao PDR,LAO,1970,2688428.0
 Lebanon,LBN,1970,2297389.0
@@ -2765,9 +2828,10 @@ Papua New Guinea,PNG,1970,2527586.0
 Poland,POL,1970,32664300.0
 Pre-demographic dividend,PRE,1970,241027706.0
 Puerto Rico,PRI,1970,2718000.0
-Caribbean small states,CSS,2002,0.0008790438478971912
+Cuba,CUB,2007,11303687.0
 Portugal,PRT,1970,8680431.0
 Paraguay,PRY,1970,2474106.0
+West Bank and Gaza,PSE,1970,0.0
 Pacific island small states,PSS,1970,1152036.0
 Post-demographic dividend,PST,1970,840843453.0
 French Polynesia,PYF,1970,110495.0
@@ -2785,6 +2849,7 @@ Sierra Leone,SLE,1970,2692259.0
 El Salvador,SLV,1970,3668595.0
 San Marino,SMR,1970,19138.0
 Somalia,SOM,1970,3444553.0
+Serbia,SRB,1970,0.0
 Sub-Saharan Africa (excluding high income),SSA,1970,292875474.0
 South Sudan,SSD,1970,3647709.0
 Sub-Saharan Africa,SSF,1970,292929074.0
@@ -2795,6 +2860,7 @@ Slovak Republic,SVK,1970,4538223.0
 Slovenia,SVN,1970,1724891.0
 Sweden,SWE,1970,8042801.0
 Swaziland,SWZ,1970,445729.0
+Sint Maarten (Dutch part),SXM,1970,0.0
 Seychelles,SYC,1970,53600.0
 Syrian Arab Republic,SYR,1970,6350541.0
 Turks and Caicos Islands,TCA,1970,5633.0
@@ -2902,6 +2968,7 @@ Europe & Central Asia,ECS,1971,743607439.0
 Ecuador,ECU,1971,6248835.0
 "Egypt, Arab Rep.",EGY,1971,35863382.0
 Euro area,EMU,1971,289032499.0
+Eritrea,ERI,1971,1861199.0
 Spain,ESP,1971,34224490.0
 Estonia,EST,1971,1376955.0
 Ethiopia,ETH,1971,29245207.0
@@ -2942,6 +3009,7 @@ Indonesia,IDN,1971,117921998.0
 IDA only,IDX,1971,343041798.0
 Isle of Man,IMN,1971,56352.0
 India,IND,1971,566224812.0
+Not classified,INX,1971,0.0
 Ireland,IRL,1971,2992050.0
 "Iran, Islamic Rep.",IRN,1971,29281268.0
 Iraq,IRQ,1971,10255903.0
@@ -2958,6 +3026,7 @@ Cambodia,KHM,1971,7137749.0
 Kiribati,KIR,1971,52025.0
 St. Kitts and Nevis,KNA,1971,44495.0
 "Korea, Rep.",KOR,1971,32882704.0
+Kuwait,KWT,1971,801142.0
 Latin America & Caribbean (excluding high income),LAC,1971,251573313.0
 Lao PDR,LAO,1971,2762265.0
 Lebanon,LBN,1971,2353555.0
@@ -3023,8 +3092,10 @@ Papua New Guinea,PNG,1971,2592628.0
 Poland,POL,1971,32783500.0
 Pre-demographic dividend,PRE,1971,247376381.0
 Puerto Rico,PRI,1971,2762190.0
+Germany,DEU,1981,78407907.0
 Portugal,PRT,1971,8643756.0
 Paraguay,PRY,1971,2535359.0
+West Bank and Gaza,PSE,1971,0.0
 Pacific island small states,PSS,1971,1177890.0
 Post-demographic dividend,PST,1971,848964693.0
 French Polynesia,PYF,1971,114313.0
@@ -3042,6 +3113,7 @@ Sierra Leone,SLE,1971,2745779.0
 El Salvador,SLV,1971,3765166.0
 San Marino,SMR,1971,19303.0
 Somalia,SOM,1971,3470324.0
+Serbia,SRB,1971,0.0
 Sub-Saharan Africa (excluding high income),SSA,1971,300682328.0
 South Sudan,SSD,1971,3734418.0
 Sub-Saharan Africa,SSF,1971,300737023.0
@@ -3052,6 +3124,7 @@ Slovak Republic,SVK,1971,4557449.0
 Slovenia,SVN,1971,1738335.0
 Sweden,SWE,1971,8098334.0
 Swaziland,SWZ,1971,458605.0
+Sint Maarten (Dutch part),SXM,1971,0.0
 Seychelles,SYC,1971,54695.0
 Syrian Arab Republic,SYR,1971,6570857.0
 Turks and Caicos Islands,TCA,1971,5756.0
@@ -3159,6 +3232,7 @@ Europe & Central Asia,ECS,1972,749815857.0
 Ecuador,ECU,1972,6428711.0
 "Egypt, Arab Rep.",EGY,1972,36673642.0
 Euro area,EMU,1972,291040689.0
+Eritrea,ERI,1972,1912302.0
 Spain,ESP,1972,34604469.0
 Estonia,EST,1972,1392518.0
 Ethiopia,ETH,1972,30132580.0
@@ -3199,6 +3273,7 @@ Indonesia,IDN,1972,121059513.0
 IDA only,IDX,1972,351467211.0
 Isle of Man,IMN,1972,57154.0
 India,IND,1972,579411513.0
+Not classified,INX,1972,0.0
 Ireland,IRL,1972,3036850.0
 "Iran, Islamic Rep.",IRN,1972,30074298.0
 Iraq,IRQ,1972,10599845.0
@@ -3215,6 +3290,7 @@ Cambodia,KHM,1972,7300152.0
 Kiribati,KIR,1972,52824.0
 St. Kitts and Nevis,KNA,1972,44326.0
 "Korea, Rep.",KOR,1972,33505406.0
+Kuwait,KWT,1972,854604.0
 Latin America & Caribbean (excluding high income),LAC,1972,258215063.0
 Lao PDR,LAO,1972,2840841.0
 Lebanon,LBN,1972,2416735.0
@@ -3280,9 +3356,10 @@ Papua New Guinea,PNG,1972,2659851.0
 Poland,POL,1972,33055650.0
 Pre-demographic dividend,PRE,1972,253914730.0
 Puerto Rico,PRI,1972,2817256.0
-Denmark,DNK,1996,0.000698346146023508
+Dominican Republic,DOM,2013,10281296.0
 Portugal,PRT,1972,8630430.0
 Paraguay,PRY,1972,2596739.0
+West Bank and Gaza,PSE,1972,0.0
 Pacific island small states,PSS,1972,1203419.0
 Post-demographic dividend,PST,1972,857032016.0
 French Polynesia,PYF,1972,118279.0
@@ -3300,6 +3377,7 @@ Sierra Leone,SLE,1972,2803031.0
 El Salvador,SLV,1972,3861931.0
 San Marino,SMR,1972,19398.0
 Somalia,SOM,1972,3475022.0
+Serbia,SRB,1972,0.0
 Sub-Saharan Africa (excluding high income),SSA,1972,308775520.0
 South Sudan,SSD,1972,3824762.0
 Sub-Saharan Africa,SSF,1972,308831549.0
@@ -3310,6 +3388,7 @@ Slovak Republic,SVK,1972,4596622.0
 Slovenia,SVN,1972,1752233.0
 Sweden,SWE,1972,8122300.0
 Swaziland,SWZ,1972,472230.0
+Sint Maarten (Dutch part),SXM,1972,0.0
 Seychelles,SYC,1972,56029.0
 Syrian Arab Republic,SYR,1972,6800141.0
 Turks and Caicos Islands,TCA,1972,5922.0
@@ -3417,6 +3496,7 @@ Europe & Central Asia,ECS,1973,755867961.0
 Ecuador,ECU,1973,6611916.0
 "Egypt, Arab Rep.",EGY,1973,37488067.0
 Euro area,EMU,1973,292961768.0
+Eritrea,ERI,1973,1965160.0
 Spain,ESP,1973,34988947.0
 Estonia,EST,1973,1405951.0
 Ethiopia,ETH,1973,31025115.0
@@ -3457,6 +3537,7 @@ Indonesia,IDN,1973,124242298.0
 IDA only,IDX,1973,360007287.0
 Isle of Man,IMN,1973,57900.0
 India,IND,1973,593058926.0
+Not classified,INX,1973,0.0
 Ireland,IRL,1973,3085950.0
 "Iran, Islamic Rep.",IRN,1973,30904271.0
 Iraq,IRQ,1973,10951166.0
@@ -3473,6 +3554,7 @@ Cambodia,KHM,1973,7447285.0
 Kiribati,KIR,1973,53604.0
 St. Kitts and Nevis,KNA,1973,44316.0
 "Korea, Rep.",KOR,1973,34103149.0
+Kuwait,KWT,1973,908520.0
 Latin America & Caribbean (excluding high income),LAC,1973,264937350.0
 Lao PDR,LAO,1973,2919287.0
 Lebanon,LBN,1973,2480419.0
@@ -3538,8 +3620,10 @@ Papua New Guinea,PNG,1973,2729580.0
 Poland,POL,1973,33357200.0
 Pre-demographic dividend,PRE,1973,260725221.0
 Puerto Rico,PRI,1973,2878786.0
+Europe & Central Asia (excluding high income),ECA,1987,375756651.0
 Portugal,PRT,1973,8633100.0
 Paraguay,PRY,1973,2659088.0
+West Bank and Gaza,PSE,1973,0.0
 Pacific island small states,PSS,1973,1228877.0
 Post-demographic dividend,PST,1973,864105636.0
 French Polynesia,PYF,1973,122356.0
@@ -3557,6 +3641,7 @@ Sierra Leone,SLE,1973,2863739.0
 El Salvador,SLV,1973,3958323.0
 San Marino,SMR,1973,19466.0
 Somalia,SOM,1973,3506008.0
+Serbia,SRB,1973,0.0
 Sub-Saharan Africa (excluding high income),SSA,1973,317177235.0
 South Sudan,SSD,1973,3918922.0
 Sub-Saharan Africa,SSF,1973,317234127.0
@@ -3567,6 +3652,7 @@ Slovak Republic,SVK,1973,4641445.0
 Slovenia,SVN,1973,1766697.0
 Sweden,SWE,1973,8136312.0
 Swaziland,SWZ,1973,486561.0
+Sint Maarten (Dutch part),SXM,1973,0.0
 Seychelles,SYC,1973,56892.0
 Syrian Arab Republic,SYR,1973,7037851.0
 Turks and Caicos Islands,TCA,1973,6126.0
@@ -3610,6 +3696,7 @@ Zimbabwe,ZWE,1973,5727044.0
 Aruba,ABW,1974,60528.0
 Afghanistan,AFG,1974,12321541.0
 Angola,AGO,1974,7474338.0
+Albania,ALB,1974,2350124.0
 Andorra,AND,1974,29520.0
 Arab World,ARB,1974,136696761.0
 United Arab Emirates,ARE,1974,471364.0
@@ -3673,6 +3760,7 @@ Europe & Central Asia,ECS,1974,761701324.0
 Ecuador,ECU,1974,6798206.0
 "Egypt, Arab Rep.",EGY,1974,38322022.0
 Euro area,EMU,1974,294689415.0
+Eritrea,ERI,1974,2019717.0
 Spain,ESP,1974,35373335.0
 Estonia,EST,1974,1418169.0
 Ethiopia,ETH,1974,31851708.0
@@ -3713,6 +3801,7 @@ Indonesia,IDN,1974,127465231.0
 IDA only,IDX,1974,368799450.0
 Isle of Man,IMN,1974,58655.0
 India,IND,1974,607050255.0
+Not classified,INX,1974,0.0
 Ireland,IRL,1974,3137500.0
 "Iran, Islamic Rep.",IRN,1974,31785500.0
 Iraq,IRQ,1974,11312305.0
@@ -3729,6 +3818,7 @@ Cambodia,KHM,1974,7531424.0
 Kiribati,KIR,1974,54380.0
 St. Kitts and Nevis,KNA,1974,44331.0
 "Korea, Rep.",KOR,1974,34692266.0
+Kuwait,KWT,1974,964834.0
 Latin America & Caribbean (excluding high income),LAC,1974,271738582.0
 Lao PDR,LAO,1974,2990965.0
 Lebanon,LBN,1974,2535497.0
@@ -3794,9 +3884,9 @@ Papua New Guinea,PNG,1974,2802243.0
 Poland,POL,1974,33678899.0
 Pre-demographic dividend,PRE,1974,267918888.0
 Puerto Rico,PRI,1974,2939299.0
-"Egypt, Arab Rep.",EGY,1990,0.007623535592614696
 Portugal,PRT,1974,8754365.0
 Paraguay,PRY,1974,2723523.0
+West Bank and Gaza,PSE,1974,0.0
 Pacific island small states,PSS,1974,1254518.0
 Post-demographic dividend,PST,1974,872196067.0
 French Polynesia,PYF,1974,126486.0
@@ -3814,6 +3904,7 @@ Sierra Leone,SLE,1974,2927468.0
 El Salvador,SLV,1974,4053713.0
 San Marino,SMR,1974,19562.0
 Somalia,SOM,1974,3627504.0
+Serbia,SRB,1974,0.0
 Sub-Saharan Africa (excluding high income),SSA,1974,325914096.0
 South Sudan,SSD,1974,4017075.0
 Sub-Saharan Africa,SSF,1974,325972033.0
@@ -3824,6 +3915,7 @@ Slovak Republic,SVK,1974,4689623.0
 Slovenia,SVN,1974,1776132.0
 Sweden,SWE,1974,8159955.0
 Swaziland,SWZ,1974,501512.0
+Sint Maarten (Dutch part),SXM,1974,0.0
 Seychelles,SYC,1974,57937.0
 Syrian Arab Republic,SYR,1974,7283177.0
 Turks and Caicos Islands,TCA,1974,6346.0
@@ -3908,7 +4000,6 @@ Cameroon,CMR,1975,7457362.0
 "Congo, Dem. Rep.",COD,1975,22902319.0
 "Congo, Rep.",COG,1975,1590039.0
 Colombia,COL,1975,24756973.0
-Comoros,COM,1975,257290.0
 Cabo Verde,CPV,1975,272423.0
 Costa Rica,CRI,1975,2097407.0
 Caribbean small states,CSS,1975,5201705.0
@@ -3931,6 +4022,7 @@ Europe & Central Asia,ECS,1975,767332578.0
 Ecuador,ECU,1975,6987391.0
 "Egypt, Arab Rep.",EGY,1975,39187702.0
 Euro area,EMU,1975,296244715.0
+Eritrea,ERI,1975,2075965.0
 Spain,ESP,1975,35757900.0
 Estonia,EST,1975,1429352.0
 Ethiopia,ETH,1975,32566821.0
@@ -3971,6 +4063,7 @@ Indonesia,IDN,1975,130724115.0
 IDA only,IDX,1975,377934550.0
 Isle of Man,IMN,1975,59478.0
 India,IND,1975,621301720.0
+Not classified,INX,1975,0.0
 Ireland,IRL,1975,3189550.0
 "Iran, Islamic Rep.",IRN,1975,32730554.0
 Iraq,IRQ,1975,11684589.0
@@ -3987,6 +4080,7 @@ Cambodia,KHM,1975,7522593.0
 Kiribati,KIR,1975,55169.0
 St. Kitts and Nevis,KNA,1975,44276.0
 "Korea, Rep.",KOR,1975,35280725.0
+Kuwait,KWT,1975,1024940.0
 Latin America & Caribbean (excluding high income),LAC,1975,278616831.0
 Lao PDR,LAO,1975,3051577.0
 Lebanon,LBN,1975,2575690.0
@@ -4052,9 +4146,10 @@ Papua New Guinea,PNG,1975,2878156.0
 Poland,POL,1975,34015199.0
 Pre-demographic dividend,PRE,1975,275565267.0
 Puerto Rico,PRI,1975,2994000.0
-Estonia,EST,2016,0.00017416321653866275
+European Union,EUU,1993,482099286.0
 Portugal,PRT,1975,9093470.0
 Paraguay,PRY,1975,2790962.0
+West Bank and Gaza,PSE,1975,0.0
 Pacific island small states,PSS,1975,1280559.0
 Post-demographic dividend,PST,1975,879650582.0
 French Polynesia,PYF,1975,130619.0
@@ -4072,6 +4167,7 @@ Sierra Leone,SLE,1975,2993876.0
 El Salvador,SLV,1975,4147525.0
 San Marino,SMR,1975,19735.0
 Somalia,SOM,1975,3880320.0
+Serbia,SRB,1975,0.0
 Sub-Saharan Africa (excluding high income),SSA,1975,335005587.0
 South Sudan,SSD,1975,4119438.0
 Sub-Saharan Africa,SSF,1975,335064879.0
@@ -4082,6 +4178,7 @@ Slovak Republic,SVK,1975,4739105.0
 Slovenia,SVN,1975,1793581.0
 Sweden,SWE,1975,8192437.0
 Swaziland,SWZ,1975,517024.0
+Sint Maarten (Dutch part),SXM,1975,0.0
 Seychelles,SYC,1975,59292.0
 Syrian Arab Republic,SYR,1975,7535714.0
 Turks and Caicos Islands,TCA,1975,6548.0
@@ -4165,6 +4262,7 @@ Cote d'Ivoire,CIV,1976,6922982.0
 Cameroon,CMR,1976,7669445.0
 "Congo, Dem. Rep.",COD,1976,23559071.0
 "Congo, Rep.",COG,1976,1637941.0
+Colombia,COL,1976,25323406.0
 Comoros,COM,1976,265953.0
 Cabo Verde,CPV,1976,273652.0
 Costa Rica,CRI,1976,2151497.0
@@ -4188,6 +4286,7 @@ Europe & Central Asia,ECS,1976,772838318.0
 Ecuador,ECU,1976,7179399.0
 "Egypt, Arab Rep.",EGY,1976,40089032.0
 Euro area,EMU,1976,297573002.0
+Eritrea,ERI,1976,2133723.0
 Spain,ESP,1976,36137812.0
 Estonia,EST,1976,1439576.0
 Ethiopia,ETH,1976,33146891.0
@@ -4228,6 +4327,7 @@ Indonesia,IDN,1976,134010690.0
 IDA only,IDX,1976,387447787.0
 Isle of Man,IMN,1976,60428.0
 India,IND,1976,635771734.0
+Not classified,INX,1976,0.0
 Ireland,IRL,1976,3238050.0
 "Iran, Islamic Rep.",IRN,1976,33737768.0
 Iraq,IRQ,1976,12068168.0
@@ -4244,6 +4344,7 @@ Cambodia,KHM,1976,7402873.0
 Kiribati,KIR,1976,55977.0
 St. Kitts and Nevis,KNA,1976,44148.0
 "Korea, Rep.",KOR,1976,35848523.0
+Kuwait,KWT,1976,1089209.0
 Latin America & Caribbean (excluding high income),LAC,1976,285566670.0
 Lao PDR,LAO,1976,3098973.0
 Lebanon,LBN,1976,2598354.0
@@ -4309,9 +4410,9 @@ Papua New Guinea,PNG,1976,2957339.0
 Poland,POL,1976,34356300.0
 Pre-demographic dividend,PRE,1976,283715621.0
 Puerto Rico,PRI,1976,3043854.0
-Fiji,FJI,1984,9.243746404776485e-05
 Portugal,PRT,1976,9355810.0
 Paraguay,PRY,1976,2861581.0
+West Bank and Gaza,PSE,1976,0.0
 Pacific island small states,PSS,1976,1306931.0
 Post-demographic dividend,PST,1976,885529196.0
 French Polynesia,PYF,1976,134748.0
@@ -4329,6 +4430,7 @@ Sierra Leone,SLE,1976,3062956.0
 El Salvador,SLV,1976,4239675.0
 San Marino,SMR,1976,19980.0
 Somalia,SOM,1976,4289469.0
+Serbia,SRB,1976,0.0
 Sub-Saharan Africa (excluding high income),SSA,1976,344461837.0
 South Sudan,SSD,1976,4224529.0
 Sub-Saharan Africa,SSF,1976,344522341.0
@@ -4339,6 +4441,7 @@ Slovak Republic,SVK,1976,4789507.0
 Slovenia,SVN,1976,1820249.0
 Sweden,SWE,1976,8222286.0
 Swaziland,SWZ,1976,533214.0
+Sint Maarten (Dutch part),SXM,1976,0.0
 Seychelles,SYC,1976,60504.0
 Syrian Arab Republic,SYR,1976,7794662.0
 Turks and Caicos Islands,TCA,1976,6723.0
@@ -4382,7 +4485,6 @@ Zimbabwe,ZWE,1976,6308300.0
 Aruba,ABW,1977,60366.0
 Afghanistan,AFG,1977,13067538.0
 Angola,AGO,1977,8130988.0
-Albania,ALB,1977,2513546.0
 Andorra,AND,1977,32771.0
 Arab World,ARB,1977,150133054.0
 United Arab Emirates,ARE,1977,748117.0
@@ -4446,6 +4548,7 @@ Europe & Central Asia,ECS,1977,778094845.0
 Ecuador,ECU,1977,7374234.0
 "Egypt, Arab Rep.",EGY,1977,41026477.0
 Euro area,EMU,1977,298738608.0
+Eritrea,ERI,1977,2193068.0
 Spain,ESP,1977,36511638.0
 Estonia,EST,1977,1450211.0
 Ethiopia,ETH,1977,33622390.0
@@ -4486,6 +4589,7 @@ Indonesia,IDN,1977,137322118.0
 IDA only,IDX,1977,397324754.0
 Isle of Man,IMN,1977,61443.0
 India,IND,1977,650485030.0
+Not classified,INX,1977,0.0
 Ireland,IRL,1977,3282200.0
 "Iran, Islamic Rep.",IRN,1977,34810723.0
 Iraq,IRQ,1977,12460914.0
@@ -4502,6 +4606,7 @@ Cambodia,KHM,1977,7194279.0
 Kiribati,KIR,1977,56810.0
 St. Kitts and Nevis,KNA,1977,43942.0
 "Korea, Rep.",KOR,1977,36411795.0
+Kuwait,KWT,1977,1157033.0
 Latin America & Caribbean (excluding high income),LAC,1977,292584153.0
 Lao PDR,LAO,1977,3135842.0
 Lebanon,LBN,1977,2606221.0
@@ -4567,9 +4672,10 @@ Papua New Guinea,PNG,1977,3039660.0
 Poland,POL,1977,34689050.0
 Pre-demographic dividend,PRE,1977,292321446.0
 Puerto Rico,PRI,1977,3088690.0
-Gabon,GAB,2010,0.00021724484582692107
+Georgia,GEO,1999,4452500.0
 Portugal,PRT,1977,9455675.0
 Paraguay,PRY,1977,2935375.0
+West Bank and Gaza,PSE,1977,0.0
 Pacific island small states,PSS,1977,1333618.0
 Post-demographic dividend,PST,1977,891585019.0
 French Polynesia,PYF,1977,138864.0
@@ -4587,6 +4693,7 @@ Sierra Leone,SLE,1977,3134800.0
 El Salvador,SLV,1977,4329964.0
 San Marino,SMR,1977,20296.0
 Somalia,SOM,1977,4827362.0
+Serbia,SRB,1977,0.0
 Sub-Saharan Africa (excluding high income),SSA,1977,354281373.0
 South Sudan,SSD,1977,4332287.0
 Sub-Saharan Africa,SSF,1977,354343159.0
@@ -4597,6 +4704,7 @@ Slovak Republic,SVK,1977,4840501.0
 Slovenia,SVN,1977,1842377.0
 Sweden,SWE,1977,8251540.0
 Swaziland,SWZ,1977,550118.0
+Sint Maarten (Dutch part),SXM,1977,0.0
 Seychelles,SYC,1977,61786.0
 Syrian Arab Republic,SYR,1977,8060649.0
 Turks and Caicos Islands,TCA,1977,6886.0
@@ -4704,6 +4812,7 @@ Europe & Central Asia,ECS,1978,783298994.0
 Ecuador,ECU,1978,7571959.0
 "Egypt, Arab Rep.",EGY,1978,42004655.0
 Euro area,EMU,1978,299908948.0
+Eritrea,ERI,1978,2254450.0
 Spain,ESP,1978,36864898.0
 Estonia,EST,1978,1460188.0
 Ethiopia,ETH,1978,34068316.0
@@ -4744,6 +4853,7 @@ Indonesia,IDN,1978,140665856.0
 IDA only,IDX,1978,407560964.0
 Isle of Man,IMN,1978,62406.0
 India,IND,1978,665502284.0
+Not classified,INX,1978,0.0
 Ireland,IRL,1978,3329100.0
 "Iran, Islamic Rep.",IRN,1978,35972652.0
 Iraq,IRQ,1978,12859094.0
@@ -4760,6 +4870,7 @@ Cambodia,KHM,1978,6955566.0
 Kiribati,KIR,1978,57662.0
 St. Kitts and Nevis,KNA,1978,43703.0
 "Korea, Rep.",KOR,1978,36969185.0
+Kuwait,KWT,1978,1227601.0
 Latin America & Caribbean (excluding high income),LAC,1978,299670407.0
 Lao PDR,LAO,1978,3168843.0
 Lebanon,LBN,1978,2604865.0
@@ -4827,6 +4938,7 @@ Pre-demographic dividend,PRE,1978,301230680.0
 Puerto Rico,PRI,1978,3129421.0
 Portugal,PRT,1978,9558250.0
 Paraguay,PRY,1978,3012829.0
+West Bank and Gaza,PSE,1978,0.0
 Pacific island small states,PSS,1978,1361131.0
 Post-demographic dividend,PST,1978,897682739.0
 French Polynesia,PYF,1978,143032.0
@@ -4844,6 +4956,7 @@ Sierra Leone,SLE,1978,3209263.0
 El Salvador,SLV,1978,4417516.0
 San Marino,SMR,1978,20660.0
 Somalia,SOM,1978,5417740.0
+Serbia,SRB,1978,0.0
 Sub-Saharan Africa (excluding high income),SSA,1978,364453680.0
 South Sudan,SSD,1978,4445826.0
 Sub-Saharan Africa,SSF,1978,364515830.0
@@ -4854,6 +4967,7 @@ Slovak Republic,SVK,1978,4890125.0
 Slovenia,SVN,1978,1862548.0
 Sweden,SWE,1978,8275599.0
 Swaziland,SWZ,1978,567559.0
+Sint Maarten (Dutch part),SXM,1978,0.0
 Seychelles,SYC,1978,62150.0
 Syrian Arab Republic,SYR,1978,8336418.0
 Turks and Caicos Islands,TCA,1978,7053.0
@@ -4961,6 +5075,7 @@ Europe & Central Asia,ECS,1979,788525199.0
 Ecuador,ECU,1979,7772653.0
 "Egypt, Arab Rep.",EGY,1979,43027816.0
 Euro area,EMU,1979,301099972.0
+Eritrea,ERI,1979,2318495.0
 Spain,ESP,1979,37191330.0
 Estonia,EST,1979,1468333.0
 Ethiopia,ETH,1979,34590226.0
@@ -5001,6 +5116,7 @@ Indonesia,IDN,1979,144053518.0
 IDA only,IDX,1979,418141317.0
 Isle of Man,IMN,1979,63151.0
 India,IND,1979,680915804.0
+Not classified,INX,1979,0.0
 Ireland,IRL,1979,3373750.0
 "Iran, Islamic Rep.",IRN,1979,37252659.0
 Iraq,IRQ,1979,13257799.0
@@ -5017,6 +5133,7 @@ Cambodia,KHM,1979,6768724.0
 Kiribati,KIR,1979,58506.0
 St. Kitts and Nevis,KNA,1979,43457.0
 "Korea, Rep.",KOR,1979,37534236.0
+Kuwait,KWT,1979,1299683.0
 Latin America & Caribbean (excluding high income),LAC,1979,306827996.0
 Lao PDR,LAO,1979,3207328.0
 Lebanon,LBN,1979,2602566.0
@@ -5082,9 +5199,10 @@ Papua New Guinea,PNG,1979,3213360.0
 Poland,POL,1979,35247217.0
 Pre-demographic dividend,PRE,1979,310230861.0
 Puerto Rico,PRI,1979,3168088.0
-Greece,GRC,2004,0.001454229015075751
+Greenland,GRL,2005,56935.0
 Portugal,PRT,1979,9661265.0
 Paraguay,PRY,1979,3094482.0
+West Bank and Gaza,PSE,1979,0.0
 Pacific island small states,PSS,1979,1390032.0
 Post-demographic dividend,PST,1979,904034683.0
 French Polynesia,PYF,1979,147296.0
@@ -5102,6 +5220,7 @@ Sierra Leone,SLE,1979,3286179.0
 El Salvador,SLV,1979,4501316.0
 San Marino,SMR,1979,21030.0
 Somalia,SOM,1979,5953615.0
+Serbia,SRB,1979,0.0
 Sub-Saharan Africa (excluding high income),SSA,1979,374972295.0
 South Sudan,SSD,1979,4569423.0
 Sub-Saharan Africa,SSF,1979,375034981.0
@@ -5112,6 +5231,7 @@ Slovak Republic,SVK,1979,4938973.0
 Slovenia,SVN,1979,1882599.0
 Sweden,SWE,1979,8293678.0
 Swaziland,SWZ,1979,585344.0
+Sint Maarten (Dutch part),SXM,1979,0.0
 Seychelles,SYC,1979,62686.0
 Syrian Arab Republic,SYR,1979,8625690.0
 Turks and Caicos Islands,TCA,1979,7264.0
@@ -5219,6 +5339,7 @@ Europe & Central Asia,ECS,1980,793937090.0
 Ecuador,ECU,1980,7976445.0
 "Egypt, Arab Rep.",EGY,1980,44099142.0
 Euro area,EMU,1980,302363486.0
+Eritrea,ERI,1980,2385540.0
 Spain,ESP,1980,37491165.0
 Estonia,EST,1980,1477219.0
 Ethiopia,ETH,1980,35264898.0
@@ -5259,6 +5380,7 @@ Indonesia,IDN,1980,147490365.0
 IDA only,IDX,1980,429050968.0
 Isle of Man,IMN,1980,63551.0
 India,IND,1980,696783517.0
+Not classified,INX,1980,0.0
 Ireland,IRL,1980,3412800.0
 "Iran, Islamic Rep.",IRN,1980,38668220.0
 Iraq,IRQ,1980,13653356.0
@@ -5275,6 +5397,7 @@ Cambodia,KHM,1980,6692107.0
 Kiribati,KIR,1980,59339.0
 St. Kitts and Nevis,KNA,1980,43210.0
 "Korea, Rep.",KOR,1980,38123775.0
+Kuwait,KWT,1980,1372318.0
 Latin America & Caribbean (excluding high income),LAC,1980,314056110.0
 Lao PDR,LAO,1980,3258144.0
 Lebanon,LBN,1980,2605293.0
@@ -5342,6 +5465,7 @@ Pre-demographic dividend,PRE,1980,319174900.0
 Puerto Rico,PRI,1980,3206000.0
 Portugal,PRT,1980,9766312.0
 Paraguay,PRY,1980,3180630.0
+West Bank and Gaza,PSE,1980,0.0
 Pacific island small states,PSS,1980,1420671.0
 Post-demographic dividend,PST,1980,910110515.0
 French Polynesia,PYF,1980,151708.0
@@ -5359,6 +5483,7 @@ Sierra Leone,SLE,1980,3365441.0
 El Salvador,SLV,1980,4580704.0
 San Marino,SMR,1980,21361.0
 Somalia,SOM,1980,6359126.0
+Serbia,SRB,1980,0.0
 Sub-Saharan Africa (excluding high income),SSA,1980,385822020.0
 South Sudan,SSD,1980,4705224.0
 Sub-Saharan Africa,SSF,1980,385885281.0
@@ -5369,6 +5494,7 @@ Slovak Republic,SVK,1980,4979815.0
 Slovenia,SVN,1980,1901315.0
 Sweden,SWE,1980,8310531.0
 Swaziland,SWZ,1980,603372.0
+Sint Maarten (Dutch part),SXM,1980,0.0
 Seychelles,SYC,1980,63261.0
 Syrian Arab Republic,SYR,1980,8930774.0
 Turks and Caicos Islands,TCA,1980,7519.0
@@ -5462,7 +5588,6 @@ Curacao,CUW,1981,148629.0
 Cayman Islands,CYM,1981,16789.0
 Cyprus,CYP,1981,689173.0
 Czech Republic,CZE,1981,10300591.0
-Germany,DEU,1981,78407907.0
 Djibouti,DJI,1981,374937.0
 Dominica,DMA,1981,75375.0
 Denmark,DNK,1981,5121572.0
@@ -5476,6 +5601,7 @@ Europe & Central Asia,ECS,1981,799215272.0
 Ecuador,ECU,1981,8183194.0
 "Egypt, Arab Rep.",EGY,1981,45216506.0
 Euro area,EMU,1981,303498663.0
+Eritrea,ERI,1981,2454766.0
 Spain,ESP,1981,37758631.0
 Estonia,EST,1981,1487666.0
 Ethiopia,ETH,1981,36120288.0
@@ -5516,6 +5642,7 @@ Indonesia,IDN,1981,150978840.0
 IDA only,IDX,1981,440304770.0
 Isle of Man,IMN,1981,63540.0
 India,IND,1981,713118032.0
+Not classified,INX,1981,0.0
 Ireland,IRL,1981,3453000.0
 "Iran, Islamic Rep.",IRN,1981,40217629.0
 Iraq,IRQ,1981,14046540.0
@@ -5532,6 +5659,7 @@ Cambodia,KHM,1981,6748193.0
 Kiribati,KIR,1981,60133.0
 St. Kitts and Nevis,KNA,1981,42976.0
 "Korea, Rep.",KOR,1981,38723248.0
+Kuwait,KWT,1981,1442991.0
 Latin America & Caribbean (excluding high income),LAC,1981,321354880.0
 Lao PDR,LAO,1981,3323377.0
 Lebanon,LBN,1981,2615747.0
@@ -5597,9 +5725,10 @@ Papua New Guinea,PNG,1981,3398469.0
 Poland,POL,1981,35898587.0
 Pre-demographic dividend,PRE,1981,328020973.0
 Puerto Rico,PRI,1981,3242552.0
-Heavily indebted poor countries (HIPC),HPC,1998,0.0596770568028945
+Haiti,HTI,2011,10145054.0
 Portugal,PRT,1981,9851362.0
 Paraguay,PRY,1981,3271456.0
+West Bank and Gaza,PSE,1981,0.0
 Pacific island small states,PSS,1981,1453516.0
 Post-demographic dividend,PST,1981,916187214.0
 French Polynesia,PYF,1981,156243.0
@@ -5617,6 +5746,7 @@ Sierra Leone,SLE,1981,3445277.0
 El Salvador,SLV,1981,4655364.0
 San Marino,SMR,1981,21666.0
 Somalia,SOM,1981,6604872.0
+Serbia,SRB,1981,0.0
 Sub-Saharan Africa (excluding high income),SSA,1981,397001521.0
 South Sudan,SSD,1981,4853927.0
 Sub-Saharan Africa,SSF,1981,397065556.0
@@ -5627,6 +5757,7 @@ Slovak Republic,SVK,1981,5016105.0
 Slovenia,SVN,1981,1906531.0
 Sweden,SWE,1981,8320503.0
 Swaziland,SWZ,1981,621276.0
+Sint Maarten (Dutch part),SXM,1981,0.0
 Seychelles,SYC,1981,64035.0
 Syrian Arab Republic,SYR,1981,9252851.0
 Turks and Caicos Islands,TCA,1981,7858.0
@@ -5701,6 +5832,7 @@ Bhutan,BTN,1982,431050.0
 Botswana,BWA,1982,1075889.0
 Central African Republic,CAF,1982,2418844.0
 Canada,CAN,1982,25202000.0
+Central Europe and the Baltics,CEB,1982,107770794.0
 Switzerland,CHE,1982,6391309.0
 Channel Islands,CHI,1982,129979.0
 Chile,CHL,1982,11615836.0
@@ -5733,6 +5865,7 @@ Europe & Central Asia,ECS,1982,803972967.0
 Ecuador,ECU,1982,8392940.0
 "Egypt, Arab Rep.",EGY,1982,46379620.0
 Euro area,EMU,1982,304314034.0
+Eritrea,ERI,1982,2525521.0
 Spain,ESP,1982,37986012.0
 Estonia,EST,1982,1498414.0
 Ethiopia,ETH,1982,37136848.0
@@ -5773,6 +5906,7 @@ Indonesia,IDN,1982,154506265.0
 IDA only,IDX,1982,451924238.0
 Isle of Man,IMN,1982,63191.0
 India,IND,1982,729868013.0
+Not classified,INX,1982,0.0
 Ireland,IRL,1982,3485800.0
 "Iran, Islamic Rep.",IRN,1982,41883332.0
 Iraq,IRQ,1982,14438309.0
@@ -5789,6 +5923,7 @@ Cambodia,KHM,1982,6918101.0
 Kiribati,KIR,1982,60920.0
 St. Kitts and Nevis,KNA,1982,42762.0
 "Korea, Rep.",KOR,1982,39326352.0
+Kuwait,KWT,1982,1511314.0
 Latin America & Caribbean (excluding high income),LAC,1982,328714848.0
 Lao PDR,LAO,1982,3401242.0
 Lebanon,LBN,1982,2632276.0
@@ -5854,8 +5989,10 @@ Papua New Guinea,PNG,1982,3495199.0
 Poland,POL,1982,36230481.0
 Pre-demographic dividend,PRE,1982,336834728.0
 Puerto Rico,PRI,1982,3277453.0
+IDA blend,IDB,1985,245102022.0
 Portugal,PRT,1982,9911771.0
 Paraguay,PRY,1982,3366719.0
+West Bank and Gaza,PSE,1982,0.0
 Pacific island small states,PSS,1982,1488183.0
 Post-demographic dividend,PST,1982,921702426.0
 French Polynesia,PYF,1982,160888.0
@@ -5873,6 +6010,7 @@ Sierra Leone,SLE,1982,3525399.0
 El Salvador,SLV,1982,4725720.0
 San Marino,SMR,1982,21943.0
 Somalia,SOM,1982,6716448.0
+Serbia,SRB,1982,0.0
 Sub-Saharan Africa (excluding high income),SSA,1982,408512620.0
 South Sudan,SSD,1982,5011726.0
 Sub-Saharan Africa,SSF,1982,408577033.0
@@ -5883,6 +6021,7 @@ Slovak Republic,SVK,1982,5055099.0
 Slovenia,SVN,1982,1910334.0
 Sweden,SWE,1982,8325263.0
 Swaziland,SWZ,1982,639237.0
+Sint Maarten (Dutch part),SXM,1982,0.0
 Seychelles,SYC,1982,64413.0
 Syrian Arab Republic,SYR,1982,9590227.0
 Turks and Caicos Islands,TCA,1982,8244.0
@@ -5935,7 +6074,6 @@ Armenia,ARM,1983,3238594.0
 American Samoa,ASM,1983,36160.0
 Antigua and Barbuda,ATG,1983,71639.0
 Australia,AUS,1983,15369000.0
-Austria,AUT,1983,7561910.0
 Azerbaijan,AZE,1983,6452076.0
 Burundi,BDI,1983,4448728.0
 Belgium,BEL,1983,9855520.0
@@ -5990,6 +6128,7 @@ Europe & Central Asia,ECS,1983,808524728.0
 Ecuador,ECU,1983,8606213.0
 "Egypt, Arab Rep.",EGY,1983,47594556.0
 Euro area,EMU,1983,304920007.0
+Eritrea,ERI,1983,2598410.0
 Spain,ESP,1983,38171525.0
 Estonia,EST,1983,1508745.0
 Ethiopia,ETH,1983,38285883.0
@@ -6030,6 +6169,7 @@ Indonesia,IDN,1983,158044343.0
 IDA only,IDX,1983,463924277.0
 Isle of Man,IMN,1983,62730.0
 India,IND,1983,746949067.0
+Not classified,INX,1983,0.0
 Ireland,IRL,1983,3510600.0
 "Iran, Islamic Rep.",IRN,1983,43645092.0
 Iraq,IRQ,1983,14825789.0
@@ -6046,6 +6186,7 @@ Cambodia,KHM,1983,7168236.0
 Kiribati,KIR,1983,61768.0
 St. Kitts and Nevis,KNA,1983,42542.0
 "Korea, Rep.",KOR,1983,39910403.0
+Kuwait,KWT,1983,1580638.0
 Latin America & Caribbean (excluding high income),LAC,1983,336113781.0
 Lao PDR,LAO,1983,3489977.0
 Lebanon,LBN,1983,2651292.0
@@ -6111,9 +6252,10 @@ Papua New Guinea,PNG,1983,3594004.0
 Poland,POL,1983,36571808.0
 Pre-demographic dividend,PRE,1983,345711225.0
 Puerto Rico,PRI,1983,3311138.0
-IDA only,IDX,1992,0.07844012012144122
+India,IND,2017,1339180127.0
 Portugal,PRT,1983,9957865.0
 Paraguay,PRY,1983,3465793.0
+West Bank and Gaza,PSE,1983,0.0
 Pacific island small states,PSS,1983,1523011.0
 Post-demographic dividend,PST,1983,926784900.0
 French Polynesia,PYF,1983,165613.0
@@ -6131,6 +6273,7 @@ Sierra Leone,SLE,1983,3608751.0
 El Salvador,SLV,1983,4792903.0
 San Marino,SMR,1983,22210.0
 Somalia,SOM,1983,6740220.0
+Serbia,SRB,1983,0.0
 Sub-Saharan Africa (excluding high income),SSA,1983,420349183.0
 South Sudan,SSD,1983,5170558.0
 Sub-Saharan Africa,SSF,1983,420413518.0
@@ -6141,6 +6284,7 @@ Slovak Republic,SVK,1983,5091971.0
 Slovenia,SVN,1983,1922321.0
 Sweden,SWE,1983,8329033.0
 Swaziland,SWZ,1983,658320.0
+Sint Maarten (Dutch part),SXM,1983,0.0
 Seychelles,SYC,1983,64335.0
 Syrian Arab Republic,SYR,1983,9938847.0
 Turks and Caicos Islands,TCA,1983,8669.0
@@ -6248,12 +6392,14 @@ Europe & Central Asia,ECS,1984,813281381.0
 Ecuador,ECU,1984,8823751.0
 "Egypt, Arab Rep.",EGY,1984,48868951.0
 Euro area,EMU,1984,305432240.0
+Eritrea,ERI,1984,2674289.0
 Spain,ESP,1984,38330364.0
 Estonia,EST,1984,1518617.0
 Ethiopia,ETH,1984,39518801.0
 European Union,EUU,1984,469501597.0
 Fragile and conflict affected situations,FCS,1984,223607635.0
 Finland,FIN,1984,4881803.0
+Fiji,FJI,1984,700366.0
 France,FRA,1984,56470769.0
 Faroe Islands,FRO,1984,45122.0
 "Micronesia, Fed. Sts.",FSM,1984,83240.0
@@ -6287,6 +6433,7 @@ Indonesia,IDN,1984,161555583.0
 IDA only,IDX,1984,476310106.0
 Isle of Man,IMN,1984,62487.0
 India,IND,1984,764245202.0
+Not classified,INX,1984,0.0
 Ireland,IRL,1984,3532423.0
 "Iran, Islamic Rep.",IRN,1984,45474708.0
 Iraq,IRQ,1984,15205501.0
@@ -6303,6 +6450,7 @@ Cambodia,KHM,1984,7446019.0
 Kiribati,KIR,1984,62765.0
 St. Kitts and Nevis,KNA,1984,42294.0
 "Korea, Rep.",KOR,1984,40405956.0
+Kuwait,KWT,1984,1655833.0
 Latin America & Caribbean (excluding high income),LAC,1984,343523088.0
 Lao PDR,LAO,1984,3586381.0
 Lebanon,LBN,1984,2667220.0
@@ -6368,8 +6516,10 @@ Papua New Guinea,PNG,1984,3694041.0
 Poland,POL,1984,36904134.0
 Pre-demographic dividend,PRE,1984,354794146.0
 Puerto Rico,PRI,1984,3344190.0
+Iceland,ISL,1991,257797.0
 Portugal,PRT,1984,9996232.0
 Paraguay,PRY,1984,3567752.0
+West Bank and Gaza,PSE,1984,0.0
 Pacific island small states,PSS,1984,1555765.0
 Post-demographic dividend,PST,1984,931567479.0
 French Polynesia,PYF,1984,170396.0
@@ -6387,6 +6537,7 @@ Sierra Leone,SLE,1984,3699467.0
 El Salvador,SLV,1984,4858532.0
 San Marino,SMR,1984,22455.0
 Somalia,SOM,1984,6747932.0
+Serbia,SRB,1984,0.0
 Sub-Saharan Africa (excluding high income),SSA,1984,432508714.0
 South Sudan,SSD,1984,5319609.0
 Sub-Saharan Africa,SSF,1984,432573431.0
@@ -6397,6 +6548,7 @@ Slovak Republic,SVK,1984,5127097.0
 Slovenia,SVN,1984,1932154.0
 Sweden,SWE,1984,8336605.0
 Swaziland,SWZ,1984,679976.0
+Sint Maarten (Dutch part),SXM,1984,0.0
 Seychelles,SYC,1984,64717.0
 Syrian Arab Republic,SYR,1984,10293049.0
 Turks and Caicos Islands,TCA,1984,9095.0
@@ -6504,6 +6656,7 @@ Europe & Central Asia,ECS,1985,818146882.0
 Ecuador,ECU,1985,9045979.0
 "Egypt, Arab Rep.",EGY,1985,50204985.0
 Euro area,EMU,1985,306018719.0
+Eritrea,ERI,1985,2753151.0
 Spain,ESP,1985,38469512.0
 Estonia,EST,1985,1528781.0
 Ethiopia,ETH,1985,40800343.0
@@ -6539,11 +6692,11 @@ Hungary,HUN,1985,10648713.0
 IBRD only,IBD,1985,3174933339.0
 IDA & IBRD total,IBT,1985,3909126217.0
 IDA total,IDA,1985,734192878.0
-IDA blend,IDB,1985,245102022.0
 Indonesia,IDN,1985,165012196.0
 IDA only,IDX,1985,489090856.0
 Isle of Man,IMN,1985,62696.0
 India,IND,1985,781666671.0
+Not classified,INX,1985,0.0
 Ireland,IRL,1985,3538082.0
 "Iran, Islamic Rep.",IRN,1985,47342702.0
 Iraq,IRQ,1985,15576395.0
@@ -6560,6 +6713,7 @@ Cambodia,KHM,1985,7712978.0
 Kiribati,KIR,1985,64003.0
 St. Kitts and Nevis,KNA,1985,42013.0
 "Korea, Rep.",KOR,1985,40805744.0
+Kuwait,KWT,1985,1738994.0
 Latin America & Caribbean (excluding high income),LAC,1985,350921427.0
 Lao PDR,LAO,1985,3687898.0
 Lebanon,LBN,1985,2676583.0
@@ -6625,9 +6779,9 @@ Papua New Guinea,PNG,1985,3794720.0
 Poland,POL,1985,37201885.0
 Pre-demographic dividend,PRE,1985,364199513.0
 Puerto Rico,PRI,1985,3377000.0
-Italy,ITA,1986,0.007515166212191245
 Portugal,PRT,1985,10023613.0
 Paraguay,PRY,1985,3671826.0
+West Bank and Gaza,PSE,1985,0.0
 Pacific island small states,PSS,1985,1585014.0
 Post-demographic dividend,PST,1985,936391539.0
 French Polynesia,PYF,1985,175204.0
@@ -6645,6 +6799,7 @@ Sierra Leone,SLE,1985,3799550.0
 El Salvador,SLV,1985,4923860.0
 San Marino,SMR,1985,22708.0
 Somalia,SOM,1985,6791716.0
+Serbia,SRB,1985,0.0
 Sub-Saharan Africa (excluding high income),SSA,1985,444982815.0
 South Sudan,SSD,1985,5450424.0
 Sub-Saharan Africa,SSF,1985,445048059.0
@@ -6655,6 +6810,7 @@ Slovak Republic,SVK,1985,5161768.0
 Slovenia,SVN,1985,1941641.0
 Sweden,SWE,1985,8350386.0
 Swaziland,SWZ,1985,705085.0
+Sint Maarten (Dutch part),SXM,1985,0.0
 Seychelles,SYC,1985,65244.0
 Syrian Arab Republic,SYR,1985,10648632.0
 Turks and Caicos Islands,TCA,1985,9506.0
@@ -6762,6 +6918,7 @@ Europe & Central Asia,ECS,1986,823155058.0
 Ecuador,ECU,1986,9272906.0
 "Egypt, Arab Rep.",EGY,1986,51607703.0
 Euro area,EMU,1986,306797207.0
+Eritrea,ERI,1986,2837111.0
 Spain,ESP,1986,38584624.0
 Estonia,EST,1986,1540190.0
 Ethiopia,ETH,1986,42120730.0
@@ -6802,11 +6959,13 @@ Indonesia,IDN,1986,168402025.0
 IDA only,IDX,1986,502260912.0
 Isle of Man,IMN,1986,63441.0
 India,IND,1986,799181436.0
+Not classified,INX,1986,0.0
 Ireland,IRL,1986,3539690.0
 "Iran, Islamic Rep.",IRN,1986,49256842.0
 Iraq,IRQ,1986,15936375.0
 Iceland,ISL,1986,243180.0
 Israel,ISR,1986,4299000.0
+Italy,ITA,1986,56596155.0
 Jamaica,JAM,1986,2361720.0
 Jordan,JOR,1986,3011300.0
 Japan,JPN,1986,121492000.0
@@ -6817,6 +6976,7 @@ Cambodia,KHM,1986,7958976.0
 Kiribati,KIR,1986,65518.0
 St. Kitts and Nevis,KNA,1986,41697.0
 "Korea, Rep.",KOR,1986,41213674.0
+Kuwait,KWT,1986,1836105.0
 Latin America & Caribbean (excluding high income),LAC,1986,358294111.0
 Lao PDR,LAO,1986,3794043.0
 Lebanon,LBN,1986,2677280.0
@@ -6882,9 +7042,10 @@ Papua New Guinea,PNG,1986,3895852.0
 Poland,POL,1986,37456119.0
 Pre-demographic dividend,PRE,1986,373930490.0
 Puerto Rico,PRI,1986,3409554.0
-Kazakhstan,KAZ,2012,0.00222935147950717
+Cambodia,KHM,1997,11295880.0
 Portugal,PRT,1986,10032734.0
 Paraguay,PRY,1986,3777763.0
+West Bank and Gaza,PSE,1986,0.0
 Pacific island small states,PSS,1986,1609916.0
 Post-demographic dividend,PST,1986,941637615.0
 French Polynesia,PYF,1986,180075.0
@@ -6902,6 +7063,7 @@ Sierra Leone,SLE,1986,3912438.0
 El Salvador,SLV,1986,4988943.0
 San Marino,SMR,1986,22961.0
 Somalia,SOM,1986,6887372.0
+Serbia,SRB,1986,0.0
 Sub-Saharan Africa (excluding high income),SSA,1986,457769762.0
 South Sudan,SSD,1986,5565545.0
 Sub-Saharan Africa,SSF,1986,457835414.0
@@ -6912,6 +7074,7 @@ Slovak Republic,SVK,1986,5193838.0
 Slovenia,SVN,1986,1965964.0
 Sweden,SWE,1986,8369829.0
 Swaziland,SWZ,1986,734243.0
+Sint Maarten (Dutch part),SXM,1986,0.0
 Seychelles,SYC,1986,65652.0
 Syrian Arab Republic,SYR,1986,11004272.0
 Turks and Caicos Islands,TCA,1986,9875.0
@@ -7014,11 +7177,11 @@ Algeria,DZA,1987,23917897.0
 East Asia & Pacific (excluding high income),EAP,1987,1526044403.0
 Early-demographic dividend,EAR,1987,1895289549.0
 East Asia & Pacific,EAS,1987,1738276268.0
-Europe & Central Asia (excluding high income),ECA,1987,375756651.0
 Europe & Central Asia,ECS,1987,828213790.0
 Ecuador,ECU,1987,9504129.0
 "Egypt, Arab Rep.",EGY,1987,53066229.0
 Euro area,EMU,1987,307668322.0
+Eritrea,ERI,1987,2924349.0
 Spain,ESP,1987,38684815.0
 Estonia,EST,1987,1552221.0
 Ethiopia,ETH,1987,43493283.0
@@ -7059,6 +7222,7 @@ Indonesia,IDN,1987,171728917.0
 IDA only,IDX,1987,515823557.0
 Isle of Man,IMN,1987,64630.0
 India,IND,1987,816792741.0
+Not classified,INX,1987,0.0
 Ireland,IRL,1987,3540057.0
 "Iran, Islamic Rep.",IRN,1987,51197482.0
 Iraq,IRQ,1987,16290149.0
@@ -7075,6 +7239,7 @@ Cambodia,KHM,1987,8196037.0
 Kiribati,KIR,1987,67261.0
 St. Kitts and Nevis,KNA,1987,41351.0
 "Korea, Rep.",KOR,1987,41621690.0
+Kuwait,KWT,1987,1942810.0
 Latin America & Caribbean (excluding high income),LAC,1987,365642644.0
 Lao PDR,LAO,1987,3905163.0
 Lebanon,LBN,1987,2672173.0
@@ -7142,6 +7307,7 @@ Pre-demographic dividend,PRE,1987,383984828.0
 Puerto Rico,PRI,1987,3441850.0
 Portugal,PRT,1987,10030031.0
 Paraguay,PRY,1987,3885436.0
+West Bank and Gaza,PSE,1987,0.0
 Pacific island small states,PSS,1987,1631160.0
 Post-demographic dividend,PST,1987,946964644.0
 French Polynesia,PYF,1987,184950.0
@@ -7159,6 +7325,7 @@ Sierra Leone,SLE,1987,4034668.0
 El Salvador,SLV,1987,5053714.0
 San Marino,SMR,1987,23210.0
 Somalia,SOM,1987,7018109.0
+Serbia,SRB,1987,0.0
 Sub-Saharan Africa (excluding high income),SSA,1987,470870472.0
 South Sudan,SSD,1987,5666078.0
 Sub-Saharan Africa,SSF,1987,470938971.0
@@ -7169,6 +7336,7 @@ Slovak Republic,SVK,1987,5222840.0
 Slovenia,SVN,1987,1989776.0
 Sweden,SWE,1987,8397804.0
 Swaziland,SWZ,1987,766707.0
+Sint Maarten (Dutch part),SXM,1987,0.0
 Seychelles,SYC,1987,68499.0
 Syrian Arab Republic,SYR,1987,11360852.0
 Turks and Caicos Islands,TCA,1987,10224.0
@@ -7234,6 +7402,7 @@ Bahrain,BHR,1988,465202.0
 Bosnia and Herzegovina,BIH,1988,4508056.0
 Belarus,BLR,1988,10140000.0
 Belize,BLZ,1988,179028.0
+Bermuda,BMU,1988,58347.0
 Bolivia,BOL,1988,6592787.0
 Brazil,BRA,1988,144001542.0
 Barbados,BRB,1988,258527.0
@@ -7275,6 +7444,7 @@ Europe & Central Asia,ECS,1988,833315236.0
 Ecuador,ECU,1988,9739176.0
 "Egypt, Arab Rep.",EGY,1988,54547296.0
 Euro area,EMU,1988,308725859.0
+Eritrea,ERI,1988,3006361.0
 Spain,ESP,1988,38766939.0
 Estonia,EST,1988,1561900.0
 Ethiopia,ETH,1988,44932064.0
@@ -7315,6 +7485,7 @@ Indonesia,IDN,1988,175000916.0
 IDA only,IDX,1988,529810281.0
 Isle of Man,IMN,1988,66047.0
 India,IND,1988,834489322.0
+Not classified,INX,1988,0.0
 Ireland,IRL,1988,3524949.0
 "Iran, Islamic Rep.",IRN,1988,53075618.0
 Iraq,IRQ,1988,16651807.0
@@ -7331,6 +7502,7 @@ Cambodia,KHM,1988,8433798.0
 Kiribati,KIR,1988,69098.0
 St. Kitts and Nevis,KNA,1988,41047.0
 "Korea, Rep.",KOR,1988,42031247.0
+Kuwait,KWT,1988,2038885.0
 Latin America & Caribbean (excluding high income),LAC,1988,372981462.0
 Lao PDR,LAO,1988,4020295.0
 Lebanon,LBN,1988,2668585.0
@@ -7396,9 +7568,10 @@ Papua New Guinea,PNG,1988,4100729.0
 Poland,POL,1988,37824487.0
 Pre-demographic dividend,PRE,1988,394465713.0
 Puerto Rico,PRI,1988,3473898.0
-Lao PDR,LAO,2006,0.0007762019618868292
+Libya,LBY,2003,5615952.0
 Portugal,PRT,1988,10019610.0
 Paraguay,PRY,1988,3994331.0
+West Bank and Gaza,PSE,1988,0.0
 Pacific island small states,PSS,1988,1650645.0
 Post-demographic dividend,PST,1988,952508537.0
 French Polynesia,PYF,1988,189738.0
@@ -7416,6 +7589,7 @@ Sierra Leone,SLE,1988,4152984.0
 El Salvador,SLV,1988,5119035.0
 San Marino,SMR,1988,23466.0
 Somalia,SOM,1988,7165295.0
+Serbia,SRB,1988,0.0
 Sub-Saharan Africa (excluding high income),SSA,1988,484288955.0
 South Sudan,SSD,1988,5741235.0
 Sub-Saharan Africa,SSF,1988,484357710.0
@@ -7426,6 +7600,7 @@ Slovak Republic,SVK,1988,5250596.0
 Slovenia,SVN,1988,1995196.0
 Sweden,SWE,1988,8436489.0
 Swaziland,SWZ,1988,800456.0
+Sint Maarten (Dutch part),SXM,1988,0.0
 Seychelles,SYC,1988,68755.0
 Syrian Arab Republic,SYR,1988,11719071.0
 Turks and Caicos Islands,TCA,1988,10582.0
@@ -7487,7 +7662,6 @@ Burkina Faso,BFA,1989,8579823.0
 Bangladesh,BGD,1989,103599232.0
 Bulgaria,BGR,1989,8876972.0
 Bahrain,BHR,1989,481090.0
-"Bahamas, The",BHS,1989,251849.0
 Bosnia and Herzegovina,BIH,1989,4506653.0
 Belarus,BLR,1989,10170000.0
 Belize,BLZ,1989,183469.0
@@ -7533,6 +7707,7 @@ Europe & Central Asia,ECS,1989,838462813.0
 Ecuador,ECU,1989,9977377.0
 "Egypt, Arab Rep.",EGY,1989,56006573.0
 Euro area,EMU,1989,310080079.0
+Eritrea,ERI,1989,3071771.0
 Spain,ESP,1989,38827764.0
 Estonia,EST,1989,1568131.0
 Ethiopia,ETH,1989,46458913.0
@@ -7573,6 +7748,7 @@ Indonesia,IDN,1989,178233223.0
 IDA only,IDX,1989,544284554.0
 Isle of Man,IMN,1989,67388.0
 India,IND,1989,852270034.0
+Not classified,INX,1989,0.0
 Ireland,IRL,1989,3511009.0
 "Iran, Islamic Rep.",IRN,1989,54777114.0
 Iraq,IRQ,1989,17040190.0
@@ -7589,6 +7765,7 @@ Cambodia,KHM,1989,8689152.0
 Kiribati,KIR,1989,70860.0
 St. Kitts and Nevis,KNA,1989,40852.0
 "Korea, Rep.",KOR,1989,42449038.0
+Kuwait,KWT,1989,2096932.0
 Latin America & Caribbean (excluding high income),LAC,1989,380333859.0
 Lao PDR,LAO,1989,4138408.0
 Lebanon,LBN,1989,2676605.0
@@ -7656,6 +7833,7 @@ Pre-demographic dividend,PRE,1989,405497636.0
 Puerto Rico,PRI,1989,3505650.0
 Portugal,PRT,1989,10005000.0
 Paraguay,PRY,1989,4103911.0
+West Bank and Gaza,PSE,1989,0.0
 Pacific island small states,PSS,1989,1671076.0
 Post-demographic dividend,PST,1989,958458726.0
 French Polynesia,PYF,1989,194252.0
@@ -7673,6 +7851,7 @@ Sierra Leone,SLE,1989,4249468.0
 El Salvador,SLV,1989,5185943.0
 San Marino,SMR,1989,23740.0
 Somalia,SOM,1989,7298417.0
+Serbia,SRB,1989,0.0
 Sub-Saharan Africa (excluding high income),SSA,1989,498033585.0
 South Sudan,SSD,1989,5777498.0
 Sub-Saharan Africa,SSF,1989,498102752.0
@@ -7683,6 +7862,7 @@ Slovak Republic,SVK,1989,5275942.0
 Slovenia,SVN,1989,1996351.0
 Sweden,SWE,1989,8492964.0
 Swaziland,SWZ,1989,832682.0
+Sint Maarten (Dutch part),SXM,1989,0.0
 Seychelles,SYC,1989,69167.0
 Syrian Arab Republic,SYR,1989,12080444.0
 Turks and Caicos Islands,TCA,1989,11017.0
@@ -7788,7 +7968,9 @@ East Asia & Pacific,EAS,1990,1821481246.0
 Europe & Central Asia (excluding high income),ECA,1990,385427446.0
 Europe & Central Asia,ECS,1990,842848473.0
 Ecuador,ECU,1990,10218091.0
+"Egypt, Arab Rep.",EGY,1990,57412215.0
 Euro area,EMU,1990,311539698.0
+Eritrea,ERI,1990,3113311.0
 Spain,ESP,1990,38867322.0
 Estonia,EST,1990,1569174.0
 Ethiopia,ETH,1990,48086516.0
@@ -7829,6 +8011,7 @@ Indonesia,IDN,1990,181436821.0
 IDA only,IDX,1990,559251380.0
 Isle of Man,IMN,1990,68429.0
 India,IND,1990,870133480.0
+Not classified,INX,1990,0.0
 Ireland,IRL,1990,3513974.0
 "Iran, Islamic Rep.",IRN,1990,56226185.0
 Iraq,IRQ,1990,17469005.0
@@ -7845,6 +8028,7 @@ Cambodia,KHM,1990,8973342.0
 Kiribati,KIR,1990,72412.0
 St. Kitts and Nevis,KNA,1990,40834.0
 "Korea, Rep.",KOR,1990,42869283.0
+Kuwait,KWT,1990,2099615.0
 Latin America & Caribbean (excluding high income),LAC,1990,387713894.0
 Lao PDR,LAO,1990,4258472.0
 Lebanon,LBN,1990,2703016.0
@@ -7910,9 +8094,10 @@ Papua New Guinea,PNG,1990,4313059.0
 Poland,POL,1990,38110782.0
 Pre-demographic dividend,PRE,1990,417158756.0
 Puerto Rico,PRI,1990,3537000.0
-Sri Lanka,LKA,2000,0.0024935951665721215
+Lesotho,LSO,2009,2019209.0
 Portugal,PRT,1990,9983218.0
 Paraguay,PRY,1990,4213742.0
+West Bank and Gaza,PSE,1990,1978248.0
 Pacific island small states,PSS,1990,1694408.0
 Post-demographic dividend,PST,1990,964601905.0
 French Polynesia,PYF,1990,198375.0
@@ -7930,6 +8115,7 @@ Sierra Leone,SLE,1990,4312246.0
 El Salvador,SLV,1990,5254984.0
 San Marino,SMR,1990,24043.0
 Somalia,SOM,1990,7397347.0
+Serbia,SRB,1990,7586000.0
 Sub-Saharan Africa (excluding high income),SSA,1990,512107594.0
 South Sudan,SSD,1990,5768481.0
 Sub-Saharan Africa,SSF,1990,512177101.0
@@ -7940,6 +8126,7 @@ Slovak Republic,SVK,1990,5299187.0
 Slovenia,SVN,1990,1998161.0
 Sweden,SWE,1990,8558835.0
 Swaziland,SWZ,1990,861373.0
+Sint Maarten (Dutch part),SXM,1990,0.0
 Seychelles,SYC,1990,69507.0
 Syrian Arab Republic,SYR,1990,12446171.0
 Turks and Caicos Islands,TCA,1990,11552.0
@@ -8047,6 +8234,7 @@ Europe & Central Asia,ECS,1991,846178276.0
 Ecuador,ECU,1991,10460990.0
 "Egypt, Arab Rep.",EGY,1991,58752390.0
 Euro area,EMU,1991,312708142.0
+Eritrea,ERI,1991,3127297.0
 Spain,ESP,1991,38966376.0
 Estonia,EST,1991,1561314.0
 Ethiopia,ETH,1991,49821083.0
@@ -8087,10 +8275,10 @@ Indonesia,IDN,1991,184615979.0
 IDA only,IDX,1991,574734444.0
 Isle of Man,IMN,1991,69096.0
 India,IND,1991,888054875.0
+Not classified,INX,1991,0.0
 Ireland,IRL,1991,3534235.0
 "Iran, Islamic Rep.",IRN,1991,57375584.0
 Iraq,IRQ,1991,17942715.0
-Iceland,ISL,1991,257797.0
 Israel,ISR,1991,4949000.0
 Italy,ITA,1991,56758521.0
 Jamaica,JAM,1991,2443689.0
@@ -8103,6 +8291,7 @@ Cambodia,KHM,1991,9286976.0
 Kiribati,KIR,1991,73700.0
 St. Kitts and Nevis,KNA,1991,41013.0
 "Korea, Rep.",KOR,1991,43295704.0
+Kuwait,KWT,1991,2035661.0
 Latin America & Caribbean (excluding high income),LAC,1991,395121495.0
 Lao PDR,LAO,1991,4380073.0
 Lebanon,LBN,1991,2752462.0
@@ -8170,6 +8359,7 @@ Pre-demographic dividend,PRE,1991,429531376.0
 Puerto Rico,PRI,1991,3562110.0
 Portugal,PRT,1991,9960235.0
 Paraguay,PRY,1991,4323410.0
+West Bank and Gaza,PSE,1991,2068845.0
 Pacific island small states,PSS,1991,1721262.0
 Post-demographic dividend,PST,1991,970905787.0
 French Polynesia,PYF,1991,202016.0
@@ -8187,6 +8377,7 @@ Sierra Leone,SLE,1991,4337239.0
 El Salvador,SLV,1991,5326657.0
 San Marino,SMR,1991,24386.0
 Somalia,SOM,1991,7455936.0
+Serbia,SRB,1991,7595636.0
 Sub-Saharan Africa (excluding high income),SSA,1991,526528575.0
 South Sudan,SSD,1991,5705378.0
 Sub-Saharan Africa,SSF,1991,526599014.0
@@ -8197,6 +8388,7 @@ Slovak Republic,SVK,1991,5303294.0
 Slovenia,SVN,1991,1999429.0
 Sweden,SWE,1991,8617375.0
 Swaziland,SWZ,1991,885623.0
+Sint Maarten (Dutch part),SXM,1991,0.0
 Seychelles,SYC,1991,70439.0
 Syrian Arab Republic,SYR,1991,12815219.0
 Turks and Caicos Islands,TCA,1991,12206.0
@@ -8304,6 +8496,7 @@ Europe & Central Asia,ECS,1992,849656745.0
 Ecuador,ECU,1992,10705667.0
 "Egypt, Arab Rep.",EGY,1992,60035536.0
 Euro area,EMU,1992,314162056.0
+Eritrea,ERI,1992,3118582.0
 Spain,ESP,1992,39157685.0
 Estonia,EST,1992,1533091.0
 Ethiopia,ETH,1992,51647768.0
@@ -8341,8 +8534,10 @@ IDA & IBRD total,IBT,1992,4470537759.0
 IDA total,IDA,1992,888804426.0
 IDA blend,IDB,1992,298118128.0
 Indonesia,IDN,1992,187766086.0
+IDA only,IDX,1992,590686298.0
 Isle of Man,IMN,1992,69475.0
 India,IND,1992,906021106.0
+Not classified,INX,1992,0.0
 Ireland,IRL,1992,3558430.0
 "Iran, Islamic Rep.",IRN,1992,58260738.0
 Iraq,IRQ,1992,18458187.0
@@ -8359,6 +8554,7 @@ Cambodia,KHM,1992,9621504.0
 Kiribati,KIR,1992,74769.0
 St. Kitts and Nevis,KNA,1992,41361.0
 "Korea, Rep.",KOR,1992,43747962.0
+Kuwait,KWT,1992,0.0
 Latin America & Caribbean (excluding high income),LAC,1992,402540526.0
 Lao PDR,LAO,1992,4502363.0
 Lebanon,LBN,1992,2821862.0
@@ -8424,9 +8620,10 @@ Papua New Guinea,PNG,1992,4535520.0
 Poland,POL,1992,38363667.0
 Pre-demographic dividend,PRE,1992,442573477.0
 Puerto Rico,PRI,1992,3585176.0
-St. Martin (French part),MAF,1994,3.8270435683938005e-06
+Moldova,MDA,2015,3554108.0
 Portugal,PRT,1992,9952494.0
 Paraguay,PRY,1992,4432736.0
+West Bank and Gaza,PSE,1992,2163591.0
 Pacific island small states,PSS,1992,1750902.0
 Post-demographic dividend,PST,1992,977731114.0
 French Polynesia,PYF,1992,205266.0
@@ -8444,6 +8641,7 @@ Sierra Leone,SLE,1992,4331332.0
 El Salvador,SLV,1992,5400331.0
 San Marino,SMR,1992,24749.0
 Somalia,SOM,1992,7488544.0
+Serbia,SRB,1992,7646424.0
 Sub-Saharan Africa (excluding high income),SSA,1992,541294922.0
 South Sudan,SSD,1992,5599814.0
 Sub-Saharan Africa,SSF,1992,541365685.0
@@ -8454,6 +8652,7 @@ Slovak Republic,SVK,1992,5305016.0
 Slovenia,SVN,1992,1996498.0
 Sweden,SWE,1992,8668067.0
 Swaziland,SWZ,1992,906034.0
+Sint Maarten (Dutch part),SXM,1992,0.0
 Seychelles,SYC,1992,70763.0
 Syrian Arab Republic,SYR,1992,13187085.0
 Turks and Caicos Islands,TCA,1992,12968.0
@@ -8561,10 +8760,10 @@ Europe & Central Asia,ECS,1993,852762016.0
 Ecuador,ECU,1993,10951202.0
 "Egypt, Arab Rep.",EGY,1993,61275601.0
 Euro area,EMU,1993,315449104.0
+Eritrea,ERI,1993,3099047.0
 Spain,ESP,1993,39361262.0
 Estonia,EST,1993,1494128.0
 Ethiopia,ETH,1993,53532956.0
-European Union,EUU,1993,482099286.0
 Fragile and conflict affected situations,FCS,1993,282512676.0
 Finland,FIN,1993,5066447.0
 Fiji,FJI,1993,755026.0
@@ -8601,6 +8800,7 @@ Indonesia,IDN,1993,190879523.0
 IDA only,IDX,1993,606964141.0
 Isle of Man,IMN,1993,69656.0
 India,IND,1993,924057817.0
+Not classified,INX,1993,0.0
 Ireland,IRL,1993,3576261.0
 "Iran, Islamic Rep.",IRN,1993,58991218.0
 Iraq,IRQ,1993,19011917.0
@@ -8617,6 +8817,7 @@ Cambodia,KHM,1993,9968275.0
 Kiribati,KIR,1993,75719.0
 St. Kitts and Nevis,KNA,1993,41846.0
 "Korea, Rep.",KOR,1993,44194628.0
+Kuwait,KWT,1993,0.0
 Latin America & Caribbean (excluding high income),LAC,1993,409949382.0
 Lao PDR,LAO,1993,4623280.0
 Lebanon,LBN,1993,2900854.0
@@ -8684,6 +8885,7 @@ Pre-demographic dividend,PRE,1993,456086696.0
 Puerto Rico,PRI,1993,3615497.0
 Portugal,PRT,1993,9964675.0
 Paraguay,PRY,1993,4541902.0
+West Bank and Gaza,PSE,1993,2262676.0
 Pacific island small states,PSS,1993,1782065.0
 Post-demographic dividend,PST,1993,984287544.0
 French Polynesia,PYF,1993,208345.0
@@ -8701,6 +8903,7 @@ Sierra Leone,SLE,1993,4307299.0
 El Salvador,SLV,1993,5474000.0
 San Marino,SMR,1993,25141.0
 Somalia,SOM,1993,7519811.0
+Serbia,SRB,1993,7699307.0
 Sub-Saharan Africa (excluding high income),SSA,1993,556379645.0
 South Sudan,SSD,1993,5490915.0
 Sub-Saharan Africa,SSF,1993,556451898.0
@@ -8711,6 +8914,7 @@ Slovak Republic,SVK,1993,5325305.0
 Slovenia,SVN,1993,1991746.0
 Sweden,SWE,1993,8718561.0
 Swaziland,SWZ,1993,924025.0
+Sint Maarten (Dutch part),SXM,1993,0.0
 Seychelles,SYC,1993,72253.0
 Syrian Arab Republic,SYR,1993,13564167.0
 Turks and Caicos Islands,TCA,1993,13789.0
@@ -8767,6 +8971,7 @@ Austria,AUT,1994,7936118.0
 Azerbaijan,AZE,1994,7597000.0
 Burundi,BDI,1994,5871607.0
 Belgium,BEL,1994,10115603.0
+Benin,BEN,1994,5714220.0
 Burkina Faso,BFA,1994,9816588.0
 Bangladesh,BGD,1994,116182267.0
 Bulgaria,BGR,1994,8443591.0
@@ -8817,6 +9022,7 @@ Europe & Central Asia,ECS,1994,854723055.0
 Ecuador,ECU,1994,11196479.0
 "Egypt, Arab Rep.",EGY,1994,62495745.0
 Euro area,EMU,1994,316366779.0
+Eritrea,ERI,1994,3085443.0
 Spain,ESP,1994,39549108.0
 Estonia,EST,1994,1462514.0
 Ethiopia,ETH,1994,55431123.0
@@ -8857,6 +9063,7 @@ Indonesia,IDN,1994,193945272.0
 IDA only,IDX,1994,623460765.0
 Isle of Man,IMN,1994,69818.0
 India,IND,1994,942204249.0
+Not classified,INX,1994,0.0
 Ireland,IRL,1994,3590386.0
 "Iran, Islamic Rep.",IRN,1994,59725125.0
 Iraq,IRQ,1994,19597239.0
@@ -8873,6 +9080,7 @@ Cambodia,KHM,1994,10315376.0
 Kiribati,KIR,1994,76671.0
 St. Kitts and Nevis,KNA,1994,42373.0
 "Korea, Rep.",KOR,1994,44641540.0
+Kuwait,KWT,1994,0.0
 Latin America & Caribbean (excluding high income),LAC,1994,417319166.0
 Lao PDR,LAO,1994,4740380.0
 Lebanon,LBN,1994,2974640.0
@@ -8892,6 +9100,7 @@ Lithuania,LTU,1994,3657144.0
 Luxembourg,LUX,1994,402925.0
 Latvia,LVA,1994,2520742.0
 "Macao SAR, China",MAC,1994,377960.0
+St. Martin (French part),MAF,1994,33098.0
 Morocco,MAR,1994,26667048.0
 Monaco,MCO,1994,30427.0
 Moldova,MDA,1994,3691000.0
@@ -8939,6 +9148,7 @@ Pre-demographic dividend,PRE,1994,469790790.0
 Puerto Rico,PRI,1994,3649237.0
 Portugal,PRT,1994,9991525.0
 Paraguay,PRY,1994,4651225.0
+West Bank and Gaza,PSE,1994,2366298.0
 Pacific island small states,PSS,1994,1812877.0
 Post-demographic dividend,PST,1994,989994337.0
 French Polynesia,PYF,1994,211579.0
@@ -8956,6 +9166,7 @@ Sierra Leone,SLE,1994,4283621.0
 El Salvador,SLV,1994,5544945.0
 San Marino,SMR,1994,25516.0
 Somalia,SOM,1994,7583954.0
+Serbia,SRB,1994,7734639.0
 Sub-Saharan Africa (excluding high income),SSA,1994,571754398.0
 South Sudan,SSD,1994,5431738.0
 Sub-Saharan Africa,SSF,1994,571828603.0
@@ -8966,6 +9177,7 @@ Slovak Republic,SVK,1994,5346331.0
 Slovenia,SVN,1994,1989443.0
 Sweden,SWE,1994,8780745.0
 Swaziland,SWZ,1994,941774.0
+Sint Maarten (Dutch part),SXM,1994,0.0
 Seychelles,SYC,1994,74205.0
 Syrian Arab Republic,SYR,1994,13949697.0
 Turks and Caicos Islands,TCA,1994,14597.0
@@ -9036,7 +9248,6 @@ Bolivia,BOL,1995,7566714.0
 Brazil,BRA,1995,162296612.0
 Barbados,BRB,1995,264959.0
 Brunei Darussalam,BRN,1995,297192.0
-Bhutan,BTN,1995,514877.0
 Botswana,BWA,1995,1569094.0
 Central African Republic,CAF,1995,3352767.0
 Canada,CAN,1995,29354000.0
@@ -9073,6 +9284,7 @@ Europe & Central Asia,ECS,1995,856352860.0
 Ecuador,ECU,1995,11440583.0
 "Egypt, Arab Rep.",EGY,1995,63714386.0
 Euro area,EMU,1995,317181449.0
+Eritrea,ERI,1995,3090159.0
 Spain,ESP,1995,39724050.0
 Estonia,EST,1995,1436634.0
 Ethiopia,ETH,1995,57309880.0
@@ -9113,6 +9325,7 @@ Indonesia,IDN,1995,196957849.0
 IDA only,IDX,1995,640118081.0
 Isle of Man,IMN,1995,70070.0
 India,IND,1995,960482795.0
+Not classified,INX,1995,0.0
 Ireland,IRL,1995,3608841.0
 "Iran, Islamic Rep.",IRN,1995,60575644.0
 Iraq,IRQ,1995,20208387.0
@@ -9129,6 +9342,7 @@ Cambodia,KHM,1995,10653558.0
 Kiribati,KIR,1995,77730.0
 St. Kitts and Nevis,KNA,1995,42891.0
 "Korea, Rep.",KOR,1995,45092991.0
+Kuwait,KWT,1995,1610651.0
 Latin America & Caribbean (excluding high income),LAC,1995,424626030.0
 Lao PDR,LAO,1995,4851923.0
 Lebanon,LBN,1995,3033394.0
@@ -9194,9 +9408,9 @@ Papua New Guinea,PNG,1995,4894276.0
 Poland,POL,1995,38594998.0
 Pre-demographic dividend,PRE,1995,483495980.0
 Puerto Rico,PRI,1995,3683103.0
-Myanmar,MMR,2014,0.006894747591789444
 Portugal,PRT,1995,10026176.0
 Paraguay,PRY,1995,4760850.0
+West Bank and Gaza,PSE,1995,2474666.0
 Pacific island small states,PSS,1995,1841944.0
 Post-demographic dividend,PST,1995,995414348.0
 French Polynesia,PYF,1995,215196.0
@@ -9214,6 +9428,7 @@ Sierra Leone,SLE,1995,4274819.0
 El Salvador,SLV,1995,5611115.0
 San Marino,SMR,1995,25877.0
 Somalia,SOM,1995,7704894.0
+Serbia,SRB,1995,7625357.0
 Sub-Saharan Africa (excluding high income),SSA,1995,587394320.0
 South Sudan,SSD,1995,5459519.0
 Sub-Saharan Africa,SSF,1995,587469624.0
@@ -9224,6 +9439,7 @@ Slovak Republic,SVK,1995,5361999.0
 Slovenia,SVN,1995,1989872.0
 Sweden,SWE,1995,8826939.0
 Swaziland,SWZ,1995,960792.0
+Sint Maarten (Dutch part),SXM,1995,0.0
 Seychelles,SYC,1995,75304.0
 Syrian Arab Republic,SYR,1995,14345492.0
 Turks and Caicos Islands,TCA,1995,15332.0
@@ -9320,6 +9536,7 @@ Czech Republic,CZE,1996,10315241.0
 Germany,DEU,1996,81914831.0
 Djibouti,DJI,1996,643682.0
 Dominica,DMA,1996,71145.0
+Denmark,DNK,1996,5263074.0
 Dominican Republic,DOM,1996,8029113.0
 Algeria,DZA,1996,29411415.0
 East Asia & Pacific (excluding high income),EAP,1996,1738422945.0
@@ -9330,6 +9547,7 @@ Europe & Central Asia,ECS,1996,857652705.0
 Ecuador,ECU,1996,11683479.0
 "Egypt, Arab Rep.",EGY,1996,64933456.0
 Euro area,EMU,1996,318003015.0
+Eritrea,ERI,1996,3116379.0
 Spain,ESP,1996,39889852.0
 Estonia,EST,1996,1415594.0
 Ethiopia,ETH,1996,59155148.0
@@ -9370,6 +9588,7 @@ Indonesia,IDN,1996,199914831.0
 IDA only,IDX,1996,656858258.0
 Isle of Man,IMN,1996,70431.0
 India,IND,1996,978893217.0
+Not classified,INX,1996,0.0
 Ireland,IRL,1996,3637510.0
 "Iran, Islamic Rep.",IRN,1996,61583089.0
 Iraq,IRQ,1996,20845893.0
@@ -9386,6 +9605,7 @@ Cambodia,KHM,1996,10980273.0
 Kiribati,KIR,1996,78907.0
 St. Kitts and Nevis,KNA,1996,43373.0
 "Korea, Rep.",KOR,1996,45524681.0
+Kuwait,KWT,1996,1631740.0
 Latin America & Caribbean (excluding high income),LAC,1996,431868811.0
 Lao PDR,LAO,1996,4957180.0
 Lebanon,LBN,1996,3070960.0
@@ -9453,6 +9673,7 @@ Pre-demographic dividend,PRE,1996,497126039.0
 Puerto Rico,PRI,1996,3724655.0
 Portugal,PRT,1996,10063945.0
 Paraguay,PRY,1996,4870694.0
+West Bank and Gaza,PSE,1996,2587997.0
 Pacific island small states,PSS,1996,1869026.0
 Post-demographic dividend,PST,1996,1000643919.0
 French Polynesia,PYF,1996,219283.0
@@ -9470,6 +9691,7 @@ Sierra Leone,SLE,1996,4282350.0
 El Salvador,SLV,1996,5671925.0
 San Marino,SMR,1996,26209.0
 Somalia,SOM,1996,7892389.0
+Serbia,SRB,1996,7617794.0
 Sub-Saharan Africa (excluding high income),SSA,1996,603309222.0
 South Sudan,SSD,1996,5591114.0
 Sub-Saharan Africa,SSF,1996,603385639.0
@@ -9480,6 +9702,7 @@ Slovak Republic,SVK,1996,5373361.0
 Slovenia,SVN,1996,1988628.0
 Sweden,SWE,1996,8840998.0
 Swaziland,SWZ,1996,981764.0
+Sint Maarten (Dutch part),SXM,1996,0.0
 Seychelles,SYC,1996,76417.0
 Syrian Arab Republic,SYR,1996,14755286.0
 Turks and Caicos Islands,TCA,1996,15966.0
@@ -9587,6 +9810,7 @@ Europe & Central Asia,ECS,1997,859112733.0
 Ecuador,ECU,1997,11924993.0
 "Egypt, Arab Rep.",EGY,1997,66151117.0
 Euro area,EMU,1997,318761764.0
+Eritrea,ERI,1997,3161350.0
 Spain,ESP,1997,40057389.0
 Estonia,EST,1997,1399535.0
 Ethiopia,ETH,1997,60976450.0
@@ -9627,6 +9851,7 @@ Indonesia,IDN,1997,202826465.0
 IDA only,IDX,1997,673694433.0
 Isle of Man,IMN,1997,70869.0
 India,IND,1997,997405318.0
+Not classified,INX,1997,0.0
 Ireland,IRL,1997,3674171.0
 "Iran, Islamic Rep.",IRN,1997,62710557.0
 Iraq,IRQ,1997,21509291.0
@@ -9639,10 +9864,10 @@ Japan,JPN,1997,126057000.0
 Kazakhstan,KAZ,1997,15333703.0
 Kenya,KEN,1997,28954114.0
 Kyrgyz Republic,KGZ,1997,4696400.0
-Cambodia,KHM,1997,11295880.0
 Kiribati,KIR,1997,80184.0
 St. Kitts and Nevis,KNA,1997,43846.0
 "Korea, Rep.",KOR,1997,45953580.0
+Kuwait,KWT,1997,1715314.0
 Latin America & Caribbean (excluding high income),LAC,1997,439044994.0
 Lao PDR,LAO,1997,5056519.0
 Lebanon,LBN,1997,3092670.0
@@ -9708,9 +9933,10 @@ Papua New Guinea,PNG,1997,5154910.0
 Poland,POL,1997,38649660.0
 Pre-demographic dividend,PRE,1997,510777895.0
 Puerto Rico,PRI,1997,3759430.0
-Malaysia,MYS,2008,0.0035996691880114296
+Niger,NER,2001,11771976.0
 Portugal,PRT,1997,10108977.0
 Paraguay,PRY,1997,4980344.0
+West Bank and Gaza,PSE,1997,2706518.0
 Pacific island small states,PSS,1997,1894564.0
 Post-demographic dividend,PST,1997,1005863664.0
 French Polynesia,PYF,1997,223731.0
@@ -9728,6 +9954,7 @@ Sierra Leone,SLE,1997,4305455.0
 El Salvador,SLV,1997,5727755.0
 San Marino,SMR,1997,26508.0
 Somalia,SOM,1997,8137475.0
+Serbia,SRB,1997,7596501.0
 Sub-Saharan Africa (excluding high income),SSA,1997,619530637.0
 South Sudan,SSD,1997,5814006.0
 Sub-Saharan Africa,SSF,1997,619607956.0
@@ -9738,6 +9965,7 @@ Slovak Republic,SVK,1997,5383291.0
 Slovenia,SVN,1997,1985956.0
 Sweden,SWE,1997,8846062.0
 Swaziland,SWZ,1997,1003995.0
+Sint Maarten (Dutch part),SXM,1997,0.0
 Seychelles,SYC,1997,77319.0
 Syrian Arab Republic,SYR,1997,15177456.0
 Turks and Caicos Islands,TCA,1997,16528.0
@@ -9845,6 +10073,7 @@ Europe & Central Asia,ECS,1998,860236341.0
 Ecuador,ECU,1998,12163885.0
 "Egypt, Arab Rep.",EGY,1998,67378056.0
 Euro area,EMU,1998,319433983.0
+Eritrea,ERI,1998,3224223.0
 Spain,ESP,1998,40223509.0
 Estonia,EST,1998,1386156.0
 Ethiopia,ETH,1998,62794151.0
@@ -9873,6 +10102,7 @@ Guyana,GUY,1998,757952.0
 High income,HIC,1998,1100763765.0
 "Hong Kong SAR, China",HKG,1998,6543700.0
 Honduras,HND,1998,6192026.0
+Heavily indebted poor countries (HIPC),HPC,1998,449393754.0
 Croatia,HRV,1998,4501000.0
 Haiti,HTI,1998,8258483.0
 Hungary,HUN,1998,10266570.0
@@ -9884,6 +10114,7 @@ Indonesia,IDN,1998,205715544.0
 IDA only,IDX,1998,690576345.0
 Isle of Man,IMN,1998,71390.0
 India,IND,1998,1015974042.0
+Not classified,INX,1998,0.0
 Ireland,IRL,1998,3712696.0
 "Iran, Islamic Rep.",IRN,1998,63900630.0
 Iraq,IRQ,1998,22190250.0
@@ -9900,6 +10131,7 @@ Cambodia,KHM,1998,11597739.0
 Kiribati,KIR,1998,81550.0
 St. Kitts and Nevis,KNA,1998,44317.0
 "Korea, Rep.",KOR,1998,46286503.0
+Kuwait,KWT,1998,1836353.0
 Latin America & Caribbean (excluding high income),LAC,1998,446128863.0
 Lao PDR,LAO,1998,5150763.0
 Lebanon,LBN,1998,3113951.0
@@ -9967,6 +10199,7 @@ Pre-demographic dividend,PRE,1998,524647448.0
 Puerto Rico,PRI,1998,3781101.0
 Portugal,PRT,1998,10160196.0
 Paraguay,PRY,1998,5089310.0
+West Bank and Gaza,PSE,1998,2776568.0
 Pacific island small states,PSS,1998,1918741.0
 Post-demographic dividend,PST,1998,1010698895.0
 French Polynesia,PYF,1998,228376.0
@@ -9984,6 +10217,7 @@ Sierra Leone,SLE,1998,4353646.0
 El Salvador,SLV,1998,5778706.0
 San Marino,SMR,1998,26799.0
 Somalia,SOM,1998,8422372.0
+Serbia,SRB,1998,7567745.0
 Sub-Saharan Africa (excluding high income),SSA,1998,636103731.0
 South Sudan,SSD,1998,6099923.0
 Sub-Saharan Africa,SSF,1998,636182577.0
@@ -9994,6 +10228,7 @@ Slovak Republic,SVK,1998,5390516.0
 Slovenia,SVN,1998,1981629.0
 Sweden,SWE,1998,8850974.0
 Swaziland,SWZ,1998,1026009.0
+Sint Maarten (Dutch part),SXM,1998,31240.0
 Seychelles,SYC,1998,78846.0
 Syrian Arab Republic,SYR,1998,15602210.0
 Turks and Caicos Islands,TCA,1998,17115.0
@@ -10101,6 +10336,7 @@ Europe & Central Asia,ECS,1999,861380108.0
 Ecuador,ECU,1999,12398691.0
 "Egypt, Arab Rep.",EGY,1999,68626664.0
 Euro area,EMU,1999,320258902.0
+Eritrea,ERI,1999,3302263.0
 Spain,ESP,1999,40386875.0
 Estonia,EST,1999,1390244.0
 Ethiopia,ETH,1999,64640054.0
@@ -10113,7 +10349,6 @@ Faroe Islands,FRO,1999,46937.0
 "Micronesia, Fed. Sts.",FSM,1999,107816.0
 Gabon,GAB,1999,1200773.0
 United Kingdom,GBR,1999,58682466.0
-Georgia,GEO,1999,4452500.0
 Ghana,GHA,1999,18477612.0
 Gibraltar,GIB,1999,30991.0
 Guinea,GIN,1999,8653769.0
@@ -10141,6 +10376,7 @@ Indonesia,IDN,1999,208612556.0
 IDA only,IDX,1999,707695184.0
 Isle of Man,IMN,1999,71952.0
 India,IND,1999,1034539214.0
+Not classified,INX,1999,0.0
 Ireland,IRL,1999,3754786.0
 "Iran, Islamic Rep.",IRN,1999,65062660.0
 Iraq,IRQ,1999,22878156.0
@@ -10157,6 +10393,7 @@ Cambodia,KHM,1999,11883636.0
 Kiribati,KIR,1999,82966.0
 St. Kitts and Nevis,KNA,1999,44824.0
 "Korea, Rep.",KOR,1999,46616677.0
+Kuwait,KWT,1999,1957066.0
 Latin America & Caribbean (excluding high income),LAC,1999,453089523.0
 Lao PDR,LAO,1999,5241284.0
 Lebanon,LBN,1999,3156646.0
@@ -10222,9 +10459,10 @@ Papua New Guinea,PNG,1999,5430479.0
 Poland,POL,1999,38660271.0
 Pre-demographic dividend,PRE,1999,539018066.0
 Puerto Rico,PRI,1999,3800081.0
-Nepal,NPL,2002,0.0032617400059208627
+Oman,OMN,2007,2662762.0
 Portugal,PRT,1999,10217828.0
 Paraguay,PRY,1999,5196937.0
+West Bank and Gaza,PSE,1999,2848431.0
 Pacific island small states,PSS,1999,1941848.0
 Post-demographic dividend,PST,1999,1015607144.0
 French Polynesia,PYF,1999,232952.0
@@ -10242,6 +10480,7 @@ Sierra Leone,SLE,1999,4437803.0
 El Salvador,SLV,1999,5825187.0
 San Marino,SMR,1999,27096.0
 Somalia,SOM,1999,8720231.0
+Serbia,SRB,1999,7540401.0
 Sub-Saharan Africa (excluding high income),SSA,1999,653099453.0
 South Sudan,SSD,1999,6405864.0
 Sub-Saharan Africa,SSF,1999,653179863.0
@@ -10252,6 +10491,7 @@ Slovak Republic,SVK,1999,5396020.0
 Slovenia,SVN,1999,1983045.0
 Sweden,SWE,1999,8857874.0
 Swaziland,SWZ,1999,1045629.0
+Sint Maarten (Dutch part),SXM,1999,31084.0
 Seychelles,SYC,1999,80410.0
 Syrian Arab Republic,SYR,1999,16016092.0
 Turks and Caicos Islands,TCA,1999,17864.0
@@ -10299,6 +10539,7 @@ Albania,ALB,2000,3089027.0
 Andorra,AND,2000,65390.0
 Arab World,ARB,2000,283832016.0
 United Arab Emirates,ARE,2000,3154925.0
+Argentina,ARG,2000,37057452.0
 Armenia,ARM,2000,3069588.0
 American Samoa,ASM,2000,57521.0
 Antigua and Barbuda,ATG,2000,83584.0
@@ -10358,6 +10599,7 @@ Europe & Central Asia,ECS,2000,862304086.0
 Ecuador,ECU,2000,12628596.0
 "Egypt, Arab Rep.",EGY,2000,69905988.0
 Euro area,EMU,2000,321310787.0
+Eritrea,ERI,2000,3392801.0
 Spain,ESP,2000,40567864.0
 Estonia,EST,2000,1396985.0
 Ethiopia,ETH,2000,66537331.0
@@ -10398,6 +10640,7 @@ Indonesia,IDN,2000,211540429.0
 IDA only,IDX,2000,725360055.0
 Isle of Man,IMN,2000,72554.0
 India,IND,2000,1053050912.0
+Not classified,INX,2000,0.0
 Ireland,IRL,2000,3805174.0
 "Iran, Islamic Rep.",IRN,2000,66131854.0
 Iraq,IRQ,2000,23565413.0
@@ -10414,6 +10657,7 @@ Cambodia,KHM,2000,12152354.0
 Kiribati,KIR,2000,84406.0
 St. Kitts and Nevis,KNA,2000,45374.0
 "Korea, Rep.",KOR,2000,47008111.0
+Kuwait,KWT,2000,2050741.0
 Latin America & Caribbean (excluding high income),LAC,2000,459908706.0
 Lao PDR,LAO,2000,5329304.0
 Lebanon,LBN,2000,3235366.0
@@ -10424,6 +10668,7 @@ Latin America & Caribbean,LCN,2000,524829251.0
 Least developed countries: UN classification,LDC,2000,664804763.0
 Low income,LIC,2000,465631330.0
 Liechtenstein,LIE,2000,33286.0
+Sri Lanka,LKA,2000,18781938.0
 Lower middle income,LMC,2000,2280235216.0
 Low & middle income,LMY,2000,5006672528.0
 Lesotho,LSO,2000,1868699.0
@@ -10480,6 +10725,7 @@ Pre-demographic dividend,PRE,2000,554097477.0
 Puerto Rico,PRI,2000,3810605.0
 Portugal,PRT,2000,10289898.0
 Paraguay,PRY,2000,5302700.0
+West Bank and Gaza,PSE,2000,2922153.0
 Pacific island small states,PSS,2000,1964216.0
 Post-demographic dividend,PST,2000,1020591853.0
 French Polynesia,PYF,2000,237258.0
@@ -10497,6 +10743,7 @@ Sierra Leone,SLE,2000,4564297.0
 El Salvador,SLV,2000,5867626.0
 San Marino,SMR,2000,27418.0
 Somalia,SOM,2000,9011479.0
+Serbia,SRB,2000,7516346.0
 Sub-Saharan Africa (excluding high income),SSA,2000,670568507.0
 South Sudan,SSD,2000,6700656.0
 Sub-Saharan Africa,SSF,2000,670649638.0
@@ -10507,6 +10754,7 @@ Slovak Republic,SVK,2000,5388720.0
 Slovenia,SVN,2000,1988925.0
 Sweden,SWE,2000,8872109.0
 Swaziland,SWZ,2000,1061468.0
+Sint Maarten (Dutch part),SXM,2000,30519.0
 Seychelles,SYC,2000,81131.0
 Syrian Arab Republic,SYR,2000,16410848.0
 Turks and Caicos Islands,TCA,2000,18873.0
@@ -10586,7 +10834,6 @@ Switzerland,CHE,2001,7229854.0
 Channel Islands,CHI,2001,149793.0
 Chile,CHL,2001,15444969.0
 China,CHN,2001,1271850000.0
-Cote d'Ivoire,CIV,2001,17040152.0
 Cameroon,CMR,2001,15671927.0
 "Congo, Dem. Rep.",COD,2001,48394338.0
 "Congo, Rep.",COG,2001,3315806.0
@@ -10614,6 +10861,7 @@ Europe & Central Asia,ECS,2001,863615632.0
 Ecuador,ECU,2001,12852755.0
 "Egypt, Arab Rep.",EGY,2001,71226940.0
 Euro area,EMU,2001,322547880.0
+Eritrea,ERI,2001,3497124.0
 Spain,ESP,2001,40850412.0
 Estonia,EST,2001,1388115.0
 Ethiopia,ETH,2001,68492257.0
@@ -10654,6 +10902,7 @@ Indonesia,IDN,2001,214506502.0
 IDA only,IDX,2001,743525090.0
 Isle of Man,IMN,2001,73192.0
 India,IND,2001,1071477855.0
+Not classified,INX,2001,0.0
 Ireland,IRL,2001,3866243.0
 "Iran, Islamic Rep.",IRN,2001,67096414.0
 Iraq,IRQ,2001,24251649.0
@@ -10670,6 +10919,7 @@ Cambodia,KHM,2001,12402473.0
 Kiribati,KIR,2001,85858.0
 St. Kitts and Nevis,KNA,2001,45990.0
 "Korea, Rep.",KOR,2001,47370164.0
+Kuwait,KWT,2001,2109355.0
 Latin America & Caribbean (excluding high income),LAC,2001,466569961.0
 Lao PDR,LAO,2001,5414568.0
 Lebanon,LBN,2001,3359859.0
@@ -10715,7 +10965,6 @@ Malaysia,MYS,2001,23698907.0
 North America,NAC,2001,316113359.0
 Namibia,NAM,2001,1933596.0
 New Caledonia,NCL,2001,217324.0
-Niger,NER,2001,11771976.0
 Nigeria,NGA,2001,125463434.0
 Nicaragua,NIC,2001,5100750.0
 Netherlands,NLD,2001,16046180.0
@@ -10735,8 +10984,10 @@ Papua New Guinea,PNG,2001,5716152.0
 Poland,POL,2001,38248076.0
 Pre-demographic dividend,PRE,2001,569959700.0
 Puerto Rico,PRI,2001,3818774.0
+Pre-demographic dividend,PRE,2013,806705375.0
 Portugal,PRT,2001,10362722.0
 Paraguay,PRY,2001,5406624.0
+West Bank and Gaza,PSE,2001,2997784.0
 Pacific island small states,PSS,2001,1985712.0
 Post-demographic dividend,PST,2001,1025668441.0
 French Polynesia,PYF,2001,241273.0
@@ -10754,6 +11005,7 @@ Sierra Leone,SLE,2001,4739147.0
 El Salvador,SLV,2001,5905962.0
 San Marino,SMR,2001,27762.0
 Somalia,SOM,2001,9290823.0
+Serbia,SRB,2001,7503433.0
 Sub-Saharan Africa (excluding high income),SSA,2001,688534793.0
 South Sudan,SSD,2001,6974442.0
 Sub-Saharan Africa,SSF,2001,688615995.0
@@ -10764,6 +11016,7 @@ Slovak Republic,SVK,2001,5378867.0
 Slovenia,SVN,2001,1992060.0
 Sweden,SWE,2001,8895960.0
 Swaziland,SWZ,2001,1072927.0
+Sint Maarten (Dutch part),SXM,2001,30600.0
 Seychelles,SYC,2001,81202.0
 Syrian Arab Republic,SYR,2001,16766899.0
 Turks and Caicos Islands,TCA,2001,20185.0
@@ -10851,6 +11104,7 @@ Colombia,COL,2002,41572491.0
 Comoros,COM,2002,569479.0
 Cabo Verde,CPV,2002,452106.0
 Costa Rica,CRI,2002,4063204.0
+Caribbean small states,CSS,2002,6623792.0
 Cuba,CUB,2002,11217998.0
 Curacao,CUW,2002,129205.0
 Cayman Islands,CYM,2002,44738.0
@@ -10870,6 +11124,7 @@ Europe & Central Asia,ECS,2002,865196877.0
 Ecuador,ECU,2002,13072060.0
 "Egypt, Arab Rep.",EGY,2002,72590118.0
 Euro area,EMU,2002,324125338.0
+Eritrea,ERI,2002,3614639.0
 Spain,ESP,2002,41431558.0
 Estonia,EST,2002,1379350.0
 Ethiopia,ETH,2002,70497192.0
@@ -10910,6 +11165,7 @@ Indonesia,IDN,2002,217508059.0
 IDA only,IDX,2002,762099926.0
 Isle of Man,IMN,2002,73870.0
 India,IND,2002,1089807112.0
+Not classified,INX,2002,0.0
 Ireland,IRL,2002,3931947.0
 "Iran, Islamic Rep.",IRN,2002,67983330.0
 Iraq,IRQ,2002,24939299.0
@@ -10926,6 +11182,7 @@ Cambodia,KHM,2002,12634729.0
 Kiribati,KIR,2002,87343.0
 St. Kitts and Nevis,KNA,2002,46641.0
 "Korea, Rep.",KOR,2002,47644736.0
+Kuwait,KWT,2002,2143833.0
 Latin America & Caribbean (excluding high income),LAC,2002,473087978.0
 Lao PDR,LAO,2002,5497273.0
 Lebanon,LBN,2002,3522837.0
@@ -10976,6 +11233,7 @@ Nigeria,NGA,2002,128666710.0
 Nicaragua,NIC,2002,5171734.0
 Netherlands,NLD,2002,16148929.0
 Norway,NOR,2002,4538159.0
+Nepal,NPL,2002,24566342.0
 Nauru,NRU,2002,10080.0
 New Zealand,NZL,2002,3948500.0
 OECD members,OED,2002,1173046153.0
@@ -10992,6 +11250,7 @@ Pre-demographic dividend,PRE,2002,586553190.0
 Puerto Rico,PRI,2002,3823701.0
 Portugal,PRT,2002,10419631.0
 Paraguay,PRY,2002,5508611.0
+West Bank and Gaza,PSE,2002,3075373.0
 Pacific island small states,PSS,2002,2006448.0
 Post-demographic dividend,PST,2002,1030742327.0
 French Polynesia,PYF,2002,245006.0
@@ -11009,6 +11268,7 @@ Sierra Leone,SLE,2002,4957216.0
 El Salvador,SLV,2002,5940303.0
 San Marino,SMR,2002,28121.0
 Somalia,SOM,2002,9564167.0
+Serbia,SRB,2002,7496522.0
 Sub-Saharan Africa (excluding high income),SSA,2002,707016127.0
 South Sudan,SSD,2002,7237276.0
 Sub-Saharan Africa,SSF,2002,707099850.0
@@ -11019,6 +11279,7 @@ Slovak Republic,SVK,2002,5376912.0
 Slovenia,SVN,2002,1994530.0
 Sweden,SWE,2002,8924958.0
 Swaziland,SWZ,2002,1080930.0
+Sint Maarten (Dutch part),SXM,2002,30777.0
 Seychelles,SYC,2002,83723.0
 Syrian Arab Republic,SYR,2002,17087901.0
 Turks and Caicos Islands,TCA,2002,21742.0
@@ -11126,6 +11387,7 @@ Europe & Central Asia,ECS,2003,867457664.0
 Ecuador,ECU,2003,13289601.0
 "Egypt, Arab Rep.",EGY,2003,73981942.0
 Euro area,EMU,2003,325885964.0
+Eritrea,ERI,2003,3738265.0
 Spain,ESP,2003,42187645.0
 Estonia,EST,2003,1370720.0
 Ethiopia,ETH,2003,72545144.0
@@ -11166,6 +11428,7 @@ Indonesia,IDN,2003,220545214.0
 IDA only,IDX,2003,781038866.0
 Isle of Man,IMN,2003,74587.0
 India,IND,2003,1108027848.0
+Not classified,INX,2003,0.0
 Ireland,IRL,2003,3996521.0
 "Iran, Islamic Rep.",IRN,2003,68812713.0
 Iraq,IRQ,2003,25627626.0
@@ -11182,11 +11445,11 @@ Cambodia,KHM,2003,12853124.0
 Kiribati,KIR,2003,88895.0
 St. Kitts and Nevis,KNA,2003,47306.0
 "Korea, Rep.",KOR,2003,47892330.0
+Kuwait,KWT,2003,2169118.0
 Latin America & Caribbean (excluding high income),LAC,2003,479514487.0
 Lao PDR,LAO,2003,5579656.0
 Lebanon,LBN,2003,3701464.0
 Liberia,LBR,2003,3116233.0
-Libya,LBY,2003,5615952.0
 St. Lucia,LCA,2003,160973.0
 Latin America & Caribbean,LCN,2003,546478662.0
 Least developed countries: UN classification,LDC,2003,717572892.0
@@ -11247,9 +11510,9 @@ Papua New Guinea,PNG,2003,6010724.0
 Poland,POL,2003,38204570.0
 Pre-demographic dividend,PRE,2003,603809871.0
 Puerto Rico,PRI,2003,3826095.0
-West Bank and Gaza,PSE,1990,0.0002621348889850009
 Portugal,PRT,2003,10458821.0
 Paraguay,PRY,2003,5607950.0
+West Bank and Gaza,PSE,2003,3154969.0
 Pacific island small states,PSS,2003,2027212.0
 Post-demographic dividend,PST,2003,1035918962.0
 French Polynesia,PYF,2003,248499.0
@@ -11267,6 +11530,7 @@ Sierra Leone,SLE,2003,5199549.0
 El Salvador,SLV,2003,5971535.0
 San Marino,SMR,2003,28494.0
 Somalia,SOM,2003,9836397.0
+Serbia,SRB,2003,7480591.0
 Sub-Saharan Africa (excluding high income),SSA,2003,726057836.0
 South Sudan,SSD,2003,7501642.0
 Sub-Saharan Africa,SSF,2003,726140617.0
@@ -11277,6 +11541,7 @@ Slovak Republic,SVK,2003,5373374.0
 Slovenia,SVN,2003,1995733.0
 Sweden,SWE,2003,8958229.0
 Swaziland,SWZ,2003,1087392.0
+Sint Maarten (Dutch part),SXM,2003,31472.0
 Seychelles,SYC,2003,82781.0
 Syrian Arab Republic,SYR,2003,17415266.0
 Turks and Caicos Islands,TCA,2003,23410.0
@@ -11384,6 +11649,7 @@ Europe & Central Asia,ECS,2004,870030756.0
 Ecuador,ECU,2004,13509647.0
 "Egypt, Arab Rep.",EGY,2004,75381899.0
 Euro area,EMU,2004,327682507.0
+Eritrea,ERI,2004,3858623.0
 Spain,ESP,2004,42921895.0
 Estonia,EST,2004,1362550.0
 Ethiopia,ETH,2004,74624405.0
@@ -11403,6 +11669,7 @@ Guinea,GIN,2004,9490229.0
 "Gambia, The",GMB,2004,1398573.0
 Guinea-Bissau,GNB,2004,1350345.0
 Equatorial Guinea,GNQ,2004,724817.0
+Greece,GRC,2004,10955141.0
 Grenada,GRD,2004,102656.0
 Greenland,GRL,2004,56911.0
 Guatemala,GTM,2004,12796925.0
@@ -11423,6 +11690,7 @@ Indonesia,IDN,2004,223614649.0
 IDA only,IDX,2004,800261013.0
 Isle of Man,IMN,2004,75341.0
 India,IND,2004,1126135777.0
+Not classified,INX,2004,0.0
 Ireland,IRL,2004,4070262.0
 "Iran, Islamic Rep.",IRN,2004,69617100.0
 Iraq,IRQ,2004,26316609.0
@@ -11439,6 +11707,7 @@ Cambodia,KHM,2004,13063377.0
 Kiribati,KIR,2004,90542.0
 St. Kitts and Nevis,KNA,2004,47971.0
 "Korea, Rep.",KOR,2004,48082519.0
+Kuwait,KWT,2004,2207939.0
 Latin America & Caribbean (excluding high income),LAC,2004,485921455.0
 Lao PDR,LAO,2004,5664605.0
 Lebanon,LBN,2004,3863267.0
@@ -11504,9 +11773,9 @@ Papua New Guinea,PNG,2004,6161517.0
 Poland,POL,2004,38182222.0
 Pre-demographic dividend,PRE,2004,621611464.0
 Puerto Rico,PRI,2004,3826878.0
-Qatar,QAT,2016,0.0003406910701552276
 Portugal,PRT,2004,10483861.0
 Paraguay,PRY,2004,5703740.0
+West Bank and Gaza,PSE,2004,3236626.0
 Pacific island small states,PSS,2004,2049025.0
 Post-demographic dividend,PST,2004,1041303140.0
 French Polynesia,PYF,2004,251775.0
@@ -11524,6 +11793,7 @@ Sierra Leone,SLE,2004,5439695.0
 El Salvador,SLV,2004,6000775.0
 San Marino,SMR,2004,28866.0
 Somalia,SOM,2004,10116228.0
+Serbia,SRB,2004,7463157.0
 Sub-Saharan Africa (excluding high income),SSA,2004,745705643.0
 South Sudan,SSD,2004,7787655.0
 Sub-Saharan Africa,SSF,2004,745788118.0
@@ -11534,6 +11804,7 @@ Slovak Republic,SVK,2004,5372280.0
 Slovenia,SVN,2004,1997012.0
 Sweden,SWE,2004,8993531.0
 Swaziland,SWZ,2004,1095053.0
+Sint Maarten (Dutch part),SXM,2004,32488.0
 Seychelles,SYC,2004,82475.0
 Syrian Arab Republic,SYR,2004,17806638.0
 Turks and Caicos Islands,TCA,2004,25028.0
@@ -11641,6 +11912,7 @@ Europe & Central Asia,ECS,2005,872661616.0
 Ecuador,ECU,2005,13735233.0
 "Egypt, Arab Rep.",EGY,2005,76778149.0
 Euro area,EMU,2005,329380413.0
+Eritrea,ERI,2005,3969007.0
 Spain,ESP,2005,43653155.0
 Estonia,EST,2005,1354775.0
 Ethiopia,ETH,2005,76727083.0
@@ -11662,7 +11934,6 @@ Guinea-Bissau,GNB,2005,1380838.0
 Equatorial Guinea,GNQ,2005,757317.0
 Greece,GRC,2005,10987314.0
 Grenada,GRD,2005,102949.0
-Greenland,GRL,2005,56935.0
 Guatemala,GTM,2005,13096028.0
 Guam,GUM,2005,158402.0
 Guyana,GUY,2005,750946.0
@@ -11681,6 +11952,7 @@ Indonesia,IDN,2005,226712730.0
 IDA only,IDX,2005,819696286.0
 Isle of Man,IMN,2005,76118.0
 India,IND,2005,1144118674.0
+Not classified,INX,2005,0.0
 Ireland,IRL,2005,4159914.0
 "Iran, Islamic Rep.",IRN,2005,70421811.0
 Iraq,IRQ,2005,27008426.0
@@ -11697,6 +11969,7 @@ Cambodia,KHM,2005,13270201.0
 Kiribati,KIR,2005,92325.0
 St. Kitts and Nevis,KNA,2005,48611.0
 "Korea, Rep.",KOR,2005,48184561.0
+Kuwait,KWT,2005,2276623.0
 Latin America & Caribbean (excluding high income),LAC,2005,492360617.0
 Lao PDR,LAO,2005,5754026.0
 Lebanon,LBN,2005,3986852.0
@@ -11764,6 +12037,7 @@ Pre-demographic dividend,PRE,2005,639876871.0
 Puerto Rico,PRI,2005,3821362.0
 Portugal,PRT,2005,10503330.0
 Paraguay,PRY,2005,5795494.0
+West Bank and Gaza,PSE,2005,3320396.0
 Pacific island small states,PSS,2005,2072665.0
 Post-demographic dividend,PST,2005,1046610820.0
 French Polynesia,PYF,2005,254886.0
@@ -11781,6 +12055,7 @@ Sierra Leone,SLE,2005,5658379.0
 El Salvador,SLV,2005,6028961.0
 San Marino,SMR,2005,29240.0
 Somalia,SOM,2005,10409925.0
+Serbia,SRB,2005,7440769.0
 Sub-Saharan Africa (excluding high income),SSA,2005,765997649.0
 South Sudan,SSD,2005,8108877.0
 Sub-Saharan Africa,SSF,2005,766080507.0
@@ -11791,6 +12066,7 @@ Slovak Republic,SVK,2005,5372807.0
 Slovenia,SVN,2005,2000474.0
 Sweden,SWE,2005,9029572.0
 Swaziland,SWZ,2005,1105873.0
+Sint Maarten (Dutch part),SXM,2005,33011.0
 Seychelles,SYC,2005,82858.0
 Syrian Arab Republic,SYR,2005,18294611.0
 Turks and Caicos Islands,TCA,2005,26448.0
@@ -11898,6 +12174,7 @@ Europe & Central Asia,ECS,2006,875343235.0
 Ecuador,ECU,2006,13967480.0
 "Egypt, Arab Rep.",EGY,2006,78159048.0
 Euro area,EMU,2006,330922791.0
+Eritrea,ERI,2006,4066648.0
 Spain,ESP,2006,44397319.0
 Estonia,EST,2006,1346810.0
 Ethiopia,ETH,2006,78850689.0
@@ -11938,6 +12215,7 @@ Indonesia,IDN,2006,229838202.0
 IDA only,IDX,2006,839353410.0
 Isle of Man,IMN,2006,76914.0
 India,IND,2006,1161977719.0
+Not classified,INX,2006,0.0
 Ireland,IRL,2006,4273591.0
 "Iran, Islamic Rep.",IRN,2006,71227880.0
 Iraq,IRQ,2006,27697912.0
@@ -11954,7 +12232,9 @@ Cambodia,KHM,2006,13474489.0
 Kiribati,KIR,2006,94260.0
 St. Kitts and Nevis,KNA,2006,49210.0
 "Korea, Rep.",KOR,2006,48438292.0
+Kuwait,KWT,2006,2377258.0
 Latin America & Caribbean (excluding high income),LAC,2006,498847473.0
+Lao PDR,LAO,2006,5849356.0
 Lebanon,LBN,2006,4057350.0
 Liberia,LBR,2006,3375838.0
 Libya,LBY,2006,5881435.0
@@ -12018,9 +12298,9 @@ Papua New Guinea,PNG,2006,6470272.0
 Poland,POL,2006,38141267.0
 Pre-demographic dividend,PRE,2006,658586521.0
 Puerto Rico,PRI,2006,3805214.0
-Solomon Islands,SLB,2010,6.952008763431788e-05
 Portugal,PRT,2006,10522288.0
 Paraguay,PRY,2006,5882796.0
+West Bank and Gaza,PSE,2006,3406334.0
 Pacific island small states,PSS,2006,2098492.0
 Post-demographic dividend,PST,2006,1052236684.0
 French Polynesia,PYF,2006,257832.0
@@ -12038,6 +12318,7 @@ Sierra Leone,SLE,2006,5848692.0
 El Salvador,SLV,2006,6056478.0
 San Marino,SMR,2006,29614.0
 Somalia,SOM,2006,10718317.0
+Serbia,SRB,2006,7411569.0
 Sub-Saharan Africa (excluding high income),SSA,2006,786951192.0
 South Sudan,SSD,2006,8468152.0
 Sub-Saharan Africa,SSF,2006,787035792.0
@@ -12048,6 +12329,7 @@ Slovak Republic,SVK,2006,5373054.0
 Slovenia,SVN,2006,2006868.0
 Sweden,SWE,2006,9080505.0
 Swaziland,SWZ,2006,1120514.0
+Sint Maarten (Dutch part),SXM,2006,33441.0
 Seychelles,SYC,2006,84600.0
 Syrian Arab Republic,SYR,2006,18914977.0
 Turks and Caicos Islands,TCA,2006,27642.0
@@ -12136,7 +12418,6 @@ Comoros,COM,2007,641620.0
 Cabo Verde,CPV,2007,486438.0
 Costa Rica,CRI,2007,4369469.0
 Caribbean small states,CSS,2007,6851221.0
-Cuba,CUB,2007,11303687.0
 Curacao,CUW,2007,144056.0
 Cayman Islands,CYM,2007,51483.0
 Cyprus,CYP,2007,1063712.0
@@ -12155,6 +12436,7 @@ Europe & Central Asia,ECS,2007,878465990.0
 Ecuador,ECU,2007,14205453.0
 "Egypt, Arab Rep.",EGY,2007,79537253.0
 Euro area,EMU,2007,332645166.0
+Eritrea,ERI,2007,4153332.0
 Spain,ESP,2007,45226803.0
 Estonia,EST,2007,1340680.0
 Ethiopia,ETH,2007,81000409.0
@@ -12195,6 +12477,7 @@ Indonesia,IDN,2007,232989141.0
 IDA only,IDX,2007,859244504.0
 Isle of Man,IMN,2007,77727.0
 India,IND,2007,1179681239.0
+Not classified,INX,2007,0.0
 Ireland,IRL,2007,4398942.0
 "Iran, Islamic Rep.",IRN,2007,72031103.0
 Iraq,IRQ,2007,28390433.0
@@ -12211,6 +12494,7 @@ Cambodia,KHM,2007,13676693.0
 Kiribati,KIR,2007,96311.0
 St. Kitts and Nevis,KNA,2007,49783.0
 "Korea, Rep.",KOR,2007,48683638.0
+Kuwait,KWT,2007,2503410.0
 Latin America & Caribbean (excluding high income),LAC,2007,505365856.0
 Lao PDR,LAO,2007,5949787.0
 Lebanon,LBN,2007,4086466.0
@@ -12265,7 +12549,6 @@ Nepal,NPL,2007,26214847.0
 Nauru,NRU,2007,10002.0
 New Zealand,NZL,2007,4223800.0
 OECD members,OED,2007,1215883020.0
-Oman,OMN,2007,2662762.0
 Other small states,OSS,2007,24300791.0
 Pakistan,PAK,2007,160332974.0
 Panama,PAN,2007,3453807.0
@@ -12276,9 +12559,9 @@ Papua New Guinea,PNG,2007,6627922.0
 Poland,POL,2007,38120560.0
 Pre-demographic dividend,PRE,2007,677788806.0
 Puerto Rico,PRI,2007,3782995.0
-Serbia,SRB,1978,0.003213528074603465
 Portugal,PRT,2007,10542964.0
 Paraguay,PRY,2007,5966159.0
+West Bank and Gaza,PSE,2007,3494496.0
 Pacific island small states,PSS,2007,2126235.0
 Post-demographic dividend,PST,2007,1058174510.0
 French Polynesia,PYF,2007,260594.0
@@ -12296,6 +12579,7 @@ Sierra Leone,SLE,2007,6015417.0
 El Salvador,SLV,2007,6083475.0
 San Marino,SMR,2007,29977.0
 Somalia,SOM,2007,11038596.0
+Serbia,SRB,2007,7381579.0
 Sub-Saharan Africa (excluding high income),SSA,2007,808575133.0
 South Sudan,SSD,2007,8856800.0
 Sub-Saharan Africa,SSF,2007,808660166.0
@@ -12306,6 +12590,7 @@ Slovak Republic,SVK,2007,5374622.0
 Slovenia,SVN,2007,2018122.0
 Sweden,SWE,2007,9148092.0
 Swaziland,SWZ,2007,1138434.0
+Sint Maarten (Dutch part),SXM,2007,33811.0
 Seychelles,SYC,2007,85033.0
 Syrian Arab Republic,SYR,2007,19632806.0
 Turks and Caicos Islands,TCA,2007,28640.0
@@ -12384,6 +12669,7 @@ Central Europe and the Baltics,CEB,2008,105126686.0
 Switzerland,CHE,2008,7647675.0
 Channel Islands,CHI,2008,157581.0
 Chile,CHL,2008,16661942.0
+China,CHN,2008,1324655000.0
 Cote d'Ivoire,CIV,2008,19497986.0
 Cameroon,CMR,2008,18907008.0
 "Congo, Dem. Rep.",COD,2008,60373608.0
@@ -12412,6 +12698,7 @@ Europe & Central Asia,ECS,2008,881965815.0
 Ecuador,ECU,2008,14447562.0
 "Egypt, Arab Rep.",EGY,2008,80953881.0
 Euro area,EMU,2008,334274730.0
+Eritrea,ERI,2008,4232636.0
 Spain,ESP,2008,45954106.0
 Estonia,EST,2008,1337090.0
 Ethiopia,ETH,2008,83184892.0
@@ -12452,6 +12739,7 @@ Indonesia,IDN,2008,236159276.0
 IDA only,IDX,2008,879393106.0
 Isle of Man,IMN,2008,78534.0
 India,IND,2008,1197146906.0
+Not classified,INX,2008,0.0
 Ireland,IRL,2008,4489544.0
 "Iran, Islamic Rep.",IRN,2008,72845542.0
 Iraq,IRQ,2008,29111417.0
@@ -12468,6 +12756,7 @@ Cambodia,KHM,2008,13880509.0
 Kiribati,KIR,2008,98440.0
 St. Kitts and Nevis,KNA,2008,50332.0
 "Korea, Rep.",KOR,2008,49054708.0
+Kuwait,KWT,2008,2652340.0
 Latin America & Caribbean (excluding high income),LAC,2008,511896377.0
 Lao PDR,LAO,2008,6052190.0
 Lebanon,LBN,2008,4111047.0
@@ -12509,6 +12798,7 @@ Mozambique,MOZ,2008,22846758.0
 Mauritania,MRT,2008,3407541.0
 Mauritius,MUS,2008,1244121.0
 Malawi,MWI,2008,14271234.0
+Malaysia,MYS,2008,27111069.0
 North America,NAC,2008,337405012.0
 Namibia,NAM,2008,2106375.0
 New Caledonia,NCL,2008,242750.0
@@ -12534,6 +12824,7 @@ Pre-demographic dividend,PRE,2008,697549138.0
 Puerto Rico,PRI,2008,3760866.0
 Portugal,PRT,2008,10558177.0
 Paraguay,PRY,2008,6047117.0
+West Bank and Gaza,PSE,2008,3596688.0
 Pacific island small states,PSS,2008,2155339.0
 Post-demographic dividend,PST,2008,1064603304.0
 French Polynesia,PYF,2008,263179.0
@@ -12551,6 +12842,7 @@ Sierra Leone,SLE,2008,6165372.0
 El Salvador,SLV,2008,6110301.0
 San Marino,SMR,2008,30351.0
 Somalia,SOM,2008,11369276.0
+Serbia,SRB,2008,7350222.0
 Sub-Saharan Africa (excluding high income),SSA,2008,830878600.0
 South Sudan,SSD,2008,9263136.0
 Sub-Saharan Africa,SSF,2008,830965556.0
@@ -12561,6 +12853,7 @@ Slovak Republic,SVK,2008,5379233.0
 Slovenia,SVN,2008,2021316.0
 Sweden,SWE,2008,9219637.0
 Swaziland,SWZ,2008,1158897.0
+Sint Maarten (Dutch part),SXM,2008,33964.0
 Seychelles,SYC,2008,86956.0
 Syrian Arab Republic,SYR,2008,20325443.0
 Turks and Caicos Islands,TCA,2008,29481.0
@@ -12608,7 +12901,6 @@ Albania,ALB,2009,2927519.0
 Andorra,AND,2009,84462.0
 Arab World,ARB,2009,348145094.0
 United Arab Emirates,ARE,2009,7666393.0
-Argentina,ARG,2009,40799407.0
 Armenia,ARM,2009,2888584.0
 American Samoa,ASM,2009,56227.0
 Antigua and Barbuda,ATG,2009,93581.0
@@ -12668,6 +12960,7 @@ Europe & Central Asia,ECS,2009,885591814.0
 Ecuador,ECU,2009,14691275.0
 "Egypt, Arab Rep.",EGY,2009,82465022.0
 Euro area,EMU,2009,335360887.0
+Eritrea,ERI,2009,4310334.0
 Spain,ESP,2009,46362946.0
 Estonia,EST,2009,1334515.0
 Ethiopia,ETH,2009,85416253.0
@@ -12708,6 +13001,7 @@ Indonesia,IDN,2009,239340478.0
 IDA only,IDX,2009,899840941.0
 Isle of Man,IMN,2009,79325.0
 India,IND,2009,1214270132.0
+Not classified,INX,2009,0.0
 Ireland,IRL,2009,4535375.0
 "Iran, Islamic Rep.",IRN,2009,73687565.0
 Iraq,IRQ,2009,29894652.0
@@ -12724,6 +13018,7 @@ Cambodia,KHM,2009,14090208.0
 Kiribati,KIR,2009,100568.0
 St. Kitts and Nevis,KNA,2009,50886.0
 "Korea, Rep.",KOR,2009,49307835.0
+Kuwait,KWT,2009,2818939.0
 Latin America & Caribbean (excluding high income),LAC,2009,518406797.0
 Lao PDR,LAO,2009,6152036.0
 Lebanon,LBN,2009,4183156.0
@@ -12737,7 +13032,6 @@ Liechtenstein,LIE,2009,35766.0
 Sri Lanka,LKA,2009,20075086.0
 Lower middle income,LMC,2009,2640211692.0
 Low & middle income,LMY,2009,5658778430.0
-Lesotho,LSO,2009,2019209.0
 Late-demographic dividend,LTE,2009,2169773889.0
 Lithuania,LTU,2009,3162916.0
 Luxembourg,LUX,2009,497783.0
@@ -12791,6 +13085,7 @@ Pre-demographic dividend,PRE,2009,717959651.0
 Puerto Rico,PRI,2009,3740410.0
 Portugal,PRT,2009,10568247.0
 Paraguay,PRY,2009,6127837.0
+West Bank and Gaza,PSE,2009,3702218.0
 Pacific island small states,PSS,2009,2184837.0
 Post-demographic dividend,PST,2009,1070107590.0
 French Polynesia,PYF,2009,265581.0
@@ -12808,6 +13103,7 @@ Sierra Leone,SLE,2009,6310260.0
 El Salvador,SLV,2009,6137276.0
 San Marino,SMR,2009,30723.0
 Somalia,SOM,2009,11707990.0
+Serbia,SRB,2009,7320807.0
 Sub-Saharan Africa (excluding high income),SSA,2009,853866359.0
 South Sudan,SSD,2009,9670667.0
 Sub-Saharan Africa,SSF,2009,853953657.0
@@ -12818,6 +13114,7 @@ Slovak Republic,SVK,2009,5386406.0
 Slovenia,SVN,2009,2039669.0
 Sweden,SWE,2009,9298515.0
 Swaziland,SWZ,2009,1180675.0
+Sint Maarten (Dutch part),SXM,2009,34238.0
 Seychelles,SYC,2009,87298.0
 Syrian Arab Republic,SYR,2009,20824893.0
 Turks and Caicos Islands,TCA,2009,30245.0
@@ -12925,6 +13222,7 @@ Europe & Central Asia,ECS,2010,889016507.0
 Ecuador,ECU,2010,14934690.0
 "Egypt, Arab Rep.",EGY,2010,84107606.0
 Euro area,EMU,2010,336151474.0
+Eritrea,ERI,2010,4390840.0
 Spain,ESP,2010,46576897.0
 Estonia,EST,2010,1331475.0
 Ethiopia,ETH,2010,87702670.0
@@ -12935,6 +13233,7 @@ Fiji,FJI,2010,859950.0
 France,FRA,2010,65027507.0
 Faroe Islands,FRO,2010,48550.0
 "Micronesia, Fed. Sts.",FSM,2010,103616.0
+Gabon,GAB,2010,1640210.0
 United Kingdom,GBR,2010,62766365.0
 Georgia,GEO,2010,3926000.0
 Ghana,GHA,2010,24512104.0
@@ -12964,6 +13263,7 @@ Indonesia,IDN,2010,242524123.0
 IDA only,IDX,2010,920600670.0
 Isle of Man,IMN,2010,80072.0
 India,IND,2010,1230980691.0
+Not classified,INX,2010,0.0
 Ireland,IRL,2010,4560155.0
 "Iran, Islamic Rep.",IRN,2010,74567511.0
 Iraq,IRQ,2010,30762701.0
@@ -12980,6 +13280,7 @@ Cambodia,KHM,2010,14308740.0
 Kiribati,KIR,2010,102652.0
 St. Kitts and Nevis,KNA,2010,51445.0
 "Korea, Rep.",KOR,2010,49554112.0
+Kuwait,KWT,2010,2998083.0
 Latin America & Caribbean (excluding high income),LAC,2010,524870761.0
 Lao PDR,LAO,2010,6246274.0
 Lebanon,LBN,2010,4337141.0
@@ -13045,8 +13346,10 @@ Papua New Guinea,PNG,2010,7108239.0
 Poland,POL,2010,38042794.0
 Pre-demographic dividend,PRE,2010,739082260.0
 Puerto Rico,PRI,2010,3721525.0
+Togo,TGO,2011,6679282.0
 Portugal,PRT,2010,10573100.0
 Paraguay,PRY,2010,6209877.0
+West Bank and Gaza,PSE,2010,3811102.0
 Pacific island small states,PSS,2010,2214096.0
 Post-demographic dividend,PST,2010,1075131208.0
 French Polynesia,PYF,2010,267820.0
@@ -13059,10 +13362,12 @@ Saudi Arabia,SAU,2010,27425676.0
 Sudan,SDN,2010,34385963.0
 Senegal,SEN,2010,12916229.0
 Singapore,SGP,2010,5076732.0
+Solomon Islands,SLB,2010,527790.0
 Sierra Leone,SLE,2010,6458720.0
 El Salvador,SLV,2010,6164626.0
 San Marino,SMR,2010,31110.0
 Somalia,SOM,2010,12053223.0
+Serbia,SRB,2010,7291436.0
 Sub-Saharan Africa (excluding high income),SSA,2010,877538597.0
 South Sudan,SSD,2010,10067192.0
 Sub-Saharan Africa,SSF,2010,877628367.0
@@ -13073,6 +13378,7 @@ Slovak Republic,SVK,2010,5391428.0
 Slovenia,SVN,2010,2048583.0
 Sweden,SWE,2010,9378126.0
 Swaziland,SWZ,2010,1202843.0
+Sint Maarten (Dutch part),SXM,2010,34056.0
 Seychelles,SYC,2010,89770.0
 Syrian Arab Republic,SYR,2010,21018834.0
 Turks and Caicos Islands,TCA,2010,30994.0
@@ -13180,6 +13486,7 @@ Europe & Central Asia,ECS,2011,891098854.0
 Ecuador,ECU,2011,15177355.0
 "Egypt, Arab Rep.",EGY,2011,85897561.0
 Euro area,EMU,2011,335429120.0
+Eritrea,ERI,2011,4474690.0
 Spain,ESP,2011,46742697.0
 Estonia,EST,2011,1327439.0
 Ethiopia,ETH,2011,90046756.0
@@ -13210,7 +13517,6 @@ High income,HIC,2011,1204631343.0
 Honduras,HND,2011,8351600.0
 Heavily indebted poor countries (HIPC),HPC,2011,648053253.0
 Croatia,HRV,2011,4280622.0
-Haiti,HTI,2011,10145054.0
 Hungary,HUN,2011,9971727.0
 IBRD only,IBD,2011,4474450995.0
 IDA & IBRD total,IBT,2011,5880131377.0
@@ -13220,6 +13526,7 @@ Indonesia,IDN,2011,245707511.0
 IDA only,IDX,2011,941682570.0
 Isle of Man,IMN,2011,80759.0
 India,IND,2011,1247236029.0
+Not classified,INX,2011,0.0
 Ireland,IRL,2011,4580084.0
 "Iran, Islamic Rep.",IRN,2011,75491582.0
 Iraq,IRQ,2011,31727053.0
@@ -13236,6 +13543,7 @@ Cambodia,KHM,2011,14537886.0
 Kiribati,KIR,2011,104656.0
 St. Kitts and Nevis,KNA,2011,52006.0
 "Korea, Rep.",KOR,2011,49936638.0
+Kuwait,KWT,2011,3191051.0
 Latin America & Caribbean (excluding high income),LAC,2011,531283625.0
 Lao PDR,LAO,2011,6333487.0
 Lebanon,LBN,2011,4588368.0
@@ -13303,6 +13611,7 @@ Pre-demographic dividend,PRE,2011,760942116.0
 Puerto Rico,PRI,2011,3678732.0
 Portugal,PRT,2011,10557560.0
 Paraguay,PRY,2011,6293783.0
+West Bank and Gaza,PSE,2011,3927051.0
 Pacific island small states,PSS,2011,2242763.0
 Post-demographic dividend,PST,2011,1078064180.0
 French Polynesia,PYF,2011,269843.0
@@ -13320,6 +13629,7 @@ Sierra Leone,SLE,2011,6611692.0
 El Salvador,SLV,2011,6192560.0
 San Marino,SMR,2011,31504.0
 Somalia,SOM,2011,12404725.0
+Serbia,SRB,2011,7234099.0
 Sub-Saharan Africa (excluding high income),SSA,2011,901902485.0
 South Sudan,SSD,2011,10448857.0
 Sub-Saharan Africa,SSF,2011,901989926.0
@@ -13330,13 +13640,13 @@ Slovak Republic,SVK,2011,5398384.0
 Slovenia,SVN,2011,2052843.0
 Sweden,SWE,2011,9449213.0
 Swaziland,SWZ,2011,1225258.0
+Sint Maarten (Dutch part),SXM,2011,33435.0
 Seychelles,SYC,2011,87441.0
 Syrian Arab Republic,SYR,2011,20863993.0
 Turks and Caicos Islands,TCA,2011,31731.0
 Chad,TCD,2011,12288651.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2011,1955546907.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2011,443585809.0
-Togo,TGO,2011,6679282.0
 Thailand,THA,2011,67530130.0
 Tajikistan,TJK,2011,7815949.0
 Turkmenistan,TKM,2011,5174061.0
@@ -13437,6 +13747,7 @@ Europe & Central Asia,ECS,2012,894679968.0
 Ecuador,ECU,2012,15419666.0
 "Egypt, Arab Rep.",EGY,2012,87813257.0
 Euro area,EMU,2012,336180504.0
+Eritrea,ERI,2012,0.0
 Spain,ESP,2012,46773055.0
 Estonia,EST,2012,1322696.0
 Ethiopia,ETH,2012,92444183.0
@@ -13477,6 +13788,7 @@ Indonesia,IDN,2012,248883232.0
 IDA only,IDX,2012,963122738.0
 Isle of Man,IMN,2012,81406.0
 India,IND,2012,1263065852.0
+Not classified,INX,2012,0.0
 Ireland,IRL,2012,4599533.0
 "Iran, Islamic Rep.",IRN,2012,76453574.0
 Iraq,IRQ,2012,32776571.0
@@ -13486,12 +13798,14 @@ Italy,ITA,2012,59539717.0
 Jamaica,JAM,2012,2840992.0
 Jordan,JOR,2012,7992573.0
 Japan,JPN,2012,127629000.0
+Kazakhstan,KAZ,2012,16792089.0
 Kenya,KEN,2012,43646629.0
 Kyrgyz Republic,KGZ,2012,5607200.0
 Cambodia,KHM,2012,14776866.0
 Kiribati,KIR,2012,106613.0
 St. Kitts and Nevis,KNA,2012,52591.0
 "Korea, Rep.",KOR,2012,50199853.0
+Kuwait,KWT,2012,3395556.0
 Latin America & Caribbean (excluding high income),LAC,2012,537645733.0
 Lao PDR,LAO,2012,6415169.0
 Lebanon,LBN,2012,4916404.0
@@ -13557,8 +13871,10 @@ Papua New Guinea,PNG,2012,7430836.0
 Poland,POL,2012,38063164.0
 Pre-demographic dividend,PRE,2012,783505835.0
 Puerto Rico,PRI,2012,3634488.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,1061107721.0
 Portugal,PRT,2012,10514844.0
 Paraguay,PRY,2012,6379219.0
+West Bank and Gaza,PSE,2012,4046901.0
 Pacific island small states,PSS,2012,2271298.0
 Post-demographic dividend,PST,2012,1082727404.0
 French Polynesia,PYF,2012,271703.0
@@ -13576,6 +13892,7 @@ Sierra Leone,SLE,2012,6766103.0
 El Salvador,SLV,2012,6221246.0
 San Marino,SMR,2012,31914.0
 Somalia,SOM,2012,12763776.0
+Serbia,SRB,2012,7199077.0
 Sub-Saharan Africa (excluding high income),SSA,2012,926951572.0
 South Sudan,SSD,2012,10818258.0
 Sub-Saharan Africa,SSF,2012,927039875.0
@@ -13586,6 +13903,7 @@ Slovak Republic,SVK,2012,5407579.0
 Slovenia,SVN,2012,2057159.0
 Sweden,SWE,2012,9519374.0
 Swaziland,SWZ,2012,1248158.0
+Sint Maarten (Dutch part),SXM,2012,34640.0
 Seychelles,SYC,2012,88303.0
 Syrian Arab Republic,SYR,2012,20420701.0
 Turks and Caicos Islands,TCA,2012,32431.0
@@ -13683,7 +14001,6 @@ Germany,DEU,2013,80645605.0
 Djibouti,DJI,2013,896688.0
 Dominica,DMA,2013,72400.0
 Denmark,DNK,2013,5614932.0
-Dominican Republic,DOM,2013,10281296.0
 Algeria,DZA,2013,38338562.0
 East Asia & Pacific (excluding high income),EAP,2013,2009173000.0
 Early-demographic dividend,EAR,2013,3040700765.0
@@ -13693,6 +14010,7 @@ Europe & Central Asia,ECS,2013,898881448.0
 Ecuador,ECU,2013,15661547.0
 "Egypt, Arab Rep.",EGY,2013,89807433.0
 Euro area,EMU,2013,337325526.0
+Eritrea,ERI,2013,0.0
 Spain,ESP,2013,46620045.0
 Estonia,EST,2013,1317997.0
 Ethiopia,ETH,2013,94887724.0
@@ -13733,6 +14051,7 @@ Indonesia,IDN,2013,252032263.0
 IDA only,IDX,2013,984966093.0
 Isle of Man,IMN,2013,82013.0
 India,IND,2013,1278562207.0
+Not classified,INX,2013,0.0
 Ireland,IRL,2013,4623816.0
 "Iran, Islamic Rep.",IRN,2013,77435384.0
 Iraq,IRQ,2013,33883145.0
@@ -13749,6 +14068,7 @@ Cambodia,KHM,2013,15022692.0
 Kiribati,KIR,2013,108535.0
 St. Kitts and Nevis,KNA,2013,53169.0
 "Korea, Rep.",KOR,2013,50428893.0
+Kuwait,KWT,2013,3598385.0
 Latin America & Caribbean (excluding high income),LAC,2013,543940758.0
 Lao PDR,LAO,2013,6494557.0
 Lebanon,LBN,2013,5276102.0
@@ -13812,10 +14132,10 @@ Philippines,PHL,2013,98481032.0
 Palau,PLW,2013,20920.0
 Papua New Guinea,PNG,2013,7592865.0
 Poland,POL,2013,38040196.0
-Pre-demographic dividend,PRE,2013,806705375.0
 Puerto Rico,PRI,2013,3593077.0
 Portugal,PRT,2013,10457295.0
 Paraguay,PRY,2013,6465740.0
+West Bank and Gaza,PSE,2013,4169506.0
 Pacific island small states,PSS,2013,2300045.0
 Post-demographic dividend,PST,2013,1087610209.0
 French Polynesia,PYF,2013,273528.0
@@ -13833,6 +14153,7 @@ Sierra Leone,SLE,2013,6922079.0
 El Salvador,SLV,2013,6250777.0
 San Marino,SMR,2013,32303.0
 Somalia,SOM,2013,13132349.0
+Serbia,SRB,2013,7164132.0
 Sub-Saharan Africa (excluding high income),SSA,2013,952644123.0
 South Sudan,SSD,2013,11177490.0
 Sub-Saharan Africa,SSF,2013,952734072.0
@@ -13843,6 +14164,7 @@ Slovak Republic,SVK,2013,5413393.0
 Slovenia,SVN,2013,2059953.0
 Sweden,SWE,2013,9600379.0
 Swaziland,SWZ,2013,1271456.0
+Sint Maarten (Dutch part),SXM,2013,36607.0
 Seychelles,SYC,2013,89949.0
 Syrian Arab Republic,SYR,2013,19809141.0
 Turks and Caicos Islands,TCA,2013,33108.0
@@ -13912,6 +14234,7 @@ Bermuda,BMU,2014,65139.0
 Bolivia,BOL,2014,10562159.0
 Brazil,BRA,2014,204213133.0
 Barbados,BRB,2014,283385.0
+Brunei Darussalam,BRN,2014,411704.0
 Bhutan,BTN,2014,776448.0
 Botswana,BWA,2014,2168573.0
 Central African Republic,CAF,2014,4515392.0
@@ -13949,6 +14272,7 @@ Europe & Central Asia,ECS,2014,903123160.0
 Ecuador,ECU,2014,15903112.0
 "Egypt, Arab Rep.",EGY,2014,91812566.0
 Euro area,EMU,2014,338466271.0
+Eritrea,ERI,2014,0.0
 Spain,ESP,2014,46480882.0
 Estonia,EST,2014,1314545.0
 Ethiopia,ETH,2014,97366774.0
@@ -13989,6 +14313,7 @@ Indonesia,IDN,2014,255131116.0
 IDA only,IDX,2014,1007225927.0
 Isle of Man,IMN,2014,82590.0
 India,IND,2014,1293859294.0
+Not classified,INX,2014,0.0
 Ireland,IRL,2014,4657740.0
 "Iran, Islamic Rep.",IRN,2014,78411092.0
 Iraq,IRQ,2014,35006080.0
@@ -14005,6 +14330,7 @@ Cambodia,KHM,2014,15270790.0
 Kiribati,KIR,2014,110458.0
 St. Kitts and Nevis,KNA,2014,53739.0
 "Korea, Rep.",KOR,2014,50746659.0
+Kuwait,KWT,2014,3782450.0
 Latin America & Caribbean (excluding high income),LAC,2014,550149862.0
 Lao PDR,LAO,2014,6576397.0
 Lebanon,LBN,2014,5603279.0
@@ -14037,6 +14363,7 @@ Middle income,MIC,2014,5365538848.0
 "Macedonia, FYR",MKD,2014,2077495.0
 Mali,MLI,2014,16962846.0
 Malta,MLT,2014,434558.0
+Myanmar,MMR,2014,51924182.0
 Middle East & North Africa (excluding high income),MNA,2014,361077997.0
 Montenegro,MNE,2014,621810.0
 Mongolia,MNG,2014,2923896.0
@@ -14071,6 +14398,7 @@ Pre-demographic dividend,PRE,2014,830442736.0
 Puerto Rico,PRI,2014,3534874.0
 Portugal,PRT,2014,10401062.0
 Paraguay,PRY,2014,6552584.0
+West Bank and Gaza,PSE,2014,4294682.0
 Pacific island small states,PSS,2014,2329458.0
 Post-demographic dividend,PST,2014,1092678876.0
 French Polynesia,PYF,2014,275484.0
@@ -14088,6 +14416,7 @@ Sierra Leone,SLE,2014,7079162.0
 El Salvador,SLV,2014,6281189.0
 San Marino,SMR,2014,32657.0
 Somalia,SOM,2014,13513125.0
+Serbia,SRB,2014,7130576.0
 Sub-Saharan Africa (excluding high income),SSA,2014,978926559.0
 South Sudan,SSD,2014,11530971.0
 Sub-Saharan Africa,SSF,2014,979017918.0
@@ -14098,6 +14427,7 @@ Slovak Republic,SVK,2014,5418649.0
 Slovenia,SVN,2014,2061980.0
 Sweden,SWE,2014,9696110.0
 Swaziland,SWZ,2014,1295097.0
+Sint Maarten (Dutch part),SXM,2014,37685.0
 Seychelles,SYC,2014,91359.0
 Syrian Arab Republic,SYR,2014,19203090.0
 Turks and Caicos Islands,TCA,2014,33739.0
@@ -14154,7 +14484,6 @@ Austria,AUT,2015,8642699.0
 Azerbaijan,AZE,2015,9649341.0
 Burundi,BDI,2015,10199270.0
 Belgium,BEL,2015,11274196.0
-Benin,BEN,2015,10575952.0
 Burkina Faso,BFA,2015,18110624.0
 Bangladesh,BGD,2015,161200886.0
 Bulgaria,BGR,2015,7177991.0
@@ -14205,6 +14534,7 @@ Europe & Central Asia,ECS,2015,907426233.0
 Ecuador,ECU,2015,16144368.0
 "Egypt, Arab Rep.",EGY,2015,93778172.0
 Euro area,EMU,2015,339533474.0
+Eritrea,ERI,2015,0.0
 Spain,ESP,2015,46444832.0
 Estonia,EST,2015,1315407.0
 Ethiopia,ETH,2015,99873033.0
@@ -14245,6 +14575,7 @@ Indonesia,IDN,2015,258162113.0
 IDA only,IDX,2015,1029951788.0
 Isle of Man,IMN,2015,83167.0
 India,IND,2015,1309053980.0
+Not classified,INX,2015,0.0
 Ireland,IRL,2015,4701957.0
 "Iran, Islamic Rep.",IRN,2015,79360487.0
 Iraq,IRQ,2015,36115649.0
@@ -14261,6 +14592,7 @@ Cambodia,KHM,2015,15517635.0
 Kiribati,KIR,2015,112407.0
 St. Kitts and Nevis,KNA,2015,54288.0
 "Korea, Rep.",KOR,2015,51014947.0
+Kuwait,KWT,2015,3935794.0
 Latin America & Caribbean (excluding high income),LAC,2015,556257851.0
 Lao PDR,LAO,2015,6663967.0
 Lebanon,LBN,2015,5851479.0
@@ -14283,7 +14615,6 @@ Latvia,LVA,2015,1977527.0
 St. Martin (French part),MAF,2015,31754.0
 Morocco,MAR,2015,34803322.0
 Monaco,MCO,2015,38307.0
-Moldova,MDA,2015,3554108.0
 Madagascar,MDG,2015,24234088.0
 Maldives,MDV,2015,418403.0
 Middle East & North Africa,MEA,2015,428974903.0
@@ -14328,6 +14659,7 @@ Pre-demographic dividend,PRE,2015,854646007.0
 Puerto Rico,PRI,2015,3473177.0
 Portugal,PRT,2015,10358076.0
 Paraguay,PRY,2015,6639119.0
+West Bank and Gaza,PSE,2015,4422143.0
 Pacific island small states,PSS,2015,2358955.0
 Post-demographic dividend,PST,2015,1097735849.0
 French Polynesia,PYF,2015,277690.0
@@ -14345,6 +14677,7 @@ Sierra Leone,SLE,2015,7237025.0
 El Salvador,SLV,2015,6312478.0
 San Marino,SMR,2015,32960.0
 Somalia,SOM,2015,13908129.0
+Serbia,SRB,2015,7095383.0
 Sub-Saharan Africa (excluding high income),SSA,2015,1005756630.0
 South Sudan,SSD,2015,11882136.0
 Sub-Saharan Africa,SSF,2015,1005850049.0
@@ -14355,6 +14688,7 @@ Slovak Republic,SVK,2015,5423801.0
 Slovenia,SVN,2015,2063531.0
 Sweden,SWE,2015,9799186.0
 Swaziland,SWZ,2015,1319011.0
+Sint Maarten (Dutch part),SXM,2015,38824.0
 Seychelles,SYC,2015,93419.0
 Syrian Arab Republic,SYR,2015,18734987.0
 Turks and Caicos Islands,TCA,2015,34339.0
@@ -14462,7 +14796,9 @@ Europe & Central Asia,ECS,2016,911686319.0
 Ecuador,ECU,2016,16385068.0
 "Egypt, Arab Rep.",EGY,2016,95688681.0
 Euro area,EMU,2016,340617355.0
+Eritrea,ERI,2016,0.0
 Spain,ESP,2016,46484062.0
+Estonia,EST,2016,1315790.0
 Ethiopia,ETH,2016,102403196.0
 European Union,EUU,2016,511218960.0
 Fragile and conflict affected situations,FCS,2016,499508468.0
@@ -14501,6 +14837,7 @@ Indonesia,IDN,2016,261115456.0
 IDA only,IDX,2016,1053193646.0
 Isle of Man,IMN,2016,83737.0
 India,IND,2016,1324171354.0
+Not classified,INX,2016,0.0
 Ireland,IRL,2016,4755335.0
 "Iran, Islamic Rep.",IRN,2016,80277428.0
 Iraq,IRQ,2016,37202572.0
@@ -14517,6 +14854,7 @@ Cambodia,KHM,2016,15762370.0
 Kiribati,KIR,2016,114395.0
 St. Kitts and Nevis,KNA,2016,54821.0
 "Korea, Rep.",KOR,2016,51245707.0
+Kuwait,KWT,2016,4052584.0
 Latin America & Caribbean (excluding high income),LAC,2016,562254848.0
 Lao PDR,LAO,2016,6758353.0
 Lebanon,LBN,2016,6006668.0
@@ -14584,9 +14922,11 @@ Pre-demographic dividend,PRE,2016,879292453.0
 Puerto Rico,PRI,2016,3406520.0
 Portugal,PRT,2016,10325452.0
 Paraguay,PRY,2016,6725308.0
+West Bank and Gaza,PSE,2016,4551566.0
 Pacific island small states,PSS,2016,2388875.0
 Post-demographic dividend,PST,2016,1102778565.0
 French Polynesia,PYF,2016,280208.0
+Qatar,QAT,2016,2569804.0
 Romania,ROU,2016,19702332.0
 Russian Federation,RUS,2016,144342396.0
 Rwanda,RWA,2016,11917508.0
@@ -14600,6 +14940,7 @@ Sierra Leone,SLE,2016,7396190.0
 El Salvador,SLV,2016,6344722.0
 San Marino,SMR,2016,33203.0
 Somalia,SOM,2016,14317996.0
+Serbia,SRB,2016,7058322.0
 Sub-Saharan Africa (excluding high income),SSA,2016,1033118066.0
 South Sudan,SSD,2016,12230730.0
 Sub-Saharan Africa,SSF,2016,1033212743.0
@@ -14610,6 +14951,7 @@ Slovak Republic,SVK,2016,5430798.0
 Slovenia,SVN,2016,2065042.0
 Sweden,SWE,2016,9923085.0
 Swaziland,SWZ,2016,1343098.0
+Sint Maarten (Dutch part),SXM,2016,39969.0
 Seychelles,SYC,2016,94677.0
 Syrian Arab Republic,SYR,2016,18430453.0
 Turks and Caicos Islands,TCA,2016,34900.0
@@ -14717,6 +15059,7 @@ Europe & Central Asia,ECS,2017,915545801.0
 Ecuador,ECU,2017,16624858.0
 "Egypt, Arab Rep.",EGY,2017,97553151.0
 Euro area,EMU,2017,341465149.0
+Eritrea,ERI,2017,0.0
 Spain,ESP,2017,46572028.0
 Estonia,EST,2017,1315480.0
 Ethiopia,ETH,2017,104957438.0
@@ -14756,7 +15099,7 @@ IDA blend,IDB,2017,533023458.0
 Indonesia,IDN,2017,263991379.0
 IDA only,IDX,2017,1076917211.0
 Isle of Man,IMN,2017,84287.0
-India,IND,2017,1339180127.0
+Not classified,INX,2017,0.0
 Ireland,IRL,2017,4813608.0
 "Iran, Islamic Rep.",IRN,2017,81162788.0
 Iraq,IRQ,2017,38274618.0
@@ -14773,6 +15116,7 @@ Cambodia,KHM,2017,16005373.0
 Kiribati,KIR,2017,116398.0
 St. Kitts and Nevis,KNA,2017,55345.0
 "Korea, Rep.",KOR,2017,51466201.0
+Kuwait,KWT,2017,4136528.0
 Latin America & Caribbean (excluding high income),LAC,2017,568136842.0
 Lao PDR,LAO,2017,6858160.0
 Lebanon,LBN,2017,6082357.0
@@ -14840,6 +15184,7 @@ Pre-demographic dividend,PRE,2017,904399841.0
 Puerto Rico,PRI,2017,3337177.0
 Portugal,PRT,2017,10293718.0
 Paraguay,PRY,2017,6811297.0
+West Bank and Gaza,PSE,2017,4684777.0
 Pacific island small states,PSS,2017,2419188.0
 Post-demographic dividend,PST,2017,1107374909.0
 French Polynesia,PYF,2017,283007.0
@@ -14857,6 +15202,7 @@ Sierra Leone,SLE,2017,7557212.0
 El Salvador,SLV,2017,6377853.0
 San Marino,SMR,2017,33400.0
 Somalia,SOM,2017,14742523.0
+Serbia,SRB,2017,7022268.0
 Sub-Saharan Africa (excluding high income),SSA,2017,1061011878.0
 South Sudan,SSD,2017,12575714.0
 Sub-Saharan Africa,SSF,2017,1061107721.0
@@ -14867,6 +15213,7 @@ Slovak Republic,SVK,2017,5439892.0
 Slovenia,SVN,2017,2066748.0
 Sweden,SWE,2017,10067744.0
 Swaziland,SWZ,2017,1367254.0
+Sint Maarten (Dutch part),SXM,2017,41109.0
 Seychelles,SYC,2017,95843.0
 Syrian Arab Republic,SYR,2017,18269868.0
 Turks and Caicos Islands,TCA,2017,35446.0
@@ -14882,7 +15229,6 @@ Timor-Leste,TLS,2017,1296311.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2017,375217005.0
 Tonga,TON,2017,108020.0
 South Asia (IDA & IBRD),TSA,2017,1788388852.0
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,1061107721.0
 Trinidad and Tobago,TTO,2017,1369125.0
 Tunisia,TUN,2017,11532127.0
 Turkey,TUR,2017,80745020.0
@@ -14907,6 +15253,7 @@ Kosovo,XKX,2017,1830700.0
 South Africa,ZAF,2017,56717156.0
 Zambia,ZMB,2017,17094130.0
 Zimbabwe,ZWE,2017,16529904.0
+Africa Eastern and Southern,AFE,2023,0.0
 Africa Eastern and Southern,AFE,2022,720859132.0
 Africa Eastern and Southern,AFE,2021,702977106.0
 Africa Eastern and Southern,AFE,2020,685112979.0
@@ -14970,6 +15317,7 @@ Africa Eastern and Southern,AFE,1963,141630546.0
 Africa Eastern and Southern,AFE,1962,137835590.0
 Africa Eastern and Southern,AFE,1961,134169237.0
 Africa Eastern and Southern,AFE,1960,130692579.0
+Africa Western and Central,AFW,2023,0.0
 Africa Western and Central,AFW,2022,490330870.0
 Africa Western and Central,AFW,2021,478185907.0
 Africa Western and Central,AFW,2020,466189102.0
@@ -15033,76 +15381,91 @@ Africa Western and Central,AFW,1963,103667517.0
 Africa Western and Central,AFW,1962,101445032.0
 Africa Western and Central,AFW,1961,99314028.0
 Africa Western and Central,AFW,1960,97256290.0
+Arab World,ARB,2023,0.0
 Arab World,ARB,2022,464684914.0
 Arab World,ARB,2021,456520777.0
 Arab World,ARB,2020,449228296.0
 Arab World,ARB,2019,441467739.0
 Arab World,ARB,2018,432545676.0
+Caribbean small states,CSS,2023,0.0
 Caribbean small states,CSS,2022,7505478.0
 Caribbean small states,CSS,2021,7481877.0
 Caribbean small states,CSS,2020,7444768.0
 Caribbean small states,CSS,2019,7424102.0
 Caribbean small states,CSS,2018,7374650.0
+Central Europe and the Baltics,CEB,2023,0.0
 Central Europe and the Baltics,CEB,2022,100108221.0
 Central Europe and the Baltics,CEB,2021,101413176.0
 Central Europe and the Baltics,CEB,2020,102180124.0
 Central Europe and the Baltics,CEB,2019,102398537.0
 Central Europe and the Baltics,CEB,2018,102538451.0
+Early-demographic dividend,EAR,2023,0.0
 Early-demographic dividend,EAR,2022,3447398652.0
 Early-demographic dividend,EAR,2021,3411268373.0
 Early-demographic dividend,EAR,2020,3374383528.0
 Early-demographic dividend,EAR,2019,3334561751.0
 Early-demographic dividend,EAR,2018,3292896609.0
+East Asia & Pacific,EAS,2023,0.0
 East Asia & Pacific,EAS,2022,2375162207.0
 East Asia & Pacific,EAS,2021,2370189840.0
 East Asia & Pacific,EAS,2020,2363934334.0
 East Asia & Pacific,EAS,2019,2353856866.0
 East Asia & Pacific,EAS,2018,2341383691.0
+East Asia & Pacific (excluding high income),EAP,2023,0.0
 East Asia & Pacific (excluding high income),EAP,2022,2129112126.0
 East Asia & Pacific (excluding high income),EAP,2021,2123628421.0
 East Asia & Pacific (excluding high income),EAP,2020,2116378687.0
 East Asia & Pacific (excluding high income),EAP,2019,2106391925.0
 East Asia & Pacific (excluding high income),EAP,2018,2094524854.0
+East Asia & Pacific (IDA & IBRD countries),TEA,2023,0.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2022,2103055378.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2021,2097669023.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2020,2090523535.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2019,2080648616.0
 East Asia & Pacific (IDA & IBRD countries),TEA,2018,2068898629.0
+Euro area,EMU,2023,0.0
 Euro area,EMU,2022,348331511.0
 Euro area,EMU,2021,346942979.0
 Euro area,EMU,2020,346961127.0
 Euro area,EMU,2019,346517987.0
 Euro area,EMU,2018,346153001.0
+Europe & Central Asia,ECS,2023,0.0
 Europe & Central Asia,ECS,2022,920375568.0
 Europe & Central Asia,ECS,2021,923564027.0
 Europe & Central Asia,ECS,2020,922353365.0
 Europe & Central Asia,ECS,2019,920277481.0
 Europe & Central Asia,ECS,2018,917380453.0
+Europe & Central Asia (excluding high income),ECA,2023,0.0
 Europe & Central Asia (excluding high income),ECA,2022,397824705.0
 Europe & Central Asia (excluding high income),ECA,2021,401682855.0
 Europe & Central Asia (excluding high income),ECA,2020,400061023.0
 Europe & Central Asia (excluding high income),ECA,2019,398690076.0
 Europe & Central Asia (excluding high income),ECA,2018,396674671.0
+Europe & Central Asia (IDA & IBRD countries),TEC,2023,0.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2022,457549063.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2021,462431038.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2020,461273023.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2019,460092452.0
 Europe & Central Asia (IDA & IBRD countries),TEC,2018,458211234.0
+European Union,EUU,2023,0.0
 European Union,EUU,2022,447370510.0
 European Union,EUU,2021,447178112.0
 European Union,EUU,2020,447692315.0
 European Union,EUU,2019,447367191.0
 European Union,EUU,2018,447001100.0
+Fragile and conflict affected situations,FCS,2023,0.0
 Fragile and conflict affected situations,FCS,2022,1019139254.0
 Fragile and conflict affected situations,FCS,2021,1001844479.0
 Fragile and conflict affected situations,FCS,2020,979763631.0
 Fragile and conflict affected situations,FCS,2019,957785553.0
 Fragile and conflict affected situations,FCS,2018,936721531.0
+Heavily indebted poor countries (HIPC),HPC,2023,0.0
 Heavily indebted poor countries (HIPC),HPC,2022,884288332.0
 Heavily indebted poor countries (HIPC),HPC,2021,861156745.0
 Heavily indebted poor countries (HIPC),HPC,2020,838066650.0
 Heavily indebted poor countries (HIPC),HPC,2019,815100831.0
 Heavily indebted poor countries (HIPC),HPC,2018,792615894.0
+High income,,2023,0.0
 High income,,2022,1244364814.0
 High income,,2021,1241268556.0
 High income,,2020,1241718902.0
@@ -15166,61 +15529,73 @@ High income,,1963,809831666.0
 High income,,1962,799922883.0
 High income,,1961,789918790.0
 High income,,1960,780138593.0
+IBRD only,IBD,2023,0.0
 IBRD only,IBD,2022,4913887020.0
 IBRD only,IBD,2021,4895372787.0
 IBRD only,IBD,2020,4867091692.0
 IBRD only,IBD,2019,4832928887.0
 IBRD only,IBD,2018,4794555928.0
+IDA & IBRD total,IBT,2023,0.0
 IDA & IBRD total,IBT,2022,6754029970.0
 IDA & IBRD total,IBT,2021,6695487825.0
 IDA & IBRD total,IBT,2020,6627317499.0
 IDA & IBRD total,IBT,2019,6553978299.0
 IDA & IBRD total,IBT,2018,6477695468.0
+IDA blend,IDB,2023,0.0
 IDA blend,IDB,2022,607735968.0
 IDA blend,IDB,2021,595016031.0
 IDA blend,IDB,2020,582637127.0
 IDA blend,IDB,2019,570633332.0
 IDA blend,IDB,2018,559155599.0
+IDA only,IDX,2023,0.0
 IDA only,IDX,2022,1232406982.0
 IDA only,IDX,2021,1205099007.0
 IDA only,IDX,2020,1177588680.0
 IDA only,IDX,2019,1150416080.0
 IDA only,IDX,2018,1123983941.0
+IDA total,IDA,2023,0.0
 IDA total,IDA,2022,1840142950.0
 IDA total,IDA,2021,1800115038.0
 IDA total,IDA,2020,1760225807.0
 IDA total,IDA,2019,1721049412.0
 IDA total,IDA,2018,1683139540.0
+Late-demographic dividend,LTE,2023,0.0
 Late-demographic dividend,LTE,2022,2325542891.0
 Late-demographic dividend,LTE,2021,2322606486.0
 Late-demographic dividend,LTE,2020,2317277554.0
 Late-demographic dividend,LTE,2019,2309491804.0
 Late-demographic dividend,LTE,2018,2298987594.0
+Latin America & Caribbean,LCN,2023,0.0
 Latin America & Caribbean,LCN,2022,659310564.0
 Latin America & Caribbean,LCN,2021,654980630.0
 Latin America & Caribbean,LCN,2020,650534986.0
 Latin America & Caribbean,LCN,2019,645295804.0
 Latin America & Caribbean,LCN,2018,639628226.0
+Latin America & Caribbean (excluding high income),LAC,2023,0.0
 Latin America & Caribbean (excluding high income),LAC,2022,596596955.0
 Latin America & Caribbean (excluding high income),LAC,2021,592503434.0
 Latin America & Caribbean (excluding high income),LAC,2020,588011178.0
 Latin America & Caribbean (excluding high income),LAC,2019,582701622.0
 Latin America & Caribbean (excluding high income),LAC,2018,576620516.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,0.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,643602758.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,639188695.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,634680385.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,629515571.0
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,623841282.0
+Least developed countries: UN classification,LDC,2023,0.0
 Least developed countries: UN classification,LDC,2022,1124396999.0
 Least developed countries: UN classification,LDC,2021,1098791080.0
 Least developed countries: UN classification,LDC,2020,1072970944.0
 Least developed countries: UN classification,LDC,2019,1047426093.0
 Least developed countries: UN classification,LDC,2018,1022731692.0
+Low & middle income,LMY,2023,0.0
 Low & middle income,LMY,2022,6678280291.0
 Low & middle income,LMY,2021,6618837270.0
 Low & middle income,LMY,2020,6549996251.0
 Low & middle income,LMY,2019,6476092964.0
 Low & middle income,LMY,2018,6399036689.0
+Low income,,2023,0.0
 Low income,,2022,703727949.0
 Low income,,2021,685250041.0
 Low income,,2020,667053670.0
@@ -15284,6 +15659,7 @@ Low income,,1963,145659986.0
 Low income,,1962,142232863.0
 Low income,,1961,138934269.0
 Low income,,1960,135762574.0
+Lower middle income,,2023,0.0
 Lower middle income,,2022,3190184199.0
 Lower middle income,,2021,3157462375.0
 Lower middle income,,2020,3117225754.0
@@ -15347,86 +15723,167 @@ Lower middle income,,1963,972872519.0
 Lower middle income,,1962,949925376.0
 Lower middle income,,1961,927621191.0
 Lower middle income,,1960,905832820.0
+Middle East & North Africa,MEA,2023,0.0
 Middle East & North Africa,MEA,2022,493279469.0
 Middle East & North Africa,MEA,2021,486174763.0
 Middle East & North Africa,MEA,2020,479966649.0
 Middle East & North Africa,MEA,2019,473201775.0
 Middle East & North Africa,MEA,2018,465073490.0
+Middle East & North Africa (excluding high income),MNA,2023,0.0
 Middle East & North Africa (excluding high income),MNA,2022,424328381.0
 Middle East & North Africa (excluding high income),MNA,2021,418047201.0
 Middle East & North Africa (excluding high income),MNA,2020,411810124.0
 Middle East & North Africa (excluding high income),MNA,2019,405259403.0
 Middle East & North Africa (excluding high income),MNA,2018,398375344.0
+Middle East & North Africa (IDA & IBRD countries),TMN,2023,0.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2022,419284769.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2021,413124452.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2020,407006855.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2019,400574097.0
 Middle East & North Africa (IDA & IBRD countries),TMN,2018,393806257.0
+Middle income,MIC,2023,0.0
 Middle income,MIC,2022,5974552342.0
 Middle income,MIC,2021,5933587229.0
 Middle income,MIC,2020,5882942581.0
 Middle income,MIC,2019,5827337512.0
 Middle income,MIC,2018,5768170863.0
+North America,NAC,2023,0.0
 North America,NAC,2022,372280991.0
 North America,NAC,2021,370321816.0
 North America,NAC,2020,369582571.0
 North America,NAC,2019,365995094.0
 North America,NAC,2018,363967201.0
+Not classified,,2023,0.0
+Not classified,,2022,0.0
+Not classified,,2021,0.0
+Not classified,,2020,0.0
+Not classified,,2019,0.0
+Not classified,,2018,0.0
+Not classified,,2017,0.0
+Not classified,,2016,0.0
+Not classified,,2015,0.0
+Not classified,,2014,0.0
+Not classified,,2013,0.0
+Not classified,,2012,0.0
+Not classified,,2011,0.0
+Not classified,,2010,0.0
+Not classified,,2009,0.0
+Not classified,,2008,0.0
+Not classified,,2007,0.0
+Not classified,,2006,0.0
+Not classified,,2005,0.0
+Not classified,,2004,0.0
+Not classified,,2003,0.0
+Not classified,,2002,0.0
+Not classified,,2001,0.0
+Not classified,,2000,0.0
+Not classified,,1999,0.0
+Not classified,,1998,0.0
+Not classified,,1997,0.0
+Not classified,,1996,0.0
+Not classified,,1995,0.0
+Not classified,,1994,0.0
+Not classified,,1993,0.0
+Not classified,,1992,0.0
+Not classified,,1991,0.0
+Not classified,,1990,0.0
+Not classified,,1989,0.0
+Not classified,,1988,0.0
+Not classified,,1987,0.0
+Not classified,,1986,0.0
+Not classified,,1985,0.0
+Not classified,,1984,0.0
+Not classified,,1983,0.0
+Not classified,,1982,0.0
+Not classified,,1981,0.0
+Not classified,,1980,0.0
+Not classified,,1979,0.0
+Not classified,,1978,0.0
+Not classified,,1977,0.0
+Not classified,,1976,0.0
+Not classified,,1975,0.0
+Not classified,,1974,0.0
+Not classified,,1973,0.0
+Not classified,,1972,0.0
+Not classified,,1971,0.0
+Not classified,,1970,0.0
+Not classified,,1969,0.0
+Not classified,,1968,0.0
+Not classified,,1967,0.0
+Not classified,,1966,0.0
+Not classified,,1965,0.0
+Not classified,,1964,0.0
+Not classified,,1963,0.0
+Not classified,,1962,0.0
+Not classified,,1961,0.0
+Not classified,,1960,0.0
+OECD members,OED,2023,0.0
 OECD members,OED,2022,1376606817.0
 OECD members,OED,2021,1371917156.0
 OECD members,OED,2020,1369465369.0
 OECD members,OED,2019,1362014902.0
 OECD members,OED,2018,1354836308.0
+Other small states,OSS,2023,0.0
 Other small states,OSS,2022,33169026.0
 Other small states,OSS,2021,32708277.0
 Other small states,OSS,2020,32381464.0
 Other small states,OSS,2019,32005477.0
 Other small states,OSS,2018,31494491.0
+Pacific island small states,PSS,2023,0.0
 Pacific island small states,PSS,2022,2639019.0
 Pacific island small states,PSS,2021,2602173.0
 Pacific island small states,PSS,2020,2566819.0
 Pacific island small states,PSS,2019,2536070.0
 Pacific island small states,PSS,2018,2510226.0
+Post-demographic dividend,PST,2023,0.0
 Post-demographic dividend,PST,2022,1113495082.0
 Post-demographic dividend,PST,2021,1116569892.0
 Post-demographic dividend,PST,2020,1117418072.0
 Post-demographic dividend,PST,2019,1113305347.0
 Post-demographic dividend,PST,2018,1110123356.0
+Pre-demographic dividend,PRE,2023,0.0
 Pre-demographic dividend,PRE,2022,1038012552.0
 Pre-demographic dividend,PRE,2021,1011043183.0
 Pre-demographic dividend,PRE,2020,984213438.0
 Pre-demographic dividend,PRE,2019,957503246.0
 Pre-demographic dividend,PRE,2018,931467165.0
+Small states,SST,2023,0.0
 Small states,SST,2022,43313523.0
 Small states,SST,2021,42792327.0
 Small states,SST,2020,42393051.0
 Small states,SST,2019,41965649.0
 Small states,SST,2018,41379367.0
+South Asia,SAS,2023,0.0
 South Asia,SAS,2022,1919348000.0
 South Asia,SAS,2021,1901911604.0
 South Asia,SAS,2020,1882531620.0
 South Asia,SAS,2019,1861598514.0
 South Asia,SAS,2018,1840534093.0
+South Asia (IDA & IBRD),TSA,2023,0.0
 South Asia (IDA & IBRD),TSA,2022,1919348000.0
 South Asia (IDA & IBRD),TSA,2021,1901911604.0
 South Asia (IDA & IBRD),TSA,2020,1882531620.0
 South Asia (IDA & IBRD),TSA,2019,1861598514.0
 South Asia (IDA & IBRD),TSA,2018,1840534093.0
+Sub-Saharan Africa,SSF,2023,0.0
 Sub-Saharan Africa,SSF,2022,1211190002.0
 Sub-Saharan Africa,SSF,2021,1181163013.0
 Sub-Saharan Africa,SSF,2020,1151302081.0
 Sub-Saharan Africa,SSF,2019,1121549049.0
 Sub-Saharan Africa,SSF,2018,1092403973.0
+Sub-Saharan Africa (excluding high income),SSA,2023,0.0
 Sub-Saharan Africa (excluding high income),SSA,2022,1211070124.0
 Sub-Saharan Africa (excluding high income),SSA,2021,1181063755.0
 Sub-Saharan Africa (excluding high income),SSA,2020,1151203619.0
 Sub-Saharan Africa (excluding high income),SSA,2019,1121451424.0
 Sub-Saharan Africa (excluding high income),SSA,2018,1092307211.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2023,0.0
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2022,1211190002.0
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2021,1181163013.0
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,1151302081.0
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,1121549049.0
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,1092403973.0
+Upper middle income,,2023,0.0
 Upper middle income,,2022,2784368143.0
 Upper middle income,,2021,2776124854.0
 Upper middle income,,2020,2765716827.0
@@ -15490,271 +15947,325 @@ Upper middle income,,1963,1256004770.0
 Upper middle income,,1962,1226014408.0
 Upper middle income,,1961,1207494445.0
 Upper middle income,,1960,1201583310.0
+World,WLD,2023,0.0
 World,WLD,2022,7950946801.0
 World,WLD,2021,7888305693.0
 World,WLD,2020,7820205606.0
 World,WLD,2019,7741774583.0
 World,WLD,2018,7660371127.0
+Afghanistan,AFG,2023,0.0
 Afghanistan,AFG,2022,41128771.0
 Afghanistan,AFG,2021,40099462.0
 Afghanistan,AFG,2020,38972230.0
 Afghanistan,AFG,2019,37769499.0
 Afghanistan,AFG,2018,36686784.0
+Albania,ALB,2023,0.0
 Albania,ALB,2022,2777689.0
 Albania,ALB,2021,2811666.0
 Albania,ALB,2020,2837849.0
 Albania,ALB,2019,2854191.0
 Albania,ALB,2018,2866376.0
+Algeria,DZA,2023,0.0
 Algeria,DZA,2022,44903225.0
 Algeria,DZA,2021,44177969.0
 Algeria,DZA,2020,43451666.0
 Algeria,DZA,2019,42705368.0
 Algeria,DZA,2018,41927007.0
+American Samoa,ASM,2023,0.0
 American Samoa,ASM,2022,44273.0
 American Samoa,ASM,2021,45035.0
 American Samoa,ASM,2020,46189.0
 American Samoa,ASM,2019,47321.0
 American Samoa,ASM,2018,48424.0
+Andorra,AND,2023,0.0
 Andorra,AND,2022,79824.0
 Andorra,AND,2021,79034.0
 Andorra,AND,2020,77700.0
 Andorra,AND,2019,76343.0
 Andorra,AND,2018,75013.0
+Angola,AGO,2023,0.0
 Angola,AGO,2022,35588987.0
 Angola,AGO,2021,34503774.0
 Angola,AGO,2020,33428486.0
 Angola,AGO,2019,32353588.0
 Angola,AGO,2018,31273533.0
+Antigua and Barbuda,ATG,2023,0.0
 Antigua and Barbuda,ATG,2022,93763.0
 Antigua and Barbuda,ATG,2021,93219.0
 Antigua and Barbuda,ATG,2020,92664.0
 Antigua and Barbuda,ATG,2019,92117.0
 Antigua and Barbuda,ATG,2018,91626.0
+Argentina,ARG,2023,0.0
 Argentina,ARG,2022,46234830.0
 Argentina,ARG,2021,45808747.0
 Argentina,ARG,2020,45376763.0
 Argentina,ARG,2019,44938712.0
 Argentina,ARG,2018,44494502.0
+Armenia,ARM,2023,0.0
 Armenia,ARM,2022,2780469.0
 Armenia,ARM,2021,2790974.0
 Armenia,ARM,2020,2805608.0
 Armenia,ARM,2019,2820602.0
 Armenia,ARM,2018,2836557.0
+Aruba,ABW,2023,0.0
 Aruba,ABW,2022,106445.0
 Aruba,ABW,2021,106537.0
 Aruba,ABW,2020,106585.0
 Aruba,ABW,2019,106442.0
 Aruba,ABW,2018,105962.0
+Australia,AUS,2023,0.0
 Australia,AUS,2022,26005540.0
 Australia,AUS,2021,25685412.0
 Australia,AUS,2020,25649248.0
 Australia,AUS,2019,25334826.0
 Australia,AUS,2018,24963258.0
+Austria,AUT,2023,0.0
 Austria,AUT,2022,9041851.0
 Austria,AUT,2021,8955797.0
 Austria,AUT,2020,8916864.0
 Austria,AUT,2019,8879920.0
 Austria,AUT,2018,8840521.0
+Azerbaijan,AZE,2023,0.0
 Azerbaijan,AZE,2022,10141756.0
 Azerbaijan,AZE,2021,10137750.0
 Azerbaijan,AZE,2020,10093121.0
 Azerbaijan,AZE,2019,10024283.0
 Azerbaijan,AZE,2018,9939771.0
+"Bahamas, The",BHS,2023,0.0
 "Bahamas, The",BHS,2022,409984.0
 "Bahamas, The",BHS,2021,407906.0
 "Bahamas, The",BHS,2020,406471.0
 "Bahamas, The",BHS,2019,404557.0
 "Bahamas, The",BHS,2018,401906.0
+Bahrain,BHR,2023,0.0
 Bahrain,BHR,2022,1472233.0
 Bahrain,BHR,2021,1463265.0
 Bahrain,BHR,2020,1477469.0
 Bahrain,BHR,2019,1494188.0
 Bahrain,BHR,2018,1487340.0
+Bangladesh,BGD,2023,0.0
 Bangladesh,BGD,2022,171186372.0
 Bangladesh,BGD,2021,169356251.0
 Bangladesh,BGD,2020,167420951.0
 Bangladesh,BGD,2019,165516222.0
 Bangladesh,BGD,2018,163683958.0
+Barbados,BRB,2023,0.0
 Barbados,BRB,2022,281635.0
 Barbados,BRB,2021,281200.0
 Barbados,BRB,2020,280693.0
 Barbados,BRB,2019,280180.0
 Barbados,BRB,2018,279688.0
+Belarus,BLR,2023,0.0
 Belarus,BLR,2022,9228071.0
 Belarus,BLR,2021,9302585.0
 Belarus,BLR,2020,9379952.0
 Belarus,BLR,2019,9419758.0
 Belarus,BLR,2018,9438785.0
+Belgium,BEL,2023,0.0
 Belgium,BEL,2022,11685814.0
 Belgium,BEL,2021,11586195.0
 Belgium,BEL,2020,11538604.0
 Belgium,BEL,2019,11488980.0
 Belgium,BEL,2018,11427054.0
+Belize,BLZ,2023,0.0
 Belize,BLZ,2022,405272.0
 Belize,BLZ,2021,400031.0
 Belize,BLZ,2020,394921.0
 Belize,BLZ,2019,389095.0
 Belize,BLZ,2018,382066.0
+Benin,BEN,2023,0.0
 Benin,BEN,2022,13352864.0
 Benin,BEN,2021,12996895.0
 Benin,BEN,2020,12643123.0
 Benin,BEN,2019,12290444.0
 Benin,BEN,2018,11940683.0
+Bermuda,BMU,2023,0.0
 Bermuda,BMU,2022,63532.0
 Bermuda,BMU,2021,63764.0
 Bermuda,BMU,2020,63893.0
 Bermuda,BMU,2019,63911.0
 Bermuda,BMU,2018,63918.0
+Bhutan,BTN,2023,0.0
 Bhutan,BTN,2022,782455.0
 Bhutan,BTN,2021,777486.0
 Bhutan,BTN,2020,772506.0
 Bhutan,BTN,2019,767459.0
 Bhutan,BTN,2018,762096.0
+Bolivia,BOL,2023,0.0
 Bolivia,BOL,2022,12224110.0
 Bolivia,BOL,2021,12079472.0
 Bolivia,BOL,2020,11936162.0
 Bolivia,BOL,2019,11777315.0
 Bolivia,BOL,2018,11606905.0
+Bosnia and Herzegovina,BIH,2023,0.0
 Bosnia and Herzegovina,BIH,2022,3233526.0
 Bosnia and Herzegovina,BIH,2021,3270943.0
 Bosnia and Herzegovina,BIH,2020,3318407.0
 Bosnia and Herzegovina,BIH,2019,3360711.0
 Bosnia and Herzegovina,BIH,2018,3400129.0
+Botswana,BWA,2023,0.0
 Botswana,BWA,2022,2630296.0
 Botswana,BWA,2021,2588423.0
 Botswana,BWA,2020,2546402.0
 Botswana,BWA,2019,2499702.0
 Botswana,BWA,2018,2451409.0
+Brazil,BRA,2023,0.0
 Brazil,BRA,2022,215313498.0
 Brazil,BRA,2021,214326223.0
 Brazil,BRA,2020,213196304.0
 Brazil,BRA,2019,211782878.0
 Brazil,BRA,2018,210166592.0
+British Virgin Islands,VGB,2023,0.0
 British Virgin Islands,VGB,2022,31305.0
 British Virgin Islands,VGB,2021,31122.0
 British Virgin Islands,VGB,2020,30910.0
 British Virgin Islands,VGB,2019,30610.0
 British Virgin Islands,VGB,2018,30335.0
+Brunei Darussalam,BRN,2023,0.0
 Brunei Darussalam,BRN,2022,449002.0
 Brunei Darussalam,BRN,2021,445373.0
 Brunei Darussalam,BRN,2020,441725.0
 Brunei Darussalam,BRN,2019,438048.0
 Brunei Darussalam,BRN,2018,434274.0
+Bulgaria,BGR,2023,0.0
 Bulgaria,BGR,2022,6465097.0
 Bulgaria,BGR,2021,6877743.0
 Bulgaria,BGR,2020,6934015.0
 Bulgaria,BGR,2019,6975761.0
 Bulgaria,BGR,2018,7025037.0
+Burkina Faso,BFA,2023,0.0
 Burkina Faso,BFA,2022,22673762.0
 Burkina Faso,BFA,2021,22100683.0
 Burkina Faso,BFA,2020,21522626.0
 Burkina Faso,BFA,2019,20951639.0
 Burkina Faso,BFA,2018,20392723.0
+Burundi,BDI,2023,0.0
 Burundi,BDI,2022,12889576.0
 Burundi,BDI,2021,12551213.0
 Burundi,BDI,2020,12220227.0
 Burundi,BDI,2019,11874838.0
 Burundi,BDI,2018,11493472.0
+Cabo Verde,CPV,2023,0.0
 Cabo Verde,CPV,2022,593149.0
 Cabo Verde,CPV,2021,587925.0
 Cabo Verde,CPV,2020,582640.0
 Cabo Verde,CPV,2019,577030.0
 Cabo Verde,CPV,2018,571202.0
+Cambodia,KHM,2023,0.0
 Cambodia,KHM,2022,16767842.0
 Cambodia,KHM,2021,16589023.0
 Cambodia,KHM,2020,16396860.0
 Cambodia,KHM,2019,16207746.0
 Cambodia,KHM,2018,16025238.0
+Cameroon,CMR,2023,0.0
 Cameroon,CMR,2022,27914536.0
 Cameroon,CMR,2021,27198628.0
 Cameroon,CMR,2020,26491087.0
 Cameroon,CMR,2019,25782341.0
 Cameroon,CMR,2018,25076747.0
+Canada,CAN,2023,0.0
 Canada,CAN,2022,38929902.0
 Canada,CAN,2021,38226498.0
 Canada,CAN,2020,38007166.0
 Canada,CAN,2019,37601230.0
 Canada,CAN,2018,37065084.0
+Cayman Islands,CYM,2023,0.0
 Cayman Islands,CYM,2022,68706.0
 Cayman Islands,CYM,2021,68136.0
 Cayman Islands,CYM,2020,67311.0
 Cayman Islands,CYM,2019,66134.0
 Cayman Islands,CYM,2018,64884.0
+Central African Republic,CAF,2023,0.0
 Central African Republic,CAF,2022,5579144.0
 Central African Republic,CAF,2021,5457154.0
 Central African Republic,CAF,2020,5343020.0
 Central African Republic,CAF,2019,5209324.0
 Central African Republic,CAF,2018,5094780.0
+Chad,TCD,2023,0.0
 Chad,TCD,2022,17723315.0
 Chad,TCD,2021,17179740.0
 Chad,TCD,2020,16644701.0
 Chad,TCD,2019,16126866.0
 Chad,TCD,2018,15604210.0
+Channel Islands,CHI,2023,0.0
 Channel Islands,CHI,2022,174079.0
 Channel Islands,CHI,2021,172683.0
 Channel Islands,CHI,2020,171113.0
 Channel Islands,CHI,2019,169410.0
 Channel Islands,CHI,2018,167259.0
+Chile,CHL,2023,0.0
 Chile,CHL,2022,19603733.0
 Chile,CHL,2021,19493184.0
 Chile,CHL,2020,19300315.0
 Chile,CHL,2019,19039485.0
 Chile,CHL,2018,18701450.0
+China,CHN,2023,0.0
 China,CHN,2022,1412175000.0
 China,CHN,2021,1412360000.0
 China,CHN,2020,1411100000.0
 China,CHN,2019,1407745000.0
 China,CHN,2018,1402760000.0
+Colombia,COL,2023,0.0
 Colombia,COL,2022,51874024.0
 Colombia,COL,2021,51516562.0
 Colombia,COL,2020,50930662.0
 Colombia,COL,2019,50187406.0
 Colombia,COL,2018,49276961.0
+Comoros,COM,2023,0.0
 Comoros,COM,2022,836774.0
 Comoros,COM,2021,821625.0
 Comoros,COM,2020,806166.0
 Comoros,COM,2019,790986.0
 Comoros,COM,2018,776313.0
+"Congo, Dem. Rep.",COD,2023,0.0
 "Congo, Dem. Rep.",COD,2022,99010212.0
 "Congo, Dem. Rep.",COD,2021,95894118.0
 "Congo, Dem. Rep.",COD,2020,92853164.0
 "Congo, Dem. Rep.",COD,2019,89906890.0
 "Congo, Dem. Rep.",COD,2018,87087355.0
+"Congo, Rep.",COG,2023,0.0
 "Congo, Rep.",COG,2022,5970424.0
 "Congo, Rep.",COG,2021,5835806.0
 "Congo, Rep.",COG,2020,5702174.0
 "Congo, Rep.",COG,2019,5570733.0
 "Congo, Rep.",COG,2018,5441062.0
+Costa Rica,CRI,2023,0.0
 Costa Rica,CRI,2022,5180829.0
 Costa Rica,CRI,2021,5153957.0
 Costa Rica,CRI,2020,5123105.0
 Costa Rica,CRI,2019,5084532.0
 Costa Rica,CRI,2018,5040734.0
+Cote d'Ivoire,CIV,2023,0.0
 Cote d'Ivoire,CIV,2022,28160542.0
 Cote d'Ivoire,CIV,2021,27478249.0
 Cote d'Ivoire,CIV,2020,26811790.0
 Cote d'Ivoire,CIV,2019,26147551.0
 Cote d'Ivoire,CIV,2018,25493988.0
+Croatia,HRV,2023,0.0
 Croatia,HRV,2022,3855600.0
 Croatia,HRV,2021,3879000.0
 Croatia,HRV,2020,4047680.0
 Croatia,HRV,2019,4065253.0
 Croatia,HRV,2018,4087843.0
+Cuba,CUB,2023,0.0
 Cuba,CUB,2022,11212191.0
 Cuba,CUB,2021,11256372.0
 Cuba,CUB,2020,11300698.0
 Cuba,CUB,2019,11316697.0
 Cuba,CUB,2018,11328244.0
+Curacao,CUW,2023,0.0
 Curacao,CUW,2022,149996.0
 Curacao,CUW,2021,152369.0
 Curacao,CUW,2020,154947.0
 Curacao,CUW,2019,157441.0
 Curacao,CUW,2018,159336.0
+Cyprus,CYP,2023,0.0
 Cyprus,CYP,2022,1251488.0
 Cyprus,CYP,2021,1244188.0
 Cyprus,CYP,2020,1237537.0
 Cyprus,CYP,2019,1228836.0
 Cyprus,CYP,2018,1218831.0
+Czechia,CZE,2023,0.0
 Czechia,CZE,2022,10672118.0
 Czechia,CZE,2021,10505772.0
 Czechia,CZE,2020,10697858.0
@@ -15818,114 +16329,67 @@ Czechia,CZE,1963,9670685.0
 Czechia,CZE,1962,9624660.0
 Czechia,CZE,1961,9586651.0
 Czechia,CZE,1960,9602006.0
+Denmark,DNK,2023,0.0
 Denmark,DNK,2022,5903037.0
 Denmark,DNK,2021,5856733.0
 Denmark,DNK,2020,5831404.0
 Denmark,DNK,2019,5814422.0
 Denmark,DNK,2018,5793636.0
+Djibouti,DJI,2023,0.0
 Djibouti,DJI,2022,1120849.0
 Djibouti,DJI,2021,1105557.0
 Djibouti,DJI,2020,1090156.0
 Djibouti,DJI,2019,1073994.0
 Djibouti,DJI,2018,1057198.0
+Dominica,DMA,2023,0.0
 Dominica,DMA,2022,72737.0
 Dominica,DMA,2021,72412.0
 Dominica,DMA,2020,71995.0
 Dominica,DMA,2019,71428.0
 Dominica,DMA,2018,70823.0
+Dominican Republic,DOM,2023,0.0
 Dominican Republic,DOM,2022,11228821.0
 Dominican Republic,DOM,2021,11117873.0
 Dominican Republic,DOM,2020,10999664.0
 Dominican Republic,DOM,2019,10881882.0
 Dominican Republic,DOM,2018,10765531.0
+Ecuador,ECU,2023,0.0
 Ecuador,ECU,2022,18001000.0
 Ecuador,ECU,2021,17797737.0
 Ecuador,ECU,2020,17588595.0
 Ecuador,ECU,2019,17343740.0
 Ecuador,ECU,2018,17015672.0
+"Egypt, Arab Rep.",EGY,2023,0.0
 "Egypt, Arab Rep.",EGY,2022,110990103.0
 "Egypt, Arab Rep.",EGY,2021,109262178.0
 "Egypt, Arab Rep.",EGY,2020,107465134.0
 "Egypt, Arab Rep.",EGY,2019,105618671.0
 "Egypt, Arab Rep.",EGY,2018,103740765.0
+El Salvador,SLV,2023,0.0
 El Salvador,SLV,2022,6336392.0
 El Salvador,SLV,2021,6314167.0
 El Salvador,SLV,2020,6292731.0
 El Salvador,SLV,2019,6280217.0
 El Salvador,SLV,2018,6276342.0
+Equatorial Guinea,GNQ,2023,0.0
 Equatorial Guinea,GNQ,2022,1674908.0
 Equatorial Guinea,GNQ,2021,1634466.0
 Equatorial Guinea,GNQ,2020,1596049.0
 Equatorial Guinea,GNQ,2019,1553031.0
 Equatorial Guinea,GNQ,2018,1502091.0
+Eritrea,ERI,2023,0.0
 Eritrea,ERI,2022,3684032.0
 Eritrea,ERI,2021,3620312.0
 Eritrea,ERI,2020,3555868.0
 Eritrea,ERI,2019,3498818.0
 Eritrea,ERI,2018,3445374.0
-Eritrea,ERI,2017,3396933.0
-Eritrea,ERI,2016,3365287.0
-Eritrea,ERI,2015,3340006.0
-Eritrea,ERI,2014,3323425.0
-Eritrea,ERI,2013,3296367.0
-Eritrea,ERI,2012,3252596.0
-Eritrea,ERI,2011,3207570.0
-Eritrea,ERI,2010,3147727.0
-Eritrea,ERI,2009,3083888.0
-Eritrea,ERI,2008,3005779.0
-Eritrea,ERI,2007,2926168.0
-Eritrea,ERI,2006,2880093.0
-Eritrea,ERI,2005,2831732.0
-Eritrea,ERI,2004,2763140.0
-Eritrea,ERI,2003,2653390.0
-Eritrea,ERI,2002,2547424.0
-Eritrea,ERI,2001,2461927.0
-Eritrea,ERI,2000,2392880.0
-Eritrea,ERI,1999,2356477.0
-Eritrea,ERI,1998,2322753.0
-Eritrea,ERI,1997,2291561.0
-Eritrea,ERI,1996,2264073.0
-Eritrea,ERI,1995,2157220.0
-Eritrea,ERI,1994,2042500.0
-Eritrea,ERI,1993,1981419.0
-Eritrea,ERI,1992,1921153.0
-Eritrea,ERI,1991,2039220.0
-Eritrea,ERI,1990,2149960.0
-Eritrea,ERI,1989,2102131.0
-Eritrea,ERI,1988,2051546.0
-Eritrea,ERI,1987,2000355.0
-Eritrea,ERI,1986,1949611.0
-Eritrea,ERI,1985,1899243.0
-Eritrea,ERI,1984,1849594.0
-Eritrea,ERI,1983,1799814.0
-Eritrea,ERI,1982,1751045.0
-Eritrea,ERI,1981,1703789.0
-Eritrea,ERI,1980,1657982.0
-Eritrea,ERI,1979,1613829.0
-Eritrea,ERI,1978,1571193.0
-Eritrea,ERI,1977,1529802.0
-Eritrea,ERI,1976,1489656.0
-Eritrea,ERI,1975,1450867.0
-Eritrea,ERI,1974,1413220.0
-Eritrea,ERI,1973,1376516.0
-Eritrea,ERI,1972,1340838.0
-Eritrea,ERI,1971,1306234.0
-Eritrea,ERI,1970,1272748.0
-Eritrea,ERI,1969,1240562.0
-Eritrea,ERI,1968,1209602.0
-Eritrea,ERI,1967,1179554.0
-Eritrea,ERI,1966,1150264.0
-Eritrea,ERI,1965,1121739.0
-Eritrea,ERI,1964,1094042.0
-Eritrea,ERI,1963,1067295.0
-Eritrea,ERI,1962,1041552.0
-Eritrea,ERI,1961,1016932.0
-Eritrea,ERI,1960,993568.0
+Estonia,EST,2023,0.0
 Estonia,EST,2022,1348840.0
 Estonia,EST,2021,1330932.0
 Estonia,EST,2020,1329522.0
 Estonia,EST,2019,1326898.0
 Estonia,EST,2018,1321977.0
+Eswatini,SWZ,2023,0.0
 Eswatini,SWZ,2022,1201670.0
 Eswatini,SWZ,2021,1192271.0
 Eswatini,SWZ,2020,1180655.0
@@ -15989,201 +16453,241 @@ Eswatini,SWZ,1963,369527.0
 Eswatini,SWZ,1962,361070.0
 Eswatini,SWZ,1961,352971.0
 Eswatini,SWZ,1960,345065.0
+Ethiopia,ETH,2023,0.0
 Ethiopia,ETH,2022,123379924.0
 Ethiopia,ETH,2021,120283026.0
 Ethiopia,ETH,2020,117190911.0
 Ethiopia,ETH,2019,114120594.0
 Ethiopia,ETH,2018,111129438.0
+Faroe Islands,FRO,2023,0.0
 Faroe Islands,FRO,2022,53090.0
 Faroe Islands,FRO,2021,52889.0
 Faroe Islands,FRO,2020,52415.0
 Faroe Islands,FRO,2019,51681.0
 Faroe Islands,FRO,2018,50955.0
+Fiji,FJI,2023,0.0
 Fiji,FJI,2022,929766.0
 Fiji,FJI,2021,924610.0
 Fiji,FJI,2020,920422.0
 Fiji,FJI,2019,918465.0
 Fiji,FJI,2018,918996.0
+Finland,FIN,2023,0.0
 Finland,FIN,2022,5556106.0
 Finland,FIN,2021,5541017.0
 Finland,FIN,2020,5529543.0
 Finland,FIN,2019,5521606.0
 Finland,FIN,2018,5515525.0
+France,FRA,2023,0.0
 France,FRA,2022,67971311.0
 France,FRA,2021,67764304.0
 France,FRA,2020,67571107.0
 France,FRA,2019,67388001.0
 France,FRA,2018,67158348.0
+French Polynesia,PYF,2023,0.0
 French Polynesia,PYF,2022,306279.0
 French Polynesia,PYF,2021,304032.0
 French Polynesia,PYF,2020,301920.0
 French Polynesia,PYF,2019,299717.0
 French Polynesia,PYF,2018,297606.0
+Gabon,GAB,2023,0.0
 Gabon,GAB,2022,2388992.0
 Gabon,GAB,2021,2341179.0
 Gabon,GAB,2020,2292573.0
 Gabon,GAB,2019,2242785.0
 Gabon,GAB,2018,2192012.0
+"Gambia, The",GMB,2023,0.0
 "Gambia, The",GMB,2022,2705992.0
 "Gambia, The",GMB,2021,2639916.0
 "Gambia, The",GMB,2020,2573995.0
 "Gambia, The",GMB,2019,2508883.0
 "Gambia, The",GMB,2018,2444916.0
+Georgia,GEO,2023,0.0
 Georgia,GEO,2022,3712502.0
 Georgia,GEO,2021,3708610.0
 Georgia,GEO,2020,3722716.0
 Georgia,GEO,2019,3720161.0
 Georgia,GEO,2018,3726549.0
+Germany,DEU,2023,0.0
 Germany,DEU,2022,83797985.0
 Germany,DEU,2021,83196078.0
 Germany,DEU,2020,83160871.0
 Germany,DEU,2019,83092962.0
 Germany,DEU,2018,82905782.0
+Ghana,GHA,2023,0.0
 Ghana,GHA,2022,33475870.0
 Ghana,GHA,2021,32833031.0
 Ghana,GHA,2020,32180401.0
 Ghana,GHA,2019,31522290.0
 Ghana,GHA,2018,30870641.0
+Gibraltar,GIB,2023,0.0
 Gibraltar,GIB,2022,32649.0
 Gibraltar,GIB,2021,32669.0
 Gibraltar,GIB,2020,32709.0
 Gibraltar,GIB,2019,32685.0
 Gibraltar,GIB,2018,32648.0
+Greece,GRC,2023,0.0
 Greece,GRC,2022,10426919.0
 Greece,GRC,2021,10569207.0
 Greece,GRC,2020,10698599.0
 Greece,GRC,2019,10721582.0
 Greece,GRC,2018,10732882.0
+Greenland,GRL,2023,0.0
 Greenland,GRL,2022,56661.0
 Greenland,GRL,2021,56653.0
 Greenland,GRL,2020,56367.0
 Greenland,GRL,2019,56225.0
 Greenland,GRL,2018,56023.0
+Grenada,GRD,2023,0.0
 Grenada,GRD,2022,125438.0
 Grenada,GRD,2021,124610.0
 Grenada,GRD,2020,123663.0
 Grenada,GRD,2019,122724.0
 Grenada,GRD,2018,121838.0
+Guam,GUM,2023,0.0
 Guam,GUM,2022,171774.0
 Guam,GUM,2021,170534.0
 Guam,GUM,2020,169231.0
 Guam,GUM,2019,168624.0
 Guam,GUM,2018,168678.0
+Guatemala,GTM,2023,0.0
 Guatemala,GTM,2022,17357886.0
 Guatemala,GTM,2021,17109746.0
 Guatemala,GTM,2020,16858333.0
 Guatemala,GTM,2019,16604026.0
 Guatemala,GTM,2018,16346950.0
+Guinea,GIN,2023,0.0
 Guinea,GIN,2022,13859341.0
 Guinea,GIN,2021,13531906.0
 Guinea,GIN,2020,13205153.0
 Guinea,GIN,2019,12877539.0
 Guinea,GIN,2018,12554864.0
+Guinea-Bissau,GNB,2023,0.0
 Guinea-Bissau,GNB,2022,2105566.0
 Guinea-Bissau,GNB,2021,2060721.0
 Guinea-Bissau,GNB,2020,2015828.0
 Guinea-Bissau,GNB,2019,1970457.0
 Guinea-Bissau,GNB,2018,1924955.0
+Guyana,GUY,2023,0.0
 Guyana,GUY,2022,808726.0
 Guyana,GUY,2021,804567.0
 Guyana,GUY,2020,797202.0
 Guyana,GUY,2019,798753.0
 Guyana,GUY,2018,785514.0
+Haiti,HTI,2023,0.0
 Haiti,HTI,2022,11584996.0
 Haiti,HTI,2021,11447569.0
 Haiti,HTI,2020,11306801.0
 Haiti,HTI,2019,11160438.0
 Haiti,HTI,2018,11012421.0
+Honduras,HND,2023,0.0
 Honduras,HND,2022,10432860.0
 Honduras,HND,2021,10278345.0
 Honduras,HND,2020,10121763.0
 Honduras,HND,2019,9958829.0
 Honduras,HND,2018,9792850.0
+"Hong Kong SAR, China",HKG,2023,0.0
 "Hong Kong SAR, China",HKG,2022,7346100.0
 "Hong Kong SAR, China",HKG,2021,7413100.0
 "Hong Kong SAR, China",HKG,2020,7481000.0
 "Hong Kong SAR, China",HKG,2019,7507900.0
 "Hong Kong SAR, China",HKG,2018,7452600.0
+Hungary,HUN,2023,0.0
 Hungary,HUN,2022,9643048.0
 Hungary,HUN,2021,9709891.0
 Hungary,HUN,2020,9750149.0
 Hungary,HUN,2019,9771141.0
 Hungary,HUN,2018,9775564.0
+Iceland,ISL,2023,0.0
 Iceland,ISL,2022,382003.0
 Iceland,ISL,2021,372520.0
 Iceland,ISL,2020,366463.0
 Iceland,ISL,2019,360563.0
 Iceland,ISL,2018,352721.0
+India,IND,2023,0.0
 India,IND,2022,1417173173.0
 India,IND,2021,1407563842.0
 India,IND,2020,1396387127.0
 India,IND,2019,1383112050.0
 India,IND,2018,1369003306.0
+Indonesia,IDN,2023,0.0
 Indonesia,IDN,2022,275501339.0
 Indonesia,IDN,2021,273753191.0
 Indonesia,IDN,2020,271857970.0
 Indonesia,IDN,2019,269582878.0
 Indonesia,IDN,2018,267066843.0
+"Iran, Islamic Rep.",IRN,2023,0.0
 "Iran, Islamic Rep.",IRN,2022,88550570.0
 "Iran, Islamic Rep.",IRN,2021,87923432.0
 "Iran, Islamic Rep.",IRN,2020,87290193.0
 "Iran, Islamic Rep.",IRN,2019,86564202.0
 "Iran, Islamic Rep.",IRN,2018,85617562.0
+Iraq,IRQ,2023,0.0
 Iraq,IRQ,2022,44496122.0
 Iraq,IRQ,2021,43533592.0
 Iraq,IRQ,2020,42556984.0
 Iraq,IRQ,2019,41563520.0
 Iraq,IRQ,2018,40590700.0
+Ireland,IRL,2023,0.0
 Ireland,IRL,2022,5127170.0
 Ireland,IRL,2021,5033164.0
 Ireland,IRL,2020,4985382.0
 Ireland,IRL,2019,4934340.0
 Ireland,IRL,2018,4867316.0
+Isle of Man,IMN,2023,0.0
 Isle of Man,IMN,2022,84519.0
 Isle of Man,IMN,2021,84263.0
 Isle of Man,IMN,2020,84046.0
 Isle of Man,IMN,2019,83933.0
 Isle of Man,IMN,2018,83775.0
+Israel,ISR,2023,0.0
 Israel,ISR,2022,9557500.0
 Israel,ISR,2021,9371400.0
 Israel,ISR,2020,9215100.0
 Israel,ISR,2019,9054000.0
 Israel,ISR,2018,8882800.0
+Italy,ITA,2023,0.0
 Italy,ITA,2022,58940425.0
 Italy,ITA,2021,59133173.0
 Italy,ITA,2020,59438851.0
 Italy,ITA,2019,59729081.0
 Italy,ITA,2018,60421760.0
+Jamaica,JAM,2023,0.0
 Jamaica,JAM,2022,2827377.0
 Jamaica,JAM,2021,2827695.0
 Jamaica,JAM,2020,2820436.0
 Jamaica,JAM,2019,2813773.0
 Jamaica,JAM,2018,2811835.0
+Japan,JPN,2023,0.0
 Japan,JPN,2022,125124989.0
 Japan,JPN,2021,125681593.0
 Japan,JPN,2020,126261000.0
 Japan,JPN,2019,126633000.0
 Japan,JPN,2018,126811000.0
+Jordan,JOR,2023,0.0
 Jordan,JOR,2022,11285869.0
 Jordan,JOR,2021,11148278.0
 Jordan,JOR,2020,10928721.0
 Jordan,JOR,2019,10698683.0
 Jordan,JOR,2018,10459865.0
+Kazakhstan,KAZ,2023,0.0
 Kazakhstan,KAZ,2022,19621972.0
 Kazakhstan,KAZ,2021,19000988.0
 Kazakhstan,KAZ,2020,18755666.0
 Kazakhstan,KAZ,2019,18513673.0
 Kazakhstan,KAZ,2018,18276452.0
+Kenya,KEN,2023,0.0
 Kenya,KEN,2022,54027487.0
 Kenya,KEN,2021,53005614.0
 Kenya,KEN,2020,51985780.0
 Kenya,KEN,2019,50951450.0
 Kenya,KEN,2018,49953304.0
+Kiribati,KIR,2023,0.0
 Kiribati,KIR,2022,131232.0
 Kiribati,KIR,2021,128874.0
 Kiribati,KIR,2020,126463.0
 Kiribati,KIR,2019,124241.0
 Kiribati,KIR,2018,122261.0
+"Korea, Dem. People's Rep.",PRK,2023,0.0
 "Korea, Dem. People's Rep.",PRK,2022,26069416.0
 "Korea, Dem. People's Rep.",PRK,2021,25971909.0
 "Korea, Dem. People's Rep.",PRK,2020,25867467.0
@@ -16247,269 +16751,253 @@ Kiribati,KIR,2018,122261.0
 "Korea, Dem. People's Rep.",PRK,1962,12180505.0
 "Korea, Dem. People's Rep.",PRK,1961,11916515.0
 "Korea, Dem. People's Rep.",PRK,1960,11655666.0
+"Korea, Rep.",KOR,2023,0.0
 "Korea, Rep.",KOR,2022,51628117.0
 "Korea, Rep.",KOR,2021,51744876.0
 "Korea, Rep.",KOR,2020,51836239.0
 "Korea, Rep.",KOR,2019,51764822.0
 "Korea, Rep.",KOR,2018,51585058.0
+Kosovo,XKX,2023,0.0
 Kosovo,XKX,2022,1761985.0
 Kosovo,XKX,2021,1786038.0
 Kosovo,XKX,2020,1790133.0
 Kosovo,XKX,2019,1788878.0
 Kosovo,XKX,2018,1797085.0
+Kuwait,KWT,2023,0.0
 Kuwait,KWT,2022,4268873.0
 Kuwait,KWT,2021,4250114.0
 Kuwait,KWT,2020,4360444.0
 Kuwait,KWT,2019,4441100.0
 Kuwait,KWT,2018,4317185.0
-Kuwait,KWT,2017,4124904.0
-Kuwait,KWT,2016,4048085.0
-Kuwait,KWT,2015,3908743.0
-Kuwait,KWT,2014,3761584.0
-Kuwait,KWT,2013,3646518.0
-Kuwait,KWT,2012,3394663.0
-Kuwait,KWT,2011,3143825.0
-Kuwait,KWT,2010,2943356.0
-Kuwait,KWT,2009,2795550.0
-Kuwait,KWT,2008,2650930.0
-Kuwait,KWT,2007,2506769.0
-Kuwait,KWT,2006,2363409.0
-Kuwait,KWT,2005,2235403.0
-Kuwait,KWT,2004,2153481.0
-Kuwait,KWT,2003,2101506.0
-Kuwait,KWT,2002,2047364.0
-Kuwait,KWT,2001,1991674.0
-Kuwait,KWT,2000,1934901.0
-Kuwait,KWT,1999,1877427.0
-Kuwait,KWT,1998,1819544.0
-Kuwait,KWT,1997,1761468.0
-Kuwait,KWT,1996,1703318.0
-Kuwait,KWT,1995,1655222.0
-Kuwait,KWT,1994,1641106.0
-Kuwait,KWT,1993,1653645.0
-Kuwait,KWT,1992,1620633.0
-Kuwait,KWT,1991,1339500.0
-Kuwait,KWT,1990,1674938.0
-Kuwait,KWT,1989,2210013.0
-Kuwait,KWT,1988,2129153.0
-Kuwait,KWT,1987,2048477.0
-Kuwait,KWT,1986,1968093.0
-Kuwait,KWT,1985,1888975.0
-Kuwait,KWT,1984,1813986.0
-Kuwait,KWT,1983,1736028.0
-Kuwait,KWT,1982,1652921.0
-Kuwait,KWT,1981,1573026.0
-Kuwait,KWT,1980,1493870.0
-Kuwait,KWT,1979,1412266.0
-Kuwait,KWT,1978,1329074.0
-Kuwait,KWT,1977,1247225.0
-Kuwait,KWT,1976,1168791.0
-Kuwait,KWT,1975,1095998.0
-Kuwait,KWT,1974,1030426.0
-Kuwait,KWT,1973,970527.0
-Kuwait,KWT,1972,913785.0
-Kuwait,KWT,1971,858734.0
-Kuwait,KWT,1970,802786.0
-Kuwait,KWT,1969,743044.0
-Kuwait,KWT,1968,681117.0
-Kuwait,KWT,1967,621242.0
-Kuwait,KWT,1966,565463.0
-Kuwait,KWT,1965,513840.0
-Kuwait,KWT,1964,465748.0
-Kuwait,KWT,1963,420494.0
-Kuwait,KWT,1962,378190.0
-Kuwait,KWT,1961,339697.0
-Kuwait,KWT,1960,305415.0
+Kyrgyz Republic,KGZ,2023,0.0
 Kyrgyz Republic,KGZ,2022,6974900.0
 Kyrgyz Republic,KGZ,2021,6773400.0
 Kyrgyz Republic,KGZ,2020,6579900.0
 Kyrgyz Republic,KGZ,2019,6456200.0
 Kyrgyz Republic,KGZ,2018,6322800.0
+Lao PDR,LAO,2023,0.0
 Lao PDR,LAO,2022,7529475.0
 Lao PDR,LAO,2021,7425057.0
 Lao PDR,LAO,2020,7319399.0
 Lao PDR,LAO,2019,7212053.0
 Lao PDR,LAO,2018,7105006.0
+Latvia,LVA,2023,0.0
 Latvia,LVA,2022,1879383.0
 Latvia,LVA,2021,1884490.0
 Latvia,LVA,2020,1900449.0
 Latvia,LVA,2019,1913822.0
 Latvia,LVA,2018,1927174.0
+Lebanon,LBN,2023,0.0
 Lebanon,LBN,2022,5489739.0
 Lebanon,LBN,2021,5592631.0
 Lebanon,LBN,2020,5662923.0
 Lebanon,LBN,2019,5781907.0
 Lebanon,LBN,2018,5950839.0
+Lesotho,LSO,2023,0.0
 Lesotho,LSO,2022,2305825.0
 Lesotho,LSO,2021,2281454.0
 Lesotho,LSO,2020,2254100.0
 Lesotho,LSO,2019,2225702.0
 Lesotho,LSO,2018,2198017.0
+Liberia,LBR,2023,0.0
 Liberia,LBR,2022,5302681.0
 Liberia,LBR,2021,5193416.0
 Liberia,LBR,2020,5087584.0
 Liberia,LBR,2019,4985289.0
 Liberia,LBR,2018,4889391.0
+Libya,LBY,2023,0.0
 Libya,LBY,2022,6812341.0
 Libya,LBY,2021,6735277.0
 Libya,LBY,2020,6653942.0
 Libya,LBY,2019,6569088.0
 Libya,LBY,2018,6477793.0
+Liechtenstein,LIE,2023,0.0
 Liechtenstein,LIE,2022,39327.0
 Liechtenstein,LIE,2021,39039.0
 Liechtenstein,LIE,2020,38756.0
 Liechtenstein,LIE,2019,38482.0
 Liechtenstein,LIE,2018,38181.0
+Lithuania,LTU,2023,0.0
 Lithuania,LTU,2022,2831639.0
 Lithuania,LTU,2021,2800839.0
 Lithuania,LTU,2020,2794885.0
 Lithuania,LTU,2019,2794137.0
 Lithuania,LTU,2018,2801543.0
+Luxembourg,LUX,2023,0.0
 Luxembourg,LUX,2022,653103.0
 Luxembourg,LUX,2021,640064.0
 Luxembourg,LUX,2020,630419.0
 Luxembourg,LUX,2019,620001.0
 Luxembourg,LUX,2018,607950.0
+"Macao SAR, China",MAC,2023,0.0
 "Macao SAR, China",MAC,2022,695168.0
 "Macao SAR, China",MAC,2021,686607.0
 "Macao SAR, China",MAC,2020,676283.0
 "Macao SAR, China",MAC,2019,663653.0
 "Macao SAR, China",MAC,2018,650991.0
+Madagascar,MDG,2023,0.0
 Madagascar,MDG,2022,29611714.0
 Madagascar,MDG,2021,28915653.0
 Madagascar,MDG,2020,28225177.0
 Madagascar,MDG,2019,27533134.0
 Madagascar,MDG,2018,26846541.0
+Malawi,MWI,2023,0.0
 Malawi,MWI,2022,20405317.0
 Malawi,MWI,2021,19889742.0
 Malawi,MWI,2020,19377061.0
 Malawi,MWI,2019,18867337.0
 Malawi,MWI,2018,18367883.0
+Malaysia,MYS,2023,0.0
 Malaysia,MYS,2022,33938221.0
 Malaysia,MYS,2021,33573874.0
 Malaysia,MYS,2020,33199993.0
 Malaysia,MYS,2019,32804020.0
 Malaysia,MYS,2018,32399271.0
+Maldives,MDV,2023,0.0
 Maldives,MDV,2022,523787.0
 Maldives,MDV,2021,521457.0
 Maldives,MDV,2020,514438.0
 Maldives,MDV,2019,504508.0
 Maldives,MDV,2018,489758.0
+Mali,MLI,2023,0.0
 Mali,MLI,2022,22593590.0
 Mali,MLI,2021,21904983.0
 Mali,MLI,2020,21224040.0
 Mali,MLI,2019,20567424.0
 Mali,MLI,2018,19934298.0
+Malta,MLT,2023,0.0
 Malta,MLT,2022,531113.0
 Malta,MLT,2021,518536.0
 Malta,MLT,2020,515332.0
 Malta,MLT,2019,504062.0
 Malta,MLT,2018,484630.0
+Marshall Islands,MHL,2023,0.0
 Marshall Islands,MHL,2022,41569.0
 Marshall Islands,MHL,2021,42050.0
 Marshall Islands,MHL,2020,43413.0
 Marshall Islands,MHL,2019,44728.0
 Marshall Islands,MHL,2018,45989.0
+Mauritania,MRT,2023,0.0
 Mauritania,MRT,2022,4736139.0
 Mauritania,MRT,2021,4614974.0
 Mauritania,MRT,2020,4498604.0
 Mauritania,MRT,2019,4383849.0
 Mauritania,MRT,2018,4270712.0
+Mauritius,MUS,2023,0.0
 Mauritius,MUS,2022,1262523.0
 Mauritius,MUS,2021,1266334.0
 Mauritius,MUS,2020,1266014.0
 Mauritius,MUS,2019,1265985.0
 Mauritius,MUS,2018,1265577.0
+Mexico,MEX,2023,0.0
 Mexico,MEX,2022,127504125.0
 Mexico,MEX,2021,126705138.0
 Mexico,MEX,2020,125998302.0
 Mexico,MEX,2019,125085311.0
 Mexico,MEX,2018,124013861.0
+"Micronesia, Fed. Sts.",FSM,2023,0.0
 "Micronesia, Fed. Sts.",FSM,2022,114164.0
 "Micronesia, Fed. Sts.",FSM,2021,113131.0
 "Micronesia, Fed. Sts.",FSM,2020,112106.0
 "Micronesia, Fed. Sts.",FSM,2019,111379.0
 "Micronesia, Fed. Sts.",FSM,2018,110929.0
+Moldova,MDA,2023,0.0
 Moldova,MDA,2022,2538894.0
 Moldova,MDA,2021,2595809.0
 Moldova,MDA,2020,2635130.0
 Moldova,MDA,2019,2664224.0
 Moldova,MDA,2018,2707203.0
+Monaco,MCO,2023,0.0
 Monaco,MCO,2022,36469.0
 Monaco,MCO,2021,36686.0
 Monaco,MCO,2020,36922.0
 Monaco,MCO,2019,37034.0
 Monaco,MCO,2018,37029.0
+Mongolia,MNG,2023,0.0
 Mongolia,MNG,2022,3398366.0
 Mongolia,MNG,2021,3347782.0
 Mongolia,MNG,2020,3294335.0
 Mongolia,MNG,2019,3232430.0
 Mongolia,MNG,2018,3163991.0
+Montenegro,MNE,2023,0.0
 Montenegro,MNE,2022,617213.0
 Montenegro,MNE,2021,619211.0
 Montenegro,MNE,2020,621306.0
 Montenegro,MNE,2019,622028.0
 Montenegro,MNE,2018,622227.0
+Morocco,MAR,2023,0.0
 Morocco,MAR,2022,37457971.0
 Morocco,MAR,2021,37076584.0
 Morocco,MAR,2020,36688772.0
 Morocco,MAR,2019,36304408.0
 Morocco,MAR,2018,35927511.0
+Mozambique,MOZ,2023,0.0
 Mozambique,MOZ,2022,32969518.0
 Mozambique,MOZ,2021,32077072.0
 Mozambique,MOZ,2020,31178239.0
 Mozambique,MOZ,2019,30285595.0
 Mozambique,MOZ,2018,29423878.0
+Myanmar,MMR,2023,0.0
 Myanmar,MMR,2022,54179306.0
 Myanmar,MMR,2021,53798084.0
 Myanmar,MMR,2020,53423198.0
 Myanmar,MMR,2019,53040212.0
 Myanmar,MMR,2018,52666014.0
+Namibia,NAM,2023,0.0
 Namibia,NAM,2022,2567012.0
 Namibia,NAM,2021,2530151.0
 Namibia,NAM,2020,2489098.0
 Namibia,NAM,2019,2446644.0
 Namibia,NAM,2018,2405680.0
+Nauru,NRU,2023,0.0
 Nauru,NRU,2022,12668.0
 Nauru,NRU,2021,12511.0
 Nauru,NRU,2020,12315.0
 Nauru,NRU,2019,12132.0
 Nauru,NRU,2018,11924.0
+Nepal,NPL,2023,0.0
 Nepal,NPL,2022,30547580.0
 Nepal,NPL,2021,30034989.0
 Nepal,NPL,2020,29348627.0
 Nepal,NPL,2019,28832496.0
 Nepal,NPL,2018,28506712.0
+Netherlands,NLD,2023,0.0
 Netherlands,NLD,2022,17700982.0
 Netherlands,NLD,2021,17533044.0
 Netherlands,NLD,2020,17441500.0
 Netherlands,NLD,2019,17344874.0
 Netherlands,NLD,2018,17231624.0
+New Caledonia,NCL,2023,0.0
 New Caledonia,NCL,2022,269220.0
 New Caledonia,NCL,2021,270390.0
 New Caledonia,NCL,2020,271080.0
 New Caledonia,NCL,2019,271240.0
 New Caledonia,NCL,2018,271170.0
+New Zealand,NZL,2023,0.0
 New Zealand,NZL,2022,5124100.0
 New Zealand,NZL,2021,5111400.0
 New Zealand,NZL,2020,5090200.0
 New Zealand,NZL,2019,4979200.0
 New Zealand,NZL,2018,4900600.0
+Nicaragua,NIC,2023,0.0
 Nicaragua,NIC,2022,6948392.0
 Nicaragua,NIC,2021,6850540.0
 Nicaragua,NIC,2020,6755895.0
 Nicaragua,NIC,2019,6663924.0
 Nicaragua,NIC,2018,6572233.0
+Niger,NER,2023,0.0
 Niger,NER,2022,26207977.0
 Niger,NER,2021,25252722.0
 Niger,NER,2020,24333639.0
 Niger,NER,2019,23443393.0
 Niger,NER,2018,22577058.0
+Nigeria,NGA,2023,0.0
 Nigeria,NGA,2022,218541212.0
 Nigeria,NGA,2021,213401323.0
 Nigeria,NGA,2020,208327405.0
 Nigeria,NGA,2019,203304492.0
 Nigeria,NGA,2018,198387623.0
+North Macedonia,MKD,2023,0.0
 North Macedonia,MKD,2022,2057679.0
 North Macedonia,MKD,2021,2065092.0
 North Macedonia,MKD,2020,2072531.0
@@ -16573,381 +17061,319 @@ North Macedonia,MKD,1963,1511854.0
 North Macedonia,MKD,1962,1497338.0
 North Macedonia,MKD,1961,1481112.0
 North Macedonia,MKD,1960,1462368.0
+Northern Mariana Islands,MNP,2023,0.0
 Northern Mariana Islands,MNP,2022,49551.0
 Northern Mariana Islands,MNP,2021,49481.0
 Northern Mariana Islands,MNP,2020,49587.0
 Northern Mariana Islands,MNP,2019,49858.0
 Northern Mariana Islands,MNP,2018,50304.0
+Norway,NOR,2023,0.0
 Norway,NOR,2022,5457127.0
 Norway,NOR,2021,5408320.0
 Norway,NOR,2020,5379475.0
 Norway,NOR,2019,5347896.0
 Norway,NOR,2018,5311916.0
+Oman,OMN,2023,0.0
 Oman,OMN,2022,4576298.0
 Oman,OMN,2021,4520471.0
 Oman,OMN,2020,4543399.0
 Oman,OMN,2019,4602768.0
 Oman,OMN,2018,4601157.0
+Pakistan,PAK,2023,0.0
 Pakistan,PAK,2022,235824862.0
 Pakistan,PAK,2021,231402117.0
 Pakistan,PAK,2020,227196741.0
 Pakistan,PAK,2019,223293280.0
 Pakistan,PAK,2018,219731479.0
+Palau,PLW,2023,0.0
 Palau,PLW,2022,18055.0
 Palau,PLW,2021,18024.0
 Palau,PLW,2020,17972.0
 Palau,PLW,2019,17916.0
 Palau,PLW,2018,17864.0
+Panama,PAN,2023,0.0
 Panama,PAN,2022,4408581.0
 Panama,PAN,2021,4351267.0
 Panama,PAN,2020,4294396.0
 Panama,PAN,2019,4232532.0
 Panama,PAN,2018,4165255.0
+Papua New Guinea,PNG,2023,0.0
 Papua New Guinea,PNG,2022,10142619.0
 Papua New Guinea,PNG,2021,9949437.0
 Papua New Guinea,PNG,2020,9749640.0
 Papua New Guinea,PNG,2019,9542486.0
 Papua New Guinea,PNG,2018,9329227.0
+Paraguay,PRY,2023,0.0
 Paraguay,PRY,2022,6780744.0
 Paraguay,PRY,2021,6703799.0
 Paraguay,PRY,2020,6618695.0
 Paraguay,PRY,2019,6530026.0
 Paraguay,PRY,2018,6443328.0
+Peru,PER,2023,0.0
 Peru,PER,2022,34049588.0
 Peru,PER,2021,33715471.0
 Peru,PER,2020,33304756.0
 Peru,PER,2019,32824861.0
 Peru,PER,2018,32203944.0
+Philippines,PHL,2023,0.0
 Philippines,PHL,2022,115559009.0
 Philippines,PHL,2021,113880328.0
 Philippines,PHL,2020,112190977.0
 Philippines,PHL,2019,110380804.0
 Philippines,PHL,2018,108568836.0
+Poland,POL,2023,0.0
 Poland,POL,2022,36821749.0
 Poland,POL,2021,37747124.0
 Poland,POL,2020,37899070.0
 Poland,POL,2019,37965475.0
 Poland,POL,2018,37974750.0
+Portugal,PRT,2023,0.0
 Portugal,PRT,2022,10409704.0
 Portugal,PRT,2021,10361831.0
 Portugal,PRT,2020,10297081.0
 Portugal,PRT,2019,10286263.0
 Portugal,PRT,2018,10283822.0
+Puerto Rico,PRI,2023,0.0
 Puerto Rico,PRI,2022,3221789.0
 Puerto Rico,PRI,2021,3262693.0
 Puerto Rico,PRI,2020,3281557.0
 Puerto Rico,PRI,2019,3193694.0
 Puerto Rico,PRI,2018,3193354.0
+Qatar,QAT,2023,0.0
 Qatar,QAT,2022,2695122.0
 Qatar,QAT,2021,2688235.0
 Qatar,QAT,2020,2760385.0
 Qatar,QAT,2019,2807235.0
 Qatar,QAT,2018,2766732.0
+Romania,ROU,2023,0.0
 Romania,ROU,2022,19047009.0
 Romania,ROU,2021,19122059.0
 Romania,ROU,2020,19265250.0
 Romania,ROU,2019,19371648.0
 Romania,ROU,2018,19473970.0
+Russian Federation,RUS,2023,0.0
 Russian Federation,RUS,2022,144236933.0
 Russian Federation,RUS,2021,144130482.0
 Russian Federation,RUS,2020,144073139.0
 Russian Federation,RUS,2019,144406261.0
 Russian Federation,RUS,2018,144477859.0
+Rwanda,RWA,2023,0.0
 Rwanda,RWA,2022,13776698.0
 Rwanda,RWA,2021,13461888.0
 Rwanda,RWA,2020,13146362.0
 Rwanda,RWA,2019,12835028.0
 Rwanda,RWA,2018,12531808.0
+Samoa,WSM,2023,0.0
 Samoa,WSM,2022,222382.0
 Samoa,WSM,2021,218764.0
 Samoa,WSM,2020,214929.0
 Samoa,WSM,2019,211905.0
 Samoa,WSM,2018,209701.0
+San Marino,SMR,2023,0.0
 San Marino,SMR,2022,33660.0
 San Marino,SMR,2021,33745.0
 San Marino,SMR,2020,34007.0
 San Marino,SMR,2019,34178.0
 San Marino,SMR,2018,34156.0
+Sao Tome and Principe,STP,2023,0.0
 Sao Tome and Principe,STP,2022,227380.0
 Sao Tome and Principe,STP,2021,223107.0
 Sao Tome and Principe,STP,2020,218641.0
 Sao Tome and Principe,STP,2019,214599.0
 Sao Tome and Principe,STP,2018,211344.0
+Saudi Arabia,SAU,2023,0.0
 Saudi Arabia,SAU,2022,36408820.0
 Saudi Arabia,SAU,2021,35950396.0
 Saudi Arabia,SAU,2020,35997107.0
 Saudi Arabia,SAU,2019,35827362.0
 Saudi Arabia,SAU,2018,35018133.0
+Senegal,SEN,2023,0.0
 Senegal,SEN,2022,17316449.0
 Senegal,SEN,2021,16876720.0
 Senegal,SEN,2020,16436120.0
 Senegal,SEN,2019,16000781.0
 Senegal,SEN,2018,15574909.0
+Serbia,SRB,2023,0.0
 Serbia,SRB,2022,6664449.0
 Serbia,SRB,2021,6834326.0
 Serbia,SRB,2020,6899126.0
 Serbia,SRB,2019,6945235.0
 Serbia,SRB,2018,6982604.0
-Serbia,SRB,2017,7020858.0
-Serbia,SRB,2016,7058322.0
-Serbia,SRB,2015,7095383.0
-Serbia,SRB,2014,7130576.0
-Serbia,SRB,2013,7164132.0
-Serbia,SRB,2012,7199077.0
-Serbia,SRB,2011,7234099.0
-Serbia,SRB,2010,7291436.0
-Serbia,SRB,2009,7320807.0
-Serbia,SRB,2008,7350222.0
-Serbia,SRB,2007,7381579.0
-Serbia,SRB,2006,7411569.0
-Serbia,SRB,2005,7440769.0
-Serbia,SRB,2004,7463157.0
-Serbia,SRB,2003,7480591.0
-Serbia,SRB,2002,7496522.0
-Serbia,SRB,2001,7503433.0
-Serbia,SRB,2000,7516346.0
-Serbia,SRB,1999,7540401.0
-Serbia,SRB,1998,7567745.0
-Serbia,SRB,1997,7596501.0
-Serbia,SRB,1996,7617794.0
-Serbia,SRB,1995,7625357.0
-Serbia,SRB,1994,7734639.0
-Serbia,SRB,1993,7699307.0
-Serbia,SRB,1992,7646424.0
-Serbia,SRB,1991,7595636.0
-Serbia,SRB,1990,7586000.0
-Serbia,SRB,1989,7581000.0
-Serbia,SRB,1988,7572000.0
-Serbia,SRB,1987,7558000.0
-Serbia,SRB,1986,7536000.0
-Serbia,SRB,1985,7504000.0
-Serbia,SRB,1984,7489000.0
-Serbia,SRB,1983,7468000.0
-Serbia,SRB,1982,7440000.0
-Serbia,SRB,1981,7405000.0
-Serbia,SRB,1980,7362000.0
-Serbia,SRB,1979,7332000.0
-Serbia,SRB,1977,7258000.0
-Serbia,SRB,1976,7214000.0
-Serbia,SRB,1975,7163000.0
-Serbia,SRB,1974,7128000.0
-Serbia,SRB,1973,7091000.0
-Serbia,SRB,1972,7053000.0
-Serbia,SRB,1971,7013000.0
-Serbia,SRB,1970,6972000.0
-Serbia,SRB,1969,6945000.0
-Serbia,SRB,1968,6915000.0
-Serbia,SRB,1967,6880000.0
-Serbia,SRB,1966,6841000.0
-Serbia,SRB,1965,6794000.0
-Serbia,SRB,1964,6765000.0
-Serbia,SRB,1963,6732000.0
-Serbia,SRB,1962,6696000.0
-Serbia,SRB,1961,6655000.0
-Serbia,SRB,1960,6608000.0
+Seychelles,SYC,2023,0.0
 Seychelles,SYC,2022,119878.0
 Seychelles,SYC,2021,99258.0
 Seychelles,SYC,2020,98462.0
 Seychelles,SYC,2019,97625.0
 Seychelles,SYC,2018,96762.0
+Sierra Leone,SLE,2023,0.0
 Sierra Leone,SLE,2022,8605718.0
 Sierra Leone,SLE,2021,8420641.0
 Sierra Leone,SLE,2020,8233970.0
 Sierra Leone,SLE,2019,8046828.0
 Sierra Leone,SLE,2018,7861281.0
+Singapore,SGP,2023,0.0
 Singapore,SGP,2022,5637022.0
 Singapore,SGP,2021,5453566.0
 Singapore,SGP,2020,5685807.0
 Singapore,SGP,2019,5703569.0
 Singapore,SGP,2018,5638676.0
+Sint Maarten (Dutch part),SXM,2023,0.0
 Sint Maarten (Dutch part),SXM,2022,42848.0
 Sint Maarten (Dutch part),SXM,2021,42668.0
 Sint Maarten (Dutch part),SXM,2020,42310.0
 Sint Maarten (Dutch part),SXM,2019,41608.0
 Sint Maarten (Dutch part),SXM,2018,40895.0
-Sint Maarten (Dutch part),SXM,2017,40574.0
-Sint Maarten (Dutch part),SXM,2016,39969.0
-Sint Maarten (Dutch part),SXM,2015,38825.0
-Sint Maarten (Dutch part),SXM,2014,37685.0
-Sint Maarten (Dutch part),SXM,2013,36607.0
-Sint Maarten (Dutch part),SXM,2012,34640.0
-Sint Maarten (Dutch part),SXM,2011,33435.0
-Sint Maarten (Dutch part),SXM,2010,34056.0
-Sint Maarten (Dutch part),SXM,2009,34238.0
-Sint Maarten (Dutch part),SXM,2008,33964.0
-Sint Maarten (Dutch part),SXM,2007,33811.0
-Sint Maarten (Dutch part),SXM,2006,33441.0
-Sint Maarten (Dutch part),SXM,2005,33011.0
-Sint Maarten (Dutch part),SXM,2004,32488.0
-Sint Maarten (Dutch part),SXM,2003,31472.0
-Sint Maarten (Dutch part),SXM,2002,30777.0
-Sint Maarten (Dutch part),SXM,2001,30600.0
-Sint Maarten (Dutch part),SXM,2000,30519.0
-Sint Maarten (Dutch part),SXM,1999,31084.0
-Sint Maarten (Dutch part),SXM,1998,31240.0
-Sint Maarten (Dutch part),SXM,1997,31195.0
-Sint Maarten (Dutch part),SXM,1996,31410.0
-Sint Maarten (Dutch part),SXM,1995,31596.0
-Sint Maarten (Dutch part),SXM,1994,31735.0
-Sint Maarten (Dutch part),SXM,1993,31823.0
-Sint Maarten (Dutch part),SXM,1992,31345.0
-Sint Maarten (Dutch part),SXM,1991,29820.0
-Sint Maarten (Dutch part),SXM,1990,27845.0
-Sint Maarten (Dutch part),SXM,1989,25952.0
-Sint Maarten (Dutch part),SXM,1988,24139.0
-Sint Maarten (Dutch part),SXM,1987,22395.0
-Sint Maarten (Dutch part),SXM,1986,20703.0
-Sint Maarten (Dutch part),SXM,1985,19064.0
-Sint Maarten (Dutch part),SXM,1984,17474.0
-Sint Maarten (Dutch part),SXM,1983,15927.0
-Sint Maarten (Dutch part),SXM,1982,14418.0
-Sint Maarten (Dutch part),SXM,1981,13134.0
-Sint Maarten (Dutch part),SXM,1980,12243.0
-Sint Maarten (Dutch part),SXM,1979,11542.0
-Sint Maarten (Dutch part),SXM,1978,10850.0
-Sint Maarten (Dutch part),SXM,1977,10172.0
-Sint Maarten (Dutch part),SXM,1976,9523.0
-Sint Maarten (Dutch part),SXM,1975,8906.0
-Sint Maarten (Dutch part),SXM,1974,8312.0
-Sint Maarten (Dutch part),SXM,1973,7750.0
-Sint Maarten (Dutch part),SXM,1972,7226.0
-Sint Maarten (Dutch part),SXM,1971,6736.0
-Sint Maarten (Dutch part),SXM,1970,6260.0
-Sint Maarten (Dutch part),SXM,1969,5795.0
-Sint Maarten (Dutch part),SXM,1968,5354.0
-Sint Maarten (Dutch part),SXM,1967,4930.0
-Sint Maarten (Dutch part),SXM,1966,4531.0
-Sint Maarten (Dutch part),SXM,1965,4161.0
-Sint Maarten (Dutch part),SXM,1964,3811.0
-Sint Maarten (Dutch part),SXM,1963,3481.0
-Sint Maarten (Dutch part),SXM,1962,3171.0
-Sint Maarten (Dutch part),SXM,1961,2888.0
-Sint Maarten (Dutch part),SXM,1960,2646.0
+Slovak Republic,SVK,2023,0.0
 Slovak Republic,SVK,2022,5431752.0
 Slovak Republic,SVK,2021,5447247.0
 Slovak Republic,SVK,2020,5458827.0
 Slovak Republic,SVK,2019,5454147.0
 Slovak Republic,SVK,2018,5446771.0
+Slovenia,SVN,2023,0.0
 Slovenia,SVN,2022,2111986.0
 Slovenia,SVN,2021,2108079.0
 Slovenia,SVN,2020,2102419.0
 Slovenia,SVN,2019,2088385.0
 Slovenia,SVN,2018,2073894.0
+Solomon Islands,SLB,2023,0.0
 Solomon Islands,SLB,2022,724273.0
 Solomon Islands,SLB,2021,707851.0
 Solomon Islands,SLB,2020,691191.0
 Solomon Islands,SLB,2019,674993.0
 Solomon Islands,SLB,2018,659249.0
+Somalia,SOM,2023,0.0
 Somalia,SOM,2022,17597511.0
 Somalia,SOM,2021,17065581.0
 Somalia,SOM,2020,16537016.0
 Somalia,SOM,2019,15981300.0
 Somalia,SOM,2018,15411094.0
+South Africa,ZAF,2023,0.0
 South Africa,ZAF,2022,59893885.0
 South Africa,ZAF,2021,59392255.0
 South Africa,ZAF,2020,58801927.0
 South Africa,ZAF,2019,58087055.0
 South Africa,ZAF,2018,57339635.0
+South Sudan,SSD,2023,0.0
 South Sudan,SSD,2022,10913164.0
 South Sudan,SSD,2021,10748272.0
 South Sudan,SSD,2020,10606227.0
 South Sudan,SSD,2019,10447666.0
 South Sudan,SSD,2018,10395329.0
+Spain,ESP,2023,0.0
 Spain,ESP,2022,47778340.0
 Spain,ESP,2021,47415794.0
 Spain,ESP,2020,47365655.0
 Spain,ESP,2019,47134837.0
 Spain,ESP,2018,46797754.0
+Sri Lanka,LKA,2023,0.0
 Sri Lanka,LKA,2022,22181000.0
 Sri Lanka,LKA,2021,22156000.0
 Sri Lanka,LKA,2020,21919000.0
 Sri Lanka,LKA,2019,21803000.0
 Sri Lanka,LKA,2018,21670000.0
+St. Kitts and Nevis,KNA,2023,0.0
 St. Kitts and Nevis,KNA,2022,47657.0
 St. Kitts and Nevis,KNA,2021,47606.0
 St. Kitts and Nevis,KNA,2020,47642.0
 St. Kitts and Nevis,KNA,2019,47712.0
 St. Kitts and Nevis,KNA,2018,47761.0
+St. Lucia,LCA,2023,0.0
 St. Lucia,LCA,2022,179857.0
 St. Lucia,LCA,2021,179651.0
 St. Lucia,LCA,2020,179237.0
 St. Lucia,LCA,2019,178583.0
 St. Lucia,LCA,2018,177888.0
+St. Martin (French part),MAF,2023,0.0
 St. Martin (French part),MAF,2022,31791.0
 St. Martin (French part),MAF,2021,31948.0
 St. Martin (French part),MAF,2020,32553.0
 St. Martin (French part),MAF,2019,33121.0
 St. Martin (French part),MAF,2018,33852.0
+St. Vincent and the Grenadines,VCT,2023,0.0
 St. Vincent and the Grenadines,VCT,2022,103948.0
 St. Vincent and the Grenadines,VCT,2021,104332.0
 St. Vincent and the Grenadines,VCT,2020,104632.0
 St. Vincent and the Grenadines,VCT,2019,104924.0
 St. Vincent and the Grenadines,VCT,2018,105281.0
+Sudan,SDN,2023,0.0
 Sudan,SDN,2022,46874204.0
 Sudan,SDN,2021,45657202.0
 Sudan,SDN,2020,44440486.0
 Sudan,SDN,2019,43232093.0
 Sudan,SDN,2018,41999059.0
+Suriname,SUR,2023,0.0
 Suriname,SUR,2022,618040.0
 Suriname,SUR,2021,612985.0
 Suriname,SUR,2020,607065.0
 Suriname,SUR,2019,600301.0
 Suriname,SUR,2018,593715.0
+Sweden,SWE,2023,0.0
 Sweden,SWE,2022,10486941.0
 Sweden,SWE,2021,10415811.0
 Sweden,SWE,2020,10353442.0
 Sweden,SWE,2019,10278887.0
 Sweden,SWE,2018,10175214.0
+Switzerland,CHE,2023,0.0
 Switzerland,CHE,2022,8775760.0
 Switzerland,CHE,2021,8704546.0
 Switzerland,CHE,2020,8638167.0
 Switzerland,CHE,2019,8575280.0
 Switzerland,CHE,2018,8514329.0
+Syrian Arab Republic,SYR,2023,0.0
 Syrian Arab Republic,SYR,2022,22125249.0
 Syrian Arab Republic,SYR,2021,21324367.0
 Syrian Arab Republic,SYR,2020,20772595.0
 Syrian Arab Republic,SYR,2019,20098251.0
 Syrian Arab Republic,SYR,2018,19333463.0
+Tajikistan,TJK,2023,0.0
 Tajikistan,TJK,2022,9952787.0
 Tajikistan,TJK,2021,9750064.0
 Tajikistan,TJK,2020,9543207.0
 Tajikistan,TJK,2019,9337003.0
 Tajikistan,TJK,2018,9128132.0
+Tanzania,TZA,2023,0.0
 Tanzania,TZA,2022,65497748.0
 Tanzania,TZA,2021,63588334.0
 Tanzania,TZA,2020,61704518.0
 Tanzania,TZA,2019,59872579.0
 Tanzania,TZA,2018,58090443.0
+Thailand,THA,2023,0.0
 Thailand,THA,2022,71697030.0
 Thailand,THA,2021,71601103.0
 Thailand,THA,2020,71475664.0
 Thailand,THA,2019,71307763.0
 Thailand,THA,2018,71127802.0
+Timor-Leste,TLS,2023,0.0
 Timor-Leste,TLS,2022,1341296.0
 Timor-Leste,TLS,2021,1320942.0
 Timor-Leste,TLS,2020,1299995.0
 Timor-Leste,TLS,2019,1280438.0
 Timor-Leste,TLS,2018,1261845.0
+Togo,TGO,2023,0.0
 Togo,TGO,2022,8848699.0
 Togo,TGO,2021,8644829.0
 Togo,TGO,2020,8442580.0
 Togo,TGO,2019,8243094.0
 Togo,TGO,2018,8046679.0
+Tonga,TON,2023,0.0
 Tonga,TON,2022,106858.0
 Tonga,TON,2021,106017.0
 Tonga,TON,2020,105254.0
 Tonga,TON,2019,104951.0
 Tonga,TON,2018,105150.0
+Trinidad and Tobago,TTO,2023,0.0
 Trinidad and Tobago,TTO,2022,1531044.0
 Trinidad and Tobago,TTO,2021,1525663.0
 Trinidad and Tobago,TTO,2020,1518147.0
 Trinidad and Tobago,TTO,2019,1519955.0
 Trinidad and Tobago,TTO,2018,1504709.0
+Tunisia,TUN,2023,0.0
 Tunisia,TUN,2022,12356117.0
 Tunisia,TUN,2021,12262946.0
 Tunisia,TUN,2020,12161723.0
 Tunisia,TUN,2019,12049314.0
 Tunisia,TUN,2018,11933041.0
+Turkiye,TUR,2023,0.0
 Turkiye,TUR,2022,84979913.0
 Turkiye,TUR,2021,84147318.0
 Turkiye,TUR,2020,83384680.0
@@ -17011,66 +17437,79 @@ Turkiye,TUR,1963,29827877.0
 Turkiye,TUR,1962,29033647.0
 Turkiye,TUR,1961,28255002.0
 Turkiye,TUR,1960,27510980.0
+Turkmenistan,TKM,2023,0.0
 Turkmenistan,TKM,2022,6430770.0
 Turkmenistan,TKM,2021,6341855.0
 Turkmenistan,TKM,2020,6250438.0
 Turkmenistan,TKM,2019,6158420.0
 Turkmenistan,TKM,2018,6065066.0
+Turks and Caicos Islands,TCA,2023,0.0
 Turks and Caicos Islands,TCA,2022,45703.0
 Turks and Caicos Islands,TCA,2021,45114.0
 Turks and Caicos Islands,TCA,2020,44276.0
 Turks and Caicos Islands,TCA,2019,43080.0
 Turks and Caicos Islands,TCA,2018,41487.0
+Tuvalu,TUV,2023,0.0
 Tuvalu,TUV,2022,11312.0
 Tuvalu,TUV,2021,11204.0
 Tuvalu,TUV,2020,11069.0
 Tuvalu,TUV,2019,10956.0
 Tuvalu,TUV,2018,10865.0
+Uganda,UGA,2023,0.0
 Uganda,UGA,2022,47249585.0
 Uganda,UGA,2021,45853778.0
 Uganda,UGA,2020,44404611.0
 Uganda,UGA,2019,42949080.0
 Uganda,UGA,2018,41515395.0
+Ukraine,UKR,2023,0.0
 Ukraine,UKR,2022,38000000.0
 Ukraine,UKR,2021,43822901.0
 Ukraine,UKR,2020,44132049.0
 Ukraine,UKR,2019,44386203.0
 Ukraine,UKR,2018,44622518.0
+United Arab Emirates,ARE,2023,0.0
 United Arab Emirates,ARE,2022,9441129.0
 United Arab Emirates,ARE,2021,9365145.0
 United Arab Emirates,ARE,2020,9287289.0
 United Arab Emirates,ARE,2019,9211657.0
 United Arab Emirates,ARE,2018,9140169.0
+United Kingdom,GBR,2023,0.0
 United Kingdom,GBR,2022,66971395.0
 United Kingdom,GBR,2021,67026292.0
 United Kingdom,GBR,2020,67081234.0
 United Kingdom,GBR,2019,66836327.0
 United Kingdom,GBR,2018,66460344.0
+United States,USA,2023,0.0
 United States,USA,2022,333287557.0
 United States,USA,2021,332031554.0
 United States,USA,2020,331511512.0
 United States,USA,2019,328329953.0
 United States,USA,2018,326838199.0
+Uruguay,URY,2023,0.0
 Uruguay,URY,2022,3422794.0
 Uruguay,URY,2021,3426260.0
 Uruguay,URY,2020,3429086.0
 Uruguay,URY,2019,3428409.0
 Uruguay,URY,2018,3427042.0
+Uzbekistan,UZB,2023,0.0
 Uzbekistan,UZB,2022,35648100.0
 Uzbekistan,UZB,2021,34915100.0
 Uzbekistan,UZB,2020,34232050.0
 Uzbekistan,UZB,2019,33580350.0
 Uzbekistan,UZB,2018,32956100.0
+Vanuatu,VUT,2023,0.0
 Vanuatu,VUT,2022,326740.0
 Vanuatu,VUT,2021,319137.0
 Vanuatu,VUT,2020,311685.0
 Vanuatu,VUT,2019,304404.0
 Vanuatu,VUT,2018,297298.0
+"Venezuela, RB",VEN,2023,0.0
 "Venezuela, RB",VEN,2022,28301696.0
 "Venezuela, RB",VEN,2021,28199867.0
 "Venezuela, RB",VEN,2020,28490453.0
 "Venezuela, RB",VEN,2019,28971683.0
 "Venezuela, RB",VEN,2018,29825653.0
+Viet Nam,VNM,2023,0.0
 Viet Nam,VNM,2022,98186856.0
 Viet Nam,VNM,2021,97468029.0
 Viet Nam,VNM,2020,96648685.0
@@ -17134,53 +17573,31 @@ Viet Nam,VNM,1963,35526727.0
 Viet Nam,VNM,1962,34533889.0
 Viet Nam,VNM,1961,33621982.0
 Viet Nam,VNM,1960,32718461.0
+Virgin Islands (U.S.),VIR,2023,0.0
 Virgin Islands (U.S.),VIR,2022,105413.0
 Virgin Islands (U.S.),VIR,2021,105870.0
 Virgin Islands (U.S.),VIR,2020,106290.0
 Virgin Islands (U.S.),VIR,2019,106669.0
 Virgin Islands (U.S.),VIR,2018,107001.0
+West Bank and Gaza,PSE,2023,0.0
 West Bank and Gaza,PSE,2022,5043612.0
 West Bank and Gaza,PSE,2021,4922749.0
 West Bank and Gaza,PSE,2020,4803269.0
 West Bank and Gaza,PSE,2019,4685306.0
 West Bank and Gaza,PSE,2018,4569087.0
-West Bank and Gaza,PSE,2017,4454805.0
-West Bank and Gaza,PSE,2016,4367088.0
-West Bank and Gaza,PSE,2015,4270092.0
-West Bank and Gaza,PSE,2014,4173398.0
-West Bank and Gaza,PSE,2013,4076708.0
-West Bank and Gaza,PSE,2012,3979998.0
-West Bank and Gaza,PSE,2011,3882986.0
-West Bank and Gaza,PSE,2010,3786161.0
-West Bank and Gaza,PSE,2009,3689099.0
-West Bank and Gaza,PSE,2008,3591977.0
-West Bank and Gaza,PSE,2007,3494496.0
-West Bank and Gaza,PSE,2006,3406334.0
-West Bank and Gaza,PSE,2005,3320396.0
-West Bank and Gaza,PSE,2004,3236626.0
-West Bank and Gaza,PSE,2003,3154969.0
-West Bank and Gaza,PSE,2002,3075373.0
-West Bank and Gaza,PSE,2001,2997784.0
-West Bank and Gaza,PSE,2000,2922153.0
-West Bank and Gaza,PSE,1999,2848431.0
-West Bank and Gaza,PSE,1998,2776568.0
-West Bank and Gaza,PSE,1997,2706518.0
-West Bank and Gaza,PSE,1996,2587997.0
-West Bank and Gaza,PSE,1995,2474666.0
-West Bank and Gaza,PSE,1994,2366298.0
-West Bank and Gaza,PSE,1993,2262676.0
-West Bank and Gaza,PSE,1992,2163591.0
-West Bank and Gaza,PSE,1991,2068845.0
+"Yemen, Rep.",YEM,2023,0.0
 "Yemen, Rep.",YEM,2022,33696614.0
 "Yemen, Rep.",YEM,2021,32981641.0
 "Yemen, Rep.",YEM,2020,32284046.0
 "Yemen, Rep.",YEM,2019,31546691.0
 "Yemen, Rep.",YEM,2018,30790513.0
+Zambia,ZMB,2023,0.0
 Zambia,ZMB,2022,20017675.0
 Zambia,ZMB,2021,19473125.0
 Zambia,ZMB,2020,18927715.0
 Zambia,ZMB,2019,18380477.0
 Zambia,ZMB,2018,17835893.0
+Zimbabwe,ZWE,2023,0.0
 Zimbabwe,ZWE,2022,16320537.0
 Zimbabwe,ZWE,2021,15993524.0
 Zimbabwe,ZWE,2020,15669666.0
