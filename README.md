@@ -67,7 +67,7 @@ Berikut langkah-langkah untuk memproses setiap data:
 **Proses**:
    - Buatlah sebuah file DAG di Apache Airflow.
    - Jalankan DAG menggunakan airflow standalone di sistem operasi Linux.
-   - Konfigurasikan scheduler di Airflow untuk menjalankan proses ETL secara berkala.
+   - Untuk melihat hasilnya, buka 'localhost:8080' di web browser.
 
 ### Kesimpulan
 Proyek ini memungkinkan organisasi untuk memahami pola, tren, dan temuan penting dalam data dengan lebih baik melalui proses ETL yang komprehensif dan visualisasi data yang informatif.
