@@ -63,7 +63,7 @@ Berikut langkah-langkah untuk memproses setiap data:
    - Gunakan seaborn dan matplotlib untuk visualisasi data di Jupyter Notebook.
    - Gunakan plotly.express untuk visualisasi interaktif.
 
-### Langkah 6 : Process to Apache Airflow
+### Langkah 6 : Proses ke Apache Airflow
 **Proses**:
    - Buatlah sebuah file DAG di Apache Airflow.
    - Jalankan DAG menggunakan airflow standalone di sistem operasi Linux.
