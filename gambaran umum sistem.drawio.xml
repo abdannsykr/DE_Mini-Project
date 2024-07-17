@@ -1,436 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2024-07-17T07:46:07.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cOZbkG-vYkkhuAnZPUkG" version="24.6.5" type="google" pages="4">
-  <diagram name="Page-1" id="dna4w5dxknR-Bk6BhIxf">
-    <mxGraphModel dx="900" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-1" value="Automation Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="622" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-2" value="GREEVE APPLICATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="102" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-3" value="DATABASE&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1153" y="222" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-4" value="CLOUD LOGGING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1313" y="222" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-5" value="Extract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="342" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-6" value="Load Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="532" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-7" value="Transform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="432" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-8" value="Visualisasi Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="822" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-9" value="Analysis Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="722" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-5" target="3W4R6lkcWNhTtOlNQpMe-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1293" y="612" as="sourcePoint" />
-            <mxPoint x="1343" y="562" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-7" target="3W4R6lkcWNhTtOlNQpMe-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1292.41" y="692" as="sourcePoint" />
-            <mxPoint x="1292.41" y="732" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-6" target="3W4R6lkcWNhTtOlNQpMe-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1302.41" y="702" as="sourcePoint" />
-            <mxPoint x="1302.41" y="742" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1293" y="892" as="sourcePoint" />
-            <mxPoint x="1298" y="722" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1297.17" y="782" as="sourcePoint" />
-            <mxPoint x="1297" y="822" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-3" target="3W4R6lkcWNhTtOlNQpMe-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1173" y="742" as="sourcePoint" />
-            <mxPoint x="1223" y="692" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-4" target="3W4R6lkcWNhTtOlNQpMe-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1173" y="742" as="sourcePoint" />
-            <mxPoint x="1223" y="692" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-2" target="3W4R6lkcWNhTtOlNQpMe-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1173" y="472" as="sourcePoint" />
-            <mxPoint x="1223" y="422" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3W4R6lkcWNhTtOlNQpMe-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3W4R6lkcWNhTtOlNQpMe-2" target="3W4R6lkcWNhTtOlNQpMe-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1173" y="472" as="sourcePoint" />
-            <mxPoint x="1223" y="422" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="GG3XZB-ButMiTMFMZAm1" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="q4L_bHN_ZKv1McUQFOhZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="-980" width="600" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-887.5" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-795" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="379" y="-887.5" width="90" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="378" y="-795" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="378" y="-700" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-888.5" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-795" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-700" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-3" value="&lt;span lang=&quot;IN&quot; style=&quot;font-size: 14px; line-height: 115%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Data Preparation Phase&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="341" y="-967" width="136" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-4" value="&lt;span lang=&quot;IN&quot; style=&quot;line-height: 115%; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Data Analysis&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span lang=&quot;IN&quot; style=&quot;line-height: 115%; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Phase&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="552" y="-964" width="126" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;" edge="1" parent="1" source="5c1ZDd7lV95Kt9BMq--1-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="408" y="-740" as="sourcePoint" />
-            <mxPoint x="425" y="-870" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="216" y="-610" />
-              <mxPoint x="328" y="-610" />
-              <mxPoint x="328" y="-910" />
-              <mxPoint x="425" y="-910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;" edge="1" parent="1" source="5c1ZDd7lV95Kt9BMq--1-9" target="5c1ZDd7lV95Kt9BMq--1-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="408" y="-740" as="sourcePoint" />
-            <mxPoint x="638" y="-880" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="424" y="-570" />
-              <mxPoint x="528" y="-570" />
-              <mxPoint x="528" y="-730" />
-              <mxPoint x="528" y="-910" />
-              <mxPoint x="624" y="-910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;High Level Architecture&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="166" y="-870" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Extract Data From Database and Google Cloud Logging&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-868" width="108" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Set up Enviroment Apache Airflow for ETL flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="-780" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Transformasi Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="-780" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Load Data To Firebase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-682" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Automation Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="-870" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-11" value="Analisis Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="-780" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-12" value="Visualisasi Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="-682" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="183" y="-267.5" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="181.5" y="-174" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;" edge="1" parent="1" source="kdtk_iKL3oNnwA5RYwwT-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="-119" as="sourcePoint" />
-            <mxPoint x="436.5" y="-249" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="227.5" y="11" />
-              <mxPoint x="339.5" y="11" />
-              <mxPoint x="339.5" y="-289" />
-              <mxPoint x="436.5" y="-289" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="390.5" y="-266.5" width="90" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;" edge="1" parent="1" source="kdtk_iKL3oNnwA5RYwwT-18" target="kdtk_iKL3oNnwA5RYwwT-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="-119" as="sourcePoint" />
-            <mxPoint x="649.5" y="-259" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="435.5" y="51" />
-              <mxPoint x="539.5" y="51" />
-              <mxPoint x="539.5" y="-109" />
-              <mxPoint x="539.5" y="-289" />
-              <mxPoint x="635.5" y="-289" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="-174" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-26" value="High Level Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="179" y="-249" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-27" value="Extract Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="381.5" y="-247" width="108" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="-267.5" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-29" value="Transform Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385.5" y="-153" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kdtk_iKL3oNnwA5RYwwT-20" target="kdtk_iKL3oNnwA5RYwwT-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="636" y="75" />
-              <mxPoint x="120" y="75" />
-              <mxPoint x="120" y="-286" />
-              <mxPoint x="229" y="-286" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="-174" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-30" value="LOAD DATA FINAL TO FIREBASE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="386.5" y="-61" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-32" value="Analysis Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585.5" y="-247" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-33" value="Data Visualization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585.5" y="-153" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="-79" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-19" value="&lt;span lang=&quot;IN&quot; style=&quot;font-size: 14px; line-height: 115%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Data Preparation Phase&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="139" y="-964" width="136" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="5c1ZDd7lV95Kt9BMq--1-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5c1ZDd7lV95Kt9BMq--1-12" target="5c1ZDd7lV95Kt9BMq--1-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="-740" as="sourcePoint" />
-            <mxPoint x="400" y="-790" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="624" y="-540" />
-              <mxPoint x="440" y="-540" />
-              <mxPoint x="280" y="-540" />
-              <mxPoint x="140" y="-540" />
-              <mxPoint x="140" y="-630" />
-              <mxPoint x="140" y="-720" />
-              <mxPoint x="140" y="-810" />
-              <mxPoint x="140" y="-860" />
-              <mxPoint x="140" y="-910" />
-              <mxPoint x="180" y="-910" />
-              <mxPoint x="216" y="-910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-37" value="&lt;span lang=&quot;IN&quot; style=&quot;line-height: 115%; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Data Analysis Phase&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="544" y="-329" width="130" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-35" value="&lt;h2 style=&quot;margin-top: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot; lang=&quot;IN&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Project Planning Phase&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;rotation=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="128.5" y="-346" width="157" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-39" value="&lt;h2 style=&quot;margin-top: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Data Preparation Phase&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;rotation=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="334" y="-348" width="161" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Set up Enviroment Apache Airflow for ETL flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="177.5" y="-153" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kdtk_iKL3oNnwA5RYwwT-34" value="Load Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="381.5" y="-58" width="108" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7fZb4dTXrNdz-Gg15U_r" name="Page-3">
-    <mxGraphModel dx="1050" dy="1727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="-980" width="600" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-887.5" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-795" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="379" y="-887.5" width="90" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="378" y="-795" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="378" y="-700" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-888.5" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-795" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-700" width="92" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-10" value="&lt;span lang=&quot;IN&quot; style=&quot;font-size: 14px; line-height: 115%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Data Preparation Phase&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="341" y="-967" width="136" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-11" value="&lt;span lang=&quot;IN&quot; style=&quot;line-height: 115%; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Data Analysis&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span lang=&quot;IN&quot; style=&quot;line-height: 115%; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Phase&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="552" y="-964" width="126" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;" edge="1" parent="1" source="SZ5CM8_jPTz8SrbRBCzY-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="408" y="-740" as="sourcePoint" />
-            <mxPoint x="425" y="-870" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="216" y="-610" />
-              <mxPoint x="328" y="-610" />
-              <mxPoint x="328" y="-910" />
-              <mxPoint x="425" y="-910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;" edge="1" parent="1" source="SZ5CM8_jPTz8SrbRBCzY-6" target="SZ5CM8_jPTz8SrbRBCzY-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="408" y="-740" as="sourcePoint" />
-            <mxPoint x="638" y="-880" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="424" y="-570" />
-              <mxPoint x="528" y="-570" />
-              <mxPoint x="528" y="-730" />
-              <mxPoint x="528" y="-910" />
-              <mxPoint x="624" y="-910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;High Level Architecture&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="166" y="-870" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Extract Data From Database and Google Cloud Logging&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-868" width="108" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Set up Enviroment Apache Airflow for ETL flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="-780" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Transformasi Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="-780" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Load Data To Firebase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-682" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Automation Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="-870" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-20" value="Analisis Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="-780" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-21" value="Visualisasi Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="-682" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-22" value="&lt;span lang=&quot;IN&quot; style=&quot;font-size: 14px; line-height: 115%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Project Planning Phase&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="139" y="-964" width="136" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="SZ5CM8_jPTz8SrbRBCzY-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=92;exitDy=60.5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SZ5CM8_jPTz8SrbRBCzY-9" target="SZ5CM8_jPTz8SrbRBCzY-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="-740" as="sourcePoint" />
-            <mxPoint x="400" y="-790" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="624" y="-540" />
-              <mxPoint x="440" y="-540" />
-              <mxPoint x="280" y="-540" />
-              <mxPoint x="140" y="-540" />
-              <mxPoint x="140" y="-630" />
-              <mxPoint x="140" y="-720" />
-              <mxPoint x="140" y="-810" />
-              <mxPoint x="140" y="-860" />
-              <mxPoint x="140" y="-910" />
-              <mxPoint x="180" y="-910" />
-              <mxPoint x="216" y="-910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="je93MTuOO4Q_rA4_1TXD" name="Page-4">
-    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="WYJ2vXuIfPkzYkXQ3k-y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WYJ2vXuIfPkzYkXQ3k-y-1" target="WYJ2vXuIfPkzYkXQ3k-y-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WYJ2vXuIfPkzYkXQ3k-y-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="260" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WYJ2vXuIfPkzYkXQ3k-y-2" value="Define ETL FLOW" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WYJ2vXuIfPkzYkXQ3k-y-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="WYJ2vXuIfPkzYkXQ3k-y-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="410" as="sourcePoint" />
-            <mxPoint x="310" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WYJ2vXuIfPkzYkXQ3k-y-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="400" width="30" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#xa;&lt;uml:UseCaseDiagram xmlns:uml=&quot;http://www.omg.org/spec/UML/20161101&quot;&gt;&#xa;    &lt;uml:UseCaseDiagram.name&gt;Data Engineer Use Case&lt;/uml:UseCaseDiagram.name&gt;&#xa;    &#xa;    &lt;!-- Actors --&gt;&#xa;    &lt;uml:Actor id=&quot;actor1&quot; name=&quot;Data Engineer&quot;&gt;&#xa;        &lt;uml:Actor.name&gt;Data Engineer&lt;/uml:Actor.name&gt;&#xa;    &lt;/uml:Actor&gt;&#xa;&#xa;&#xa;    &lt;!-- Use Cases --&gt;&#xa;    &lt;uml:UseCase id=&quot;useCase1&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Design High-Level Architecture&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase2&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Set Up Environment&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase3&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Extract Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase4&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Transform Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase5&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Load Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase6&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Analyze Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase7&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Visualize Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;!-- Associations --&gt;&#xa;    &lt;uml:Association id=&quot;association1&quot; from=&quot;actor1&quot; to=&quot;useCase1&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association2&quot; from=&quot;actor1&quot; to=&quot;useCase2&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association3&quot; from=&quot;actor1&quot; to=&quot;useCase3&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association4&quot; from=&quot;actor1&quot; to=&quot;useCase4&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association5&quot; from=&quot;actor1&quot; to=&quot;useCase5&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association6&quot; from=&quot;actor1&quot; to=&quot;useCase6&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association7&quot; from=&quot;actor1&quot; to=&quot;useCase7&quot;/&gt;&#xa;    &#xa;&lt;/uml:UseCaseDiagram&gt;" link="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#xa;&lt;uml:UseCaseDiagram xmlns:uml=&quot;http://www.omg.org/spec/UML/20161101&quot;&gt;&#xa;    &lt;uml:UseCaseDiagram.name&gt;Data Engineer Use Case&lt;/uml:UseCaseDiagram.name&gt;&#xa;    &#xa;    &lt;!-- Actors --&gt;&#xa;    &lt;uml:Actor id=&quot;actor1&quot; name=&quot;Data Engineer&quot;&gt;&#xa;        &lt;uml:Actor.name&gt;Data Engineer&lt;/uml:Actor.name&gt;&#xa;    &lt;/uml:Actor&gt;&#xa;&#xa;&#xa;    &lt;!-- Use Cases --&gt;&#xa;    &lt;uml:UseCase id=&quot;useCase1&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Design High-Level Architecture&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase2&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Set Up Environment&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase3&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Extract Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase4&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Transform Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase5&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Load Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase6&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Analyze Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;uml:UseCase id=&quot;useCase7&quot;&gt;&#xa;        &lt;uml:UseCase.name&gt;Visualize Data&lt;/uml:UseCase.name&gt;&#xa;    &lt;/uml:UseCase&gt;&#xa;    &#xa;    &lt;!-- Associations --&gt;&#xa;    &lt;uml:Association id=&quot;association1&quot; from=&quot;actor1&quot; to=&quot;useCase1&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association2&quot; from=&quot;actor1&quot; to=&quot;useCase2&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association3&quot; from=&quot;actor1&quot; to=&quot;useCase3&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association4&quot; from=&quot;actor1&quot; to=&quot;useCase4&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association5&quot; from=&quot;actor1&quot; to=&quot;useCase5&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association6&quot; from=&quot;actor1&quot; to=&quot;useCase6&quot;/&gt;&#xa;    &lt;uml:Association id=&quot;association7&quot; from=&quot;actor1&quot; to=&quot;useCase7&quot;/&gt;&#xa;    &#xa;&lt;/uml:UseCaseDiagram&gt;" id="QPEPBaXfR2AhRbP3k3mE-1">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="560" y="200" width="510" height="730" as="geometry" />
-          </mxCell>
-        </UserObject>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+<uml:UseCaseDiagram xmlns:uml="http://www.omg.org/spec/UML/20161101">
+    <uml:UseCaseDiagram.name>Data Engineer Use Case</uml:UseCaseDiagram.name>
+    
+    <!-- Actors -->
+    <uml:Actor id="actor1" name="Data Engineer">
+        <uml:Actor.name>Data Engineer</uml:Actor.name>
+    </uml:Actor>
+
+    <!-- Use Cases -->
+    <uml:UseCase id="useCase1">
+        <uml:UseCase.name>Design High-Level Architecture</uml:UseCase.name>
+    </uml:UseCase>
+    
+    <uml:UseCase id="useCase2">
+        <uml:UseCase.name>Set Up Environment</uml:UseCase.name>
+    </uml:UseCase>
+    
+    <uml:UseCase id="useCase3">
+        <uml:UseCase.name>Extract Data</uml:UseCase.name>
+    </uml:UseCase>
+    
+    <uml:UseCase id="useCase4">
+        <uml:UseCase.name>Transform Data</uml:UseCase.name>
+    </uml:UseCase>
+    
+    <uml:UseCase id="useCase5">
+        <uml:UseCase.name>Load Data</uml:UseCase.name>
+    </uml:UseCase>
+    
+    <uml:UseCase id="useCase6">
+        <uml:UseCase.name>Analyze Data</uml:UseCase.name>
+    </uml:UseCase>
+    
+    <uml:UseCase id="useCase7">
+        <uml:UseCase.name>Visualize Data</uml:UseCase.name>
+    </uml:UseCase>
+    
+    <!-- Associations -->
+    <uml:Association id="association1" from="actor1" to="useCase1"/>
+    <uml:Association id="association2" from="actor1" to="useCase2"/>
+    <uml:Association id="association3" from="actor1" to="useCase3"/>
+    <uml:Association id="association4" from="actor1" to="useCase4"/>
+    <uml:Association id="association5" from="actor1" to="useCase5"/>
+    <uml:Association id="association6" from="actor1" to="useCase6"/>
+    <uml:Association id="association7" from="actor1" to="useCase7"/>
+    
+</uml:UseCaseDiagram>
